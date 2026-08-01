@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2000451928535577046",
+    "created_at": "2025-12-15T11:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T12:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000536043305767293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1661997159242420226",
+          "start": 0,
+          "username": "Conor___3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000536043305767293",
+    "in_reply_to_user_id": "1661997159242420226",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000534919534260494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Conor___3 ?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2000451928535577046",
+        "created_at": "2025-12-15T11:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T12:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000536043305767293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661997159242420226",
+              "start": 0,
+              "username": "Conor___3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000536043305767293",
+        "in_reply_to_user_id": "1661997159242420226",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000534919534260494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Conor___3 ?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661997159242420226",
+        "conversation_id": "2000451928535577046",
+        "created_at": "2025-12-15T11:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T12:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000534919534260494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000534919534260494",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000451928535577046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 看不起我们网络吃屎族？🫵😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 7,
+          "like_count": 569,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 796
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T07:26:34.000Z",
+        "description": "不爱任何国家，不爱任何人只爱我自己，谢谢。 不崇拜任何人，不盲信任何理论，质疑任何人，包括我自己，谢谢。",
+        "id": "1661997159242420226",
+        "location": "love愛amor Liebeحب miłość รัก ",
+        "name": "康纳Conor",
+        "pinned_tweet_id": "1754522051174637658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809436608581820416/BinnbGLg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 293,
+          "like_count": 21926,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 7534
+        },
+        "username": "Conor___3",
+        "verified": false
+      }
+    ]
+  }
+}

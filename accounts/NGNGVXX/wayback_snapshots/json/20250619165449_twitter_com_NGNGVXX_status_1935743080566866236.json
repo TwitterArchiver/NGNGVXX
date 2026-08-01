@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935742968725651456"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "1935743080566866236",
+    "created_at": "2025-06-19T16:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T17:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935743080566866236"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "le"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "les"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "女同"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/br5auFYtBt",
+          "end": 73,
+          "expanded_url": "https://x.com/NGNGVXX/status/1935743080566866236/photo/1",
+          "media_key": "3_1935742968725651456",
+          "start": 50,
+          "url": "https://t.co/br5auFYtBt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935743080566866236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "隔着人群远远看到你 就想啊 以前这个人和我这么好 怎么突然就什么都不是了 #le #les #女同 https://t.co/br5auFYtBt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2519,
+        "media_key": "3_1935742968725651456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt0j-VtaQAAefWe.jpg",
+        "width": 1679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935742968725651456"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "1935743080566866236",
+        "created_at": "2025-06-19T16:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T17:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935743080566866236"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "le"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "les"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "女同"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/br5auFYtBt",
+              "end": 73,
+              "expanded_url": "https://x.com/NGNGVXX/status/1935743080566866236/photo/1",
+              "media_key": "3_1935742968725651456",
+              "start": 50,
+              "url": "https://t.co/br5auFYtBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935743080566866236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隔着人群远远看到你 就想啊 以前这个人和我这么好 怎么突然就什么都不是了 #le #les #女同 https://t.co/br5auFYtBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 7,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 402
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

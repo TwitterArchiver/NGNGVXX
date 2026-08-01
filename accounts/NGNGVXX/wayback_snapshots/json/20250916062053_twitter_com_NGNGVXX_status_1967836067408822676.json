@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1909834927912202390",
+    "created_at": "2025-09-16T06:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967836067408822676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513482607887282179",
+          "start": 0,
+          "username": "shushu030101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967836067408822676",
+    "in_reply_to_user_id": "1513482607887282179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963652420942364849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shushu030101 并没有呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1909834927912202390",
+        "created_at": "2025-09-16T06:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967836067408822676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513482607887282179",
+              "start": 0,
+              "username": "shushu030101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967836067408822676",
+        "in_reply_to_user_id": "1513482607887282179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963652420942364849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shushu030101 并没有呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513482607887282179",
+        "conversation_id": "1909834927912202390",
+        "created_at": "2025-09-04T17:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T18:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963652420942364849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963652420942364849",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909834927912202390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 宝宝心情不好嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 6,
+          "like_count": 522,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 431
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T11:42:41.000Z",
+        "description": "0.5 女孩子 19岁！🥺 \n（不照片不视频不语音）熟了自然会发 谢谢！ \n正常聊天非常欢迎 如果是瑟瑟还希望带着尊重私聊（没回就是禁言了）",
+        "id": "1513482607887282179",
+        "location": "没门槛！",
+        "name": "鼠鼠",
+        "pinned_tweet_id": "1826246085045887382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816465131003641856/Yf-_QFuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 53,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 51
+        },
+        "username": "shushu030101",
+        "verified": false
+      }
+    ]
+  }
+}

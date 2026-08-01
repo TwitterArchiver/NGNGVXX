@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1995175804750438544",
+    "created_at": "2025-11-30T16:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995175804750438544"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995175804750438544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 44,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特别喜欢那句 爱因有差别而变的厚重 意思是说 如果这个人很喜欢你 他对你肯定是与众不同的 跟别人不一样 而这份喜欢在你心里 会有很重的一份份量 比如我一直都有厌蠢症 但是到你那儿我就会觉得 你这样子好可爱啊 有句歌词可以很好的解释 这句话就是 离开你 谁还把我当小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1995175804750438544",
+        "created_at": "2025-11-30T16:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995175804750438544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995175804750438544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别喜欢那句 爱因有差别而变的厚重 意思是说 如果这个人很喜欢你 他对你肯定是与众不同的 跟别人不一样 而这份喜欢在你心里 会有很重的一份份量 比如我一直都有厌蠢症 但是到你那儿我就会觉得 你这样子好可爱啊 有句歌词可以很好的解释 这句话就是 离开你 谁还把我当小孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 7,
+          "like_count": 536,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 722
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

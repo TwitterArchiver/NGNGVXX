@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1985561345996308890",
+    "created_at": "2025-11-04T15:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T16:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985728199809245332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888894745801359360",
+          "start": 0,
+          "username": "yao_bu89113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985728199809245332",
+    "in_reply_to_user_id": "1888894745801359360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985727886309917152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yao_bu89113 谢谢😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1985561345996308890",
+        "created_at": "2025-11-04T15:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T16:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985728199809245332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888894745801359360",
+              "start": 0,
+              "username": "yao_bu89113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985728199809245332",
+        "in_reply_to_user_id": "1888894745801359360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985727886309917152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yao_bu89113 谢谢😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888894745801359360",
+        "conversation_id": "1985561345996308890",
+        "created_at": "2025-11-04T15:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T16:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985727886309917152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985727886309917152",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985561345996308890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我好认同😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 7,
+          "like_count": 538,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 587
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T10:16:27.000Z",
+        "description": "腻们耗",
+        "id": "1888894745801359360",
+        "name": "遥不可及",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888896051794370562/Zwqi3GVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "yao_bu89113",
+        "verified": false
+      }
+    ]
+  }
+}

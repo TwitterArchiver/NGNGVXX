@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043621767101739428",
+    "created_at": "2026-04-14T04:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043910723013878195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2015175654271332352",
+          "start": 0,
+          "username": "sxc_promax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043910723013878195",
+    "in_reply_to_user_id": "2015175654271332352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043798208430874750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxc_promax 关你什么事？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043621767101739428",
+        "created_at": "2026-04-14T04:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043910723013878195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2015175654271332352",
+              "start": 0,
+              "username": "sxc_promax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043910723013878195",
+        "in_reply_to_user_id": "2015175654271332352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043798208430874750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxc_promax 关你什么事？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015175654271332352",
+        "conversation_id": "2043621767101739428",
+        "created_at": "2026-04-13T21:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T22:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043798208430874750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043798208430874750",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043621767101739428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 有自知之明就对了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8279,
+          "following_count": 5,
+          "like_count": 1010,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1894
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T21:31:39.000Z",
+        "description": "什么是政治立场，我作为一个人只有是非观立场\n如果你问我关于立场以外的事，我的回答是STFU",
+        "id": "2015175654271332352",
+        "location": "Twitter",
+        "name": "Charcoal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043618627866529792/UuUPeQ5H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 2,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "sxc_promax",
+        "verified": false
+      }
+    ]
+  }
+}

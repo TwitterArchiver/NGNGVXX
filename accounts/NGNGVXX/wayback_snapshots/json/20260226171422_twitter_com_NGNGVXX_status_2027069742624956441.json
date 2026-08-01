@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2027069742624956441",
+    "created_at": "2026-02-26T17:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T18:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027069742624956441"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027069742624956441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现放假的那段日子，我压根没有想要网购想买东西的冲动，原来人在状态稳定，精神富足情况下根本不需要买那么多没用小玩意去填满自己的。一到上班的时候就开始买这买那了，只是为了消解我的情绪。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2027069742624956441",
+        "created_at": "2026-02-26T17:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027069742624956441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027069742624956441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现放假的那段日子，我压根没有想要网购想买东西的冲动，原来人在状态稳定，精神富足情况下根本不需要买那么多没用小玩意去填满自己的。一到上班的时候就开始买这买那了，只是为了消解我的情绪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7254,
+          "following_count": 5,
+          "like_count": 973,
+          "listed_count": 18,
+          "media_count": 84,
+          "tweet_count": 1447
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

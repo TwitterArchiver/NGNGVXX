@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1999689140540178789",
+    "created_at": "2025-12-13T15:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T16:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999870402265489797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261624588770762753",
+          "start": 0,
+          "username": "DudDuoduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999870402265489797",
+    "in_reply_to_user_id": "1261624588770762753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999869285553070257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DudDuoduo 谁知道我是一位没有正经谈过恋爱的女孩子呀😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1999689140540178789",
+        "created_at": "2025-12-13T15:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999870402265489797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261624588770762753",
+              "start": 0,
+              "username": "DudDuoduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999870402265489797",
+        "in_reply_to_user_id": "1261624588770762753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999869285553070257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DudDuoduo 谁知道我是一位没有正经谈过恋爱的女孩子呀😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261624588770762753",
+        "conversation_id": "1999689140540178789",
+        "created_at": "2025-12-13T15:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999869285553070257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999869285553070257",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999689140540178789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 老师你虽然32号才恋爱，但你很会！谈！恋爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 7,
+          "like_count": 548,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 779
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T11:48:46.000Z",
+        "description": "",
+        "id": "1261624588770762753",
+        "name": "duoduo🍖",
+        "pinned_tweet_id": "1992284083674898570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977791901643485184/74Z2Xmid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 1881,
+          "like_count": 11196,
+          "listed_count": 13,
+          "media_count": 2324,
+          "tweet_count": 14236
+        },
+        "username": "DudDuoduo",
+        "verified": false
+      }
+    ]
+  }
+}

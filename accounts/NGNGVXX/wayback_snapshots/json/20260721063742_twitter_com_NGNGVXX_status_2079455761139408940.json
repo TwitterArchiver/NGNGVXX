@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2079190312233382050",
+    "created_at": "2026-07-21T06:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079455761139408940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1815782904284450816",
+          "start": 0,
+          "username": "lidng387872"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079455761139408940",
+    "in_reply_to_user_id": "1815782904284450816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079422480251576792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidng387872 你脑子没发育好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2079190312233382050",
+        "created_at": "2026-07-21T06:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079455761139408940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1815782904284450816",
+              "start": 0,
+              "username": "lidng387872"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079455761139408940",
+        "in_reply_to_user_id": "1815782904284450816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079422480251576792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidng387872 你脑子没发育好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815782904284450816",
+        "conversation_id": "2079190312233382050",
+        "created_at": "2026-07-21T04:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079422480251576792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079422480251576792",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079190312233382050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 支持保护狗权！\n狗咬死人，狂犬病毒死人，年年发生，年年有，还呈上升趋势发展！\n问，恶狗咬死人\n狗主任该判死刑还是无期！？\n被狗咬死的人的人权呢？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10603,
+          "following_count": 6,
+          "like_count": 1214,
+          "listed_count": 30,
+          "media_count": 150,
+          "tweet_count": 3105
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T16:16:13.000Z",
+        "description": "",
+        "id": "1815782904284450816",
+        "name": "刘侗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815782985704353792/-nR89wMn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 17,
+          "like_count": 3018,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "lidng387872",
+        "verified": false
+      }
+    ]
+  }
+}

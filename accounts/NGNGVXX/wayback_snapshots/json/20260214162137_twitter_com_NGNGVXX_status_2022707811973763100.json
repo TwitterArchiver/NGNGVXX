@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2022707811973763100",
+    "created_at": "2026-02-14T16:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T17:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022707811973763100"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022707811973763100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有过年期间做加价美甲溢价烫染剪天价假睫毛的义务，没有成为时髦小姨有钱小姑的义务，又没结婚，在外打工又没挣几个钱，凭啥给小辈包红包，可以不回老家，不包红包，可以装穷，可以抢不到回家车票躲在出租屋睡几天大头觉。谁嘴上心疼都不好使，自己爽了就行了，没有在老家同学面前衣锦白夜行的义务。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2022707811973763100",
+        "created_at": "2026-02-14T16:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022707811973763100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022707811973763100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有过年期间做加价美甲溢价烫染剪天价假睫毛的义务，没有成为时髦小姨有钱小姑的义务，又没结婚，在外打工又没挣几个钱，凭啥给小辈包红包，可以不回老家，不包红包，可以装穷，可以抢不到回家车票躲在出租屋睡几天大头觉。谁嘴上心疼都不好使，自己爽了就行了，没有在老家同学面前衣锦白夜行的义务。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6953,
+          "following_count": 5,
+          "like_count": 944,
+          "listed_count": 17,
+          "media_count": 73,
+          "tweet_count": 1362
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

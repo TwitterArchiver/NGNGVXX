@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043362128741192012",
+    "created_at": "2026-04-12T17:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043384703823315064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1992703228291563520",
+          "start": 0,
+          "username": "Jerryxuj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043384703823315064",
+    "in_reply_to_user_id": "1992703228291563520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043363559518683600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jerryxuj0 实在没理解你在这贴文的那一方面解读出女生把自己当成工具了？是你的理解出了问题还是我的表达能力不行？🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-12T17:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043384703823315064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1992703228291563520",
+              "start": 0,
+              "username": "Jerryxuj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043384703823315064",
+        "in_reply_to_user_id": "1992703228291563520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043363559518683600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jerryxuj0 实在没理解你在这贴文的那一方面解读出女生把自己当成工具了？是你的理解出了问题还是我的表达能力不行？🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992703228291563520",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-12T16:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043363559518683600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043363559518683600",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043362128741192012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 原来你自己把自己当成工具了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8208,
+          "following_count": 5,
+          "like_count": 995,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1863
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T21:15:19.000Z",
+        "description": "",
+        "id": "1992703228291563520",
+        "name": "Jerry",
+        "pinned_tweet_id": "2035451367410516330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992703875703345153/1rx0kJbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 382,
+          "like_count": 1075,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 2199
+        },
+        "username": "Jerryxuj0",
+        "verified": false
+      }
+    ]
+  }
+}

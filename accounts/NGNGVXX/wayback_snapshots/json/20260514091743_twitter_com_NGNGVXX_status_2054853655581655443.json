@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2054538176501555367",
+    "created_at": "2026-05-14T09:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054853655581655443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014026923522007042",
+          "start": 0,
+          "username": "ai2015051453657"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054853655581655443",
+    "in_reply_to_user_id": "2014026923522007042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054846759223103560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ai2015051453657 我就这种心态过完我的初中高中和大学，把分数控制在及格线上就好啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2054538176501555367",
+        "created_at": "2026-05-14T09:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054853655581655443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014026923522007042",
+              "start": 0,
+              "username": "ai2015051453657"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054853655581655443",
+        "in_reply_to_user_id": "2014026923522007042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054846759223103560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ai2015051453657 我就这种心态过完我的初中高中和大学，把分数控制在及格线上就好啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014026923522007042",
+        "conversation_id": "2054538176501555367",
+        "created_at": "2026-05-14T08:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054846759223103560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054846759223103560",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054538176501555367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 真有这心态早就成大师了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9426,
+          "following_count": 5,
+          "like_count": 1160,
+          "listed_count": 27,
+          "media_count": 107,
+          "tweet_count": 2285
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T17:27:02.000Z",
+        "description": "Undergraduate @HUST EIC 28fall ADHD infp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 14,
+                "username": "HUST"
+              }
+            ]
+          }
+        },
+        "id": "2014026923522007042",
+        "location": "Wuhan",
+        "name": "Addicted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054291341539196928/9aDQvV2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "ai2015051453657",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2023042992630841751",
+    "created_at": "2026-02-15T14:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T15:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023042992630841751"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "MergeBoss",
+          "probability": 0.5282,
+          "start": 25,
+          "type": "Organization"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "s.lazada.com.my/s.ww8V6",
+          "end": 77,
+          "expanded_url": "https://s.lazada.com.my/s.ww8V6",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/2023043005654155264/PhIVoURG?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2023043005654155264/PhIVoURG?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 54,
+          "status": 200,
+          "title": "I'm getting free Cash on MergeBoss—want to join me?",
+          "unwound_url": "https://s.lazada.com.my/s.ww8V6",
+          "url": "https://t.co/4mOrjblR4g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023042992630841751",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I'm getting free Cash on MergeBoss—want to join me? | https://t.co/4mOrjblR4g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2023042992630841751",
+        "created_at": "2026-02-15T14:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023042992630841751"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "MergeBoss",
+              "probability": 0.5282,
+              "start": 25,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "s.lazada.com.my/s.ww8V6",
+              "end": 77,
+              "expanded_url": "https://s.lazada.com.my/s.ww8V6",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2023043005654155264/PhIVoURG?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2023043005654155264/PhIVoURG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "I'm getting free Cash on MergeBoss—want to join me?",
+              "unwound_url": "https://s.lazada.com.my/s.ww8V6",
+              "url": "https://t.co/4mOrjblR4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023042992630841751",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I'm getting free Cash on MergeBoss—want to join me? | https://t.co/4mOrjblR4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7007,
+          "following_count": 5,
+          "like_count": 945,
+          "listed_count": 16,
+          "media_count": 73,
+          "tweet_count": 1372
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

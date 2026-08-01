@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2039633086410047921",
+    "created_at": "2026-04-04T07:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T08:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040323793483362611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862735462621904896",
+          "start": 0,
+          "username": "yan_jiu38143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040323793483362611",
+    "in_reply_to_user_id": "1862735462621904896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040321032792445225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan_jiu38143 所以这贴文想表达的是这个社会对女性而言就是一场巨大的煤气灯效应。近期内娱发疯代表人物，赵露思、李明德。赵露思的发疯其实是带有目地性的，就是和银河酷鱼解约嘛，而李明德则是经典的纯发疯把自己作没的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2039633086410047921",
+        "created_at": "2026-04-04T07:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040323793483362611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862735462621904896",
+              "start": 0,
+              "username": "yan_jiu38143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040323793483362611",
+        "in_reply_to_user_id": "1862735462621904896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040321032792445225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan_jiu38143 所以这贴文想表达的是这个社会对女性而言就是一场巨大的煤气灯效应。近期内娱发疯代表人物，赵露思、李明德。赵露思的发疯其实是带有目地性的，就是和银河酷鱼解约嘛，而李明德则是经典的纯发疯把自己作没的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862735462621904896",
+        "conversation_id": "2039633086410047921",
+        "created_at": "2026-04-04T06:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040321032792445225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            },
+            {
+              "end": 21,
+              "id": "1929973594030759936",
+              "start": 9,
+              "username": "Grok1379301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040321032792445225",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040060330370646512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX @Grok1379301 不对，他当时不也被说是内娱活人真性情吗，火了几天涨了几百万粉，结果后面爆出来砸车骂人给蹲进去了才凉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8201,
+          "following_count": 5,
+          "like_count": 990,
+          "listed_count": 23,
+          "media_count": 101,
+          "tweet_count": 1793
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T05:48:46.000Z",
+        "description": "",
+        "id": "1862735462621904896",
+        "name": "今天想吃关东煮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862746815671496704/M83gK8Ee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 48,
+          "like_count": 3391,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 830
+        },
+        "username": "yan_jiu38143",
+        "verified": false
+      }
+    ]
+  }
+}

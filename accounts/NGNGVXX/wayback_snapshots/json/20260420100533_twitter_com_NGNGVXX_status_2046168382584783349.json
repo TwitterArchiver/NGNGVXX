@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2046168382584783349",
+    "created_at": "2026-04-20T10:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T11:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046168382584783349"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046168382584783349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "verified",
+    "text": "真的，如果你不指望别人为你撑腰，不仰仗他人的施舍与成全，那根本不需要把自己的人生的底气依附在别人身上更没必要把别人的闲言碎语太当回事。那些随意的指点、刻薄的评判轻飘飘的否定，都不过是他们困在自己的认知里，发出的浅薄声音罢了，那是她们的课题，并不是你的。你人生的唯一主角，是你自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2046168382584783349",
+        "created_at": "2026-04-20T10:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046168382584783349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046168382584783349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "verified",
+        "text": "真的，如果你不指望别人为你撑腰，不仰仗他人的施舍与成全，那根本不需要把自己的人生的底气依附在别人身上更没必要把别人的闲言碎语太当回事。那些随意的指点、刻薄的评判轻飘飘的否定，都不过是他们困在自己的认知里，发出的浅薄声音罢了，那是她们的课题，并不是你的。你人生的唯一主角，是你自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8511,
+          "following_count": 5,
+          "like_count": 1055,
+          "listed_count": 23,
+          "media_count": 103,
+          "tweet_count": 2023
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

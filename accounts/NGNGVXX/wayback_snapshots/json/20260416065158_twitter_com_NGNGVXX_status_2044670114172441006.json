@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2044630519279911047",
+    "created_at": "2026-04-16T06:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T07:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044670114172441006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979304917652377601",
+          "start": 0,
+          "username": "anchen2077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044670114172441006",
+    "in_reply_to_user_id": "1979304917652377601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044665068684788162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anchen2077 不可以这样说你自己的妈妈哦，她听到会伤心的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2044630519279911047",
+        "created_at": "2026-04-16T06:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044670114172441006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979304917652377601",
+              "start": 0,
+              "username": "anchen2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044670114172441006",
+        "in_reply_to_user_id": "1979304917652377601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044665068684788162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anchen2077 不可以这样说你自己的妈妈哦，她听到会伤心的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979304917652377601",
+        "conversation_id": "2044630519279911047",
+        "created_at": "2026-04-16T06:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044665068684788162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044665068684788162",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044630519279911047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 你妈是个母狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8357,
+          "following_count": 5,
+          "like_count": 1051,
+          "listed_count": 22,
+          "media_count": 101,
+          "tweet_count": 1986
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T21:54:07.000Z",
+        "description": "",
+        "id": "1979304917652377601",
+        "name": "xyz.963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979304979484614657/Bt05uURO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 164,
+          "like_count": 3587,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 349
+        },
+        "username": "anchen2077",
+        "verified": false
+      }
+    ]
+  }
+}

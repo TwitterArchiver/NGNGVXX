@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1946552318109090229",
+    "created_at": "2025-07-19T12:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T13:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946552318109090229"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1946552318109090229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讲真的 我觉得情侣之间就是要非常了解 两个人都要敞开心扉去聊聊个人经历 聊原生家庭 聊消费观世界观价值观人生观 谈了又谈磨合再磨合 互相撕开对方丑陋的阴暗的一面 这样才能真正在一起 如果只是每天表达爱意 却闭口不谈自己不谈怎么处理问题 那只会让我觉得在演戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1946552318109090229",
+        "created_at": "2025-07-19T12:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T13:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946552318109090229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946552318109090229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讲真的 我觉得情侣之间就是要非常了解 两个人都要敞开心扉去聊聊个人经历 聊原生家庭 聊消费观世界观价值观人生观 谈了又谈磨合再磨合 互相撕开对方丑陋的阴暗的一面 这样才能真正在一起 如果只是每天表达爱意 却闭口不谈自己不谈怎么处理问题 那只会让我觉得在演戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 6,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 419
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2005323025873588243",
+    "created_at": "2025-12-30T03:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T04:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005843490068988391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756654894428426240",
+          "start": 0,
+          "username": "bapanwanli0415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005843490068988391",
+    "in_reply_to_user_id": "1756654894428426240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005672855338635609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bapanwanli0415 不爱看就别看！建议屏蔽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2005323025873588243",
+        "created_at": "2025-12-30T03:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T04:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005843490068988391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756654894428426240",
+              "start": 0,
+              "username": "bapanwanli0415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005843490068988391",
+        "in_reply_to_user_id": "1756654894428426240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005672855338635609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bapanwanli0415 不爱看就别看！建议屏蔽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756654894428426240",
+        "conversation_id": "2005323025873588243",
+        "created_at": "2025-12-29T16:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T17:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005672855338635609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005672855338635609",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005323025873588243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 32號就談戀愛你以為你很牛嗎？憑什麼一直針對我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3013,
+          "following_count": 6,
+          "like_count": 731,
+          "listed_count": 10,
+          "media_count": 49,
+          "tweet_count": 886
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T12:23:06.000Z",
+        "description": "碎碎念用",
+        "id": "1756654894428426240",
+        "name": "4i太狠老公變男同的那個雨夜",
+        "pinned_tweet_id": "1996246702316298579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996245582256738304/7bjFCcHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 116,
+          "like_count": 7842,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 314
+        },
+        "username": "bapanwanli0415",
+        "verified": false
+      }
+    ]
+  }
+}

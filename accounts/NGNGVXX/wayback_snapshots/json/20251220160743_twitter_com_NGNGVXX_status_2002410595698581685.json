@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2001855255009726973",
+    "created_at": "2025-12-20T16:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T17:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002410595698581685"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "Gesha",
+          "probability": 0.525,
+          "start": 11,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1455069879527112704",
+          "start": 0,
+          "username": "donotokwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002410595698581685",
+    "in_reply_to_user_id": "1455069879527112704",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002407104787661153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donotokwq Gesha"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2001855255009726973",
+        "created_at": "2025-12-20T16:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002410595698581685"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Gesha",
+              "probability": 0.525,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1455069879527112704",
+              "start": 0,
+              "username": "donotokwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002410595698581685",
+        "in_reply_to_user_id": "1455069879527112704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002407104787661153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donotokwq Gesha"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455069879527112704",
+        "conversation_id": "2001855255009726973",
+        "created_at": "2025-12-20T15:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002407104787661153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002407104787661153",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002406824767824022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 巴西哥伦比亚非洲东南亚的一些豆子都可以啊，你推荐个不劣质的嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 7,
+          "like_count": 651,
+          "listed_count": 6,
+          "media_count": 46,
+          "tweet_count": 808
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T07:11:18.000Z",
+        "description": "那是极度高贵又极度危险的行为",
+        "id": "1455069879527112704",
+        "name": "Sen",
+        "pinned_tweet_id": "1961001188616188347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970897388815736834/P-LA7rhc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 28,
+          "like_count": 1408,
+          "listed_count": 9,
+          "media_count": 78,
+          "tweet_count": 1929
+        },
+        "username": "donotokwq",
+        "verified": false
+      }
+    ]
+  }
+}

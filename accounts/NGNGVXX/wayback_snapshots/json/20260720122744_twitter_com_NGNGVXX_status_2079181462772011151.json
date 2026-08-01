@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079181453339066369"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2079181462772011151",
+    "created_at": "2026-07-20T12:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079181462772011151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6QFWdkl4MU",
+          "end": 34,
+          "expanded_url": "https://x.com/NGNGVXX/status/2079181462772011151/photo/1",
+          "media_key": "3_2079181453339066369",
+          "start": 11,
+          "url": "https://t.co/6QFWdkl4MU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079181462772011151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "弃医从什么都很有干劲 https://t.co/6QFWdkl4MU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1274,
+        "media_key": "3_2079181453339066369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq8hA3bAAEMFGZ.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079181453339066369"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2079181462772011151",
+        "created_at": "2026-07-20T12:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079181462772011151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6QFWdkl4MU",
+              "end": 34,
+              "expanded_url": "https://x.com/NGNGVXX/status/2079181462772011151/photo/1",
+              "media_key": "3_2079181453339066369",
+              "start": 11,
+              "url": "https://t.co/6QFWdkl4MU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079181462772011151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "弃医从什么都很有干劲 https://t.co/6QFWdkl4MU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10594,
+          "following_count": 6,
+          "like_count": 1206,
+          "listed_count": 30,
+          "media_count": 150,
+          "tweet_count": 3083
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

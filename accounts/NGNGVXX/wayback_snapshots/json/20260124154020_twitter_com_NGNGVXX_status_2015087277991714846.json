@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015087267094654977"
+      ]
+    },
+    "author_id": "2363856960",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015087277991714846",
+    "created_at": "2026-01-24T15:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015087277991714846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dr29BcJNeo",
+          "end": 27,
+          "expanded_url": "https://x.com/NGNGVXX/status/2015087277991714846/photo/1",
+          "media_key": "3_2015087267094654977",
+          "start": 4,
+          "url": "https://t.co/dr29BcJNeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015087277991714846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱你！ https://t.co/dr29BcJNeo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1408,
+        "media_key": "3_2015087267094654977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_cHMWqW8AEt-MW.jpg",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015087267094654977"
+          ]
+        },
+        "author_id": "2363856960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015087277991714846",
+        "created_at": "2026-01-24T15:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015087277991714846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dr29BcJNeo",
+              "end": 27,
+              "expanded_url": "https://x.com/NGNGVXX/status/2015087277991714846/photo/1",
+              "media_key": "3_2015087267094654977",
+              "start": 4,
+              "url": "https://t.co/dr29BcJNeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015087277991714846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱你！ https://t.co/dr29BcJNeo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5615,
+          "following_count": 5,
+          "like_count": 918,
+          "listed_count": 13,
+          "media_count": 60,
+          "tweet_count": 1154
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

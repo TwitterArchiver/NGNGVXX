@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2001855255009726973",
+    "created_at": "2025-12-20T04:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T05:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002239076616028596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546478841765408768",
+          "start": 0,
+          "username": "EthenShen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002239076616028596",
+    "in_reply_to_user_id": "1546478841765408768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002238607776686395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EthenShen 骑车？你咋不走路呢？要省就呆在家哪都别去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2001855255009726973",
+        "created_at": "2025-12-20T04:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002239076616028596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546478841765408768",
+              "start": 0,
+              "username": "EthenShen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002239076616028596",
+        "in_reply_to_user_id": "1546478841765408768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002238607776686395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EthenShen 骑车？你咋不走路呢？要省就呆在家哪都别去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546478841765408768",
+        "conversation_id": "2001855255009726973",
+        "created_at": "2025-12-20T04:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002238607776686395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002238607776686395",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002237129313915048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 骑车去酒吧，该省的省，该花的花。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 7,
+          "like_count": 639,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 802
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T12:58:58.000Z",
+        "description": "採用經絡養生消除肺結節＆帶狀疱疹後遺症疼痛。",
+        "id": "1546478841765408768",
+        "name": "缠来禅去",
+        "pinned_tweet_id": "1620466042333175808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973753876278018050/JYm8jtV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4614,
+          "following_count": 3109,
+          "like_count": 59772,
+          "listed_count": 14,
+          "media_count": 1956,
+          "tweet_count": 86711
+        },
+        "username": "EthenShen",
+        "verified": false
+      }
+    ]
+  }
+}

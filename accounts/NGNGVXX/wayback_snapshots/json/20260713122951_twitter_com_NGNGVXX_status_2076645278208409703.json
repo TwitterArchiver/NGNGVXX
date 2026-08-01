@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2076529303714762754",
+    "created_at": "2026-07-13T12:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076645278208409703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1986834646706102277",
+          "start": 0,
+          "username": "cwllife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076645278208409703",
+    "in_reply_to_user_id": "1986834646706102277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076644586764845467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cwllife 你的父亲真的非常疼爱你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2076529303714762754",
+        "created_at": "2026-07-13T12:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076645278208409703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1986834646706102277",
+              "start": 0,
+              "username": "cwllife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076645278208409703",
+        "in_reply_to_user_id": "1986834646706102277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076644586764845467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cwllife 你的父亲真的非常疼爱你们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986834646706102277",
+        "conversation_id": "2076529303714762754",
+        "created_at": "2026-07-13T12:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076644586764845467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076644586764845467",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我父亲在中建 全国各地跑 只有过年能回家，高一下学期的时候 3月底 我父亲突然离世了，一点预兆都没有，后来我仔细想了想，他在过年的时候回来给家里添置了好多物件，给我和我妈买了好多好多我们想要的东西，可能他那时候就知道自己要撑不住了，但他从没和我们提过一句，他走之后单位补偿了四五十万 也是这笔钱支撑我读完大学到现在经济独立，可以说没有我父亲就没有现在的我🥲"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076529303714762754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我父亲在中建 全国各地跑 只有过年能回家，高一下学期的时候 3月底 我父亲突然离世了，一点预兆都没有，后来我仔细想了想，他在过年的时候回来给家里添置了好多物件，给我和我妈买了好多好多我们想要的东西，可能他那时候就知道自己要撑不住了，但他从没和我们提过一句，他走之后单位补偿了四五十万"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10477,
+          "following_count": 6,
+          "like_count": 1203,
+          "listed_count": 29,
+          "media_count": 145,
+          "tweet_count": 2976
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:34:41.000Z",
+        "description": "希望能够平静地过完一生",
+        "id": "1986834646706102277",
+        "location": "who.is",
+        "name": "ibz0950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986834701865435136/7NBN4LsJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 41,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "cwllife",
+        "verified": true
+      }
+    ]
+  }
+}

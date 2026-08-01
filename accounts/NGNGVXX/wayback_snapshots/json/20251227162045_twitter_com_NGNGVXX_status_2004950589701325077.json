@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004950587012739073"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2004950589701325077",
+    "created_at": "2025-12-27T16:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T17:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004950589701325077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e8ja6dPyXc",
+          "end": 37,
+          "expanded_url": "https://x.com/NGNGVXX/status/2004950589701325077/photo/1",
+          "media_key": "3_2004950587012739073",
+          "start": 14,
+          "url": "https://t.co/e8ja6dPyXc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004950589701325077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没钱不要谈恋爱，真的！！！ https://t.co/e8ja6dPyXc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2004950587012739073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9MD76sa8AEwe1Y.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004950587012739073"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2004950589701325077",
+        "created_at": "2025-12-27T16:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T17:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004950589701325077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8ja6dPyXc",
+              "end": 37,
+              "expanded_url": "https://x.com/NGNGVXX/status/2004950589701325077/photo/1",
+              "media_key": "3_2004950587012739073",
+              "start": 14,
+              "url": "https://t.co/e8ja6dPyXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004950589701325077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没钱不要谈恋爱，真的！！！ https://t.co/e8ja6dPyXc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2617,
+          "following_count": 6,
+          "like_count": 711,
+          "listed_count": 10,
+          "media_count": 48,
+          "tweet_count": 858
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2005132835926200690",
+    "created_at": "2025-12-28T04:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T05:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005132835926200690"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "MergeBoss",
+          "probability": 0.3298,
+          "start": 5,
+          "type": "Other"
+        },
+        {
+          "end": 32,
+          "normalized_text": "Lazcoins",
+          "probability": 0.3961,
+          "start": 25,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Play MergeBoss & Win Lazcoins!",
+          "display_url": "s.lazada.com.my/s.u0SUl",
+          "end": 60,
+          "expanded_url": "https://s.lazada.com.my/s.u0SUl",
+          "start": 37,
+          "status": 200,
+          "title": "MergeBoss",
+          "unwound_url": "https://s.lazada.com.my/s.u0SUl",
+          "url": "https://t.co/USLhStQEJ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005132835926200690",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Play MergeBoss &amp; Win Lazcoins! | https://t.co/USLhStQEJ4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2005132835926200690",
+        "created_at": "2025-12-28T04:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T05:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005132835926200690"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "MergeBoss",
+              "probability": 0.3298,
+              "start": 5,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Lazcoins",
+              "probability": 0.3961,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Play MergeBoss & Win Lazcoins!",
+              "display_url": "s.lazada.com.my/s.u0SUl",
+              "end": 60,
+              "expanded_url": "https://s.lazada.com.my/s.u0SUl",
+              "start": 37,
+              "status": 200,
+              "title": "MergeBoss",
+              "unwound_url": "https://s.lazada.com.my/s.u0SUl",
+              "url": "https://t.co/USLhStQEJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005132835926200690",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Play MergeBoss &amp; Win Lazcoins! | https://t.co/USLhStQEJ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 6,
+          "like_count": 712,
+          "listed_count": 10,
+          "media_count": 49,
+          "tweet_count": 863
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

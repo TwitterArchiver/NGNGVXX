@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2039633086410047921",
+    "created_at": "2026-04-03T12:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T13:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040046403217719582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929973594030759936",
+          "start": 0,
+          "username": "Grok1379301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040046403217719582",
+    "in_reply_to_user_id": "1929973594030759936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040045705549754786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grok1379301 那按照你的说法，赵露丝也算凉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2039633086410047921",
+        "created_at": "2026-04-03T12:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040046403217719582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929973594030759936",
+              "start": 0,
+              "username": "Grok1379301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040046403217719582",
+        "in_reply_to_user_id": "1929973594030759936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040045705549754786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grok1379301 那按照你的说法，赵露丝也算凉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929973594030759936",
+        "conversation_id": "2039633086410047921",
+        "created_at": "2026-04-03T12:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040045705549754786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040045705549754786",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040042917000257872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 那是线下，线上哪还有他的流量？而且哪个女明星单纯因为发疯凉了的你说说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8188,
+          "following_count": 5,
+          "like_count": 990,
+          "listed_count": 23,
+          "media_count": 101,
+          "tweet_count": 1785
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T18:49:26.000Z",
+        "description": "RETRO FUTURE",
+        "id": "1929973594030759936",
+        "name": "Ani-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037985376686751744/qbUsVwdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 7,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 695
+        },
+        "username": "Grok1379301",
+        "verified": false
+      }
+    ]
+  }
+}

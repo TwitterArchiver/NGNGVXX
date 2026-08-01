@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2014580961707712697",
+    "created_at": "2026-01-23T06:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T07:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014580961707712697"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014580961707712697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉情侣是种很诡异的亲密关系，几个月前彼此还是陌生人，几个月后，你们可能表现的比家人还亲密。有趣的是，如此紧密的链接，世界上却没有任何一种法度去保护它，也就是说，背叛爱人，无需付出任何代价，相信爱人，却要拥有无比的勇气。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2014580961707712697",
+        "created_at": "2026-01-23T06:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T07:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014580961707712697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014580961707712697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉情侣是种很诡异的亲密关系，几个月前彼此还是陌生人，几个月后，你们可能表现的比家人还亲密。有趣的是，如此紧密的链接，世界上却没有任何一种法度去保护它，也就是说，背叛爱人，无需付出任何代价，相信爱人，却要拥有无比的勇气。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5488,
+          "following_count": 5,
+          "like_count": 915,
+          "listed_count": 13,
+          "media_count": 58,
+          "tweet_count": 1127
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

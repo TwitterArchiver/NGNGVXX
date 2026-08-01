@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047907134571204608"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2047907140833251690",
+    "created_at": "2026-04-25T05:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T06:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047907140833251690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1a1vFJI5lv",
+          "end": 38,
+          "expanded_url": "https://x.com/NGNGVXX/status/2047907140833251690/photo/1",
+          "media_key": "3_2047907134571204608",
+          "start": 15,
+          "url": "https://t.co/1a1vFJI5lv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047907140833251690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的 向爱自己的人低头不丢人 https://t.co/1a1vFJI5lv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "3_2047907134571204608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGugsEka0AAGkWs.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047907134571204608"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2047907140833251690",
+        "created_at": "2026-04-25T05:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047907140833251690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1a1vFJI5lv",
+              "end": 38,
+              "expanded_url": "https://x.com/NGNGVXX/status/2047907140833251690/photo/1",
+              "media_key": "3_2047907134571204608",
+              "start": 15,
+              "url": "https://t.co/1a1vFJI5lv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047907140833251690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的 向爱自己的人低头不丢人 https://t.co/1a1vFJI5lv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8616,
+          "following_count": 4,
+          "like_count": 1086,
+          "listed_count": 24,
+          "media_count": 105,
+          "tweet_count": 2072
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

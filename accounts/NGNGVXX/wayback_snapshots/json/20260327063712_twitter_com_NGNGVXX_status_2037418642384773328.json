@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2037418642384773328",
+    "created_at": "2026-03-27T06:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T07:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037418642384773328"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037418642384773328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "告诉你一个秘密：命运是有伏笔的，你会成为你曾经羡慕过的那类人，尽管在你羡慕的那一刻也许只是由衷地欣赏和称赞。当无数事情发生在你生命中时，每一件都是为铺垫你走上那条本就会踏上的路，直到某天你不经意间发现，你已经成为多年前你曾真心艳羡过的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2037418642384773328",
+        "created_at": "2026-03-27T06:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037418642384773328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037418642384773328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "告诉你一个秘密：命运是有伏笔的，你会成为你曾经羡慕过的那类人，尽管在你羡慕的那一刻也许只是由衷地欣赏和称赞。当无数事情发生在你生命中时，每一件都是为铺垫你走上那条本就会踏上的路，直到某天你不经意间发现，你已经成为多年前你曾真心艳羡过的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7949,
+          "following_count": 5,
+          "like_count": 983,
+          "listed_count": 23,
+          "media_count": 97,
+          "tweet_count": 1687
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

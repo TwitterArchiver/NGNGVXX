@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1982658875712258056",
+    "created_at": "2025-10-27T04:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T05:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982658875712258056"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 141,
+          "start": 137,
+          "tag": "les"
+        },
+        {
+          "end": 145,
+          "start": 142,
+          "tag": "le"
+        },
+        {
+          "end": 149,
+          "start": 146,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982658875712258056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然意识到 我好像留不住任何人 大家都是短暂的出现在我生命中 真心对待的人最后也总是会离开 就像一场雨 短暂的出现在我生命里 即使连绵不断的下也终会有散去的一天 即便已经经历了很多次 也难承受羁绊的消失 人类产生羁绊就要做好对方离开的准备 我什么时候能有承受的勇气呢 ​​​#les #le #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1982658875712258056",
+        "created_at": "2025-10-27T04:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982658875712258056"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "les"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "le"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982658875712258056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到 我好像留不住任何人 大家都是短暂的出现在我生命中 真心对待的人最后也总是会离开 就像一场雨 短暂的出现在我生命里 即使连绵不断的下也终会有散去的一天 即便已经经历了很多次 也难承受羁绊的消失 人类产生羁绊就要做好对方离开的准备 我什么时候能有承受的勇气呢 ​​​#les #le #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 7,
+          "like_count": 530,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 531
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

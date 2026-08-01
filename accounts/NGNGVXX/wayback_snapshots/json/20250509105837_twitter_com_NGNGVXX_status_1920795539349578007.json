@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920795536170643460"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "1920795247077953598",
+    "created_at": "2025-05-09T10:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T11:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920795539349578007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tHYq9Tip4t",
+          "end": 23,
+          "expanded_url": "https://x.com/NGNGVXX/status/1920795539349578007/photo/1",
+          "media_key": "3_1920795536170643460",
+          "start": 0,
+          "url": "https://t.co/tHYq9Tip4t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920795539349578007",
+    "in_reply_to_user_id": "2363856960",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920795247077953598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/tHYq9Tip4t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920795536170643460",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqgJXQObcAQRLEd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1920795241210408960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqgJGFabcAAYgdl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1920795243110092800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqgJGMfWUAA2bji.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1920795242330210304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqgJGJlaQAAnVy1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1920795243089457155",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqgJGMabcAMmIJe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920795536170643460"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "1920795247077953598",
+        "created_at": "2025-05-09T10:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T11:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920795539349578007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tHYq9Tip4t",
+              "end": 23,
+              "expanded_url": "https://x.com/NGNGVXX/status/1920795539349578007/photo/1",
+              "media_key": "3_1920795536170643460",
+              "start": 0,
+              "url": "https://t.co/tHYq9Tip4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920795539349578007",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920795247077953598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/tHYq9Tip4t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920795241210408960",
+            "3_1920795243110092800",
+            "3_1920795242330210304",
+            "3_1920795243089457155"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "1920795247077953598",
+        "created_at": "2025-05-09T10:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T11:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920795247077953598"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "盲盒"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kx1X57r66D",
+              "end": 39,
+              "expanded_url": "https://x.com/NGNGVXX/status/1920795247077953598/photo/1",
+              "media_key": "3_1920795241210408960",
+              "start": 16,
+              "url": "https://t.co/kx1X57r66D"
+            },
+            {
+              "display_url": "pic.x.com/kx1X57r66D",
+              "end": 39,
+              "expanded_url": "https://x.com/NGNGVXX/status/1920795247077953598/photo/1",
+              "media_key": "3_1920795243110092800",
+              "start": 16,
+              "url": "https://t.co/kx1X57r66D"
+            },
+            {
+              "display_url": "pic.x.com/kx1X57r66D",
+              "end": 39,
+              "expanded_url": "https://x.com/NGNGVXX/status/1920795247077953598/photo/1",
+              "media_key": "3_1920795242330210304",
+              "start": 16,
+              "url": "https://t.co/kx1X57r66D"
+            },
+            {
+              "display_url": "pic.x.com/kx1X57r66D",
+              "end": 39,
+              "expanded_url": "https://x.com/NGNGVXX/status/1920795247077953598/photo/1",
+              "media_key": "3_1920795243089457155",
+              "start": 16,
+              "url": "https://t.co/kx1X57r66D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920795247077953598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次端盒，纪念一下\n\n＃盲盒 https://t.co/kx1X57r66D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 7,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 378
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

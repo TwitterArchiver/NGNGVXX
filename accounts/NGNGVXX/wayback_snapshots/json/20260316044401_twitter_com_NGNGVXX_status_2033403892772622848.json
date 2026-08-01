@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2033104738326376652",
+    "created_at": "2026-03-16T04:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T05:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033403892772622848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033254715287646208",
+          "start": 0,
+          "username": "myonly1118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033403892772622848",
+    "in_reply_to_user_id": "2033254715287646208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033368178462785695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myonly1118 多读几年书吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2033104738326376652",
+        "created_at": "2026-03-16T04:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033403892772622848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033254715287646208",
+              "start": 0,
+              "username": "myonly1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033403892772622848",
+        "in_reply_to_user_id": "2033254715287646208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033368178462785695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myonly1118 多读几年书吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033254715287646208",
+        "conversation_id": "2033104738326376652",
+        "created_at": "2026-03-16T02:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033368178462785695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033368178462785695",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033104738326376652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 唯小人与女子难养也，近之则不逊，远之则怨\n-孔子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7733,
+          "following_count": 5,
+          "like_count": 979,
+          "listed_count": 20,
+          "media_count": 92,
+          "tweet_count": 1590
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T18:52:17.000Z",
+        "description": "",
+        "id": "2033254715287646208",
+        "name": "my only",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033255053545689088/9QlsFZqa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 26,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "myonly1118",
+        "verified": false
+      }
+    ]
+  }
+}

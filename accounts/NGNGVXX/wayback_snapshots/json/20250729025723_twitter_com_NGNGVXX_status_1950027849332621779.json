@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1950027849332621779",
+    "created_at": "2025-07-29T02:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T03:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950027849332621779"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "les"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "le"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950027849332621779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "缘分没用尽的时候，会用梦来还。  #les #le"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1950027849332621779",
+        "created_at": "2025-07-29T02:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T03:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950027849332621779"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "les"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "le"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950027849332621779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "缘分没用尽的时候，会用梦来还。  #les #le"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 5,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 417
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2005621648393945475",
+    "created_at": "2025-12-29T12:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T13:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005621648393945475"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005621648393945475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "任何关系都会毫无征兆的破裂，任何人都依靠靠不住，不要害怕失去任何人，就像他们不害怕失去你一样。任何关系都不要把自己搞得太累，如果不快乐，那就结束。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2005621648393945475",
+        "created_at": "2025-12-29T12:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T13:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005621648393945475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005621648393945475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "任何关系都会毫无征兆的破裂，任何人都依靠靠不住，不要害怕失去任何人，就像他们不害怕失去你一样。任何关系都不要把自己搞得太累，如果不快乐，那就结束。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2897,
+          "following_count": 6,
+          "like_count": 727,
+          "listed_count": 10,
+          "media_count": 49,
+          "tweet_count": 885
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

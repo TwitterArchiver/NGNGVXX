@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024738026283577344"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2024738030062604556",
+    "created_at": "2026-02-20T06:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024738030062604556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uSFSWCmK38",
+          "end": 40,
+          "expanded_url": "https://x.com/NGNGVXX/status/2024738030062604556/photo/1",
+          "media_key": "3_2024738026283577344",
+          "start": 17,
+          "url": "https://t.co/uSFSWCmK38"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024738030062604556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有空照照镜子看看自己是什么东西。 https://t.co/uSFSWCmK38"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1737,
+        "media_key": "3_2024738026283577344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlQgePbsAAcFfg.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024738026283577344"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2024738030062604556",
+        "created_at": "2026-02-20T06:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024738030062604556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSFSWCmK38",
+              "end": 40,
+              "expanded_url": "https://x.com/NGNGVXX/status/2024738030062604556/photo/1",
+              "media_key": "3_2024738026283577344",
+              "start": 17,
+              "url": "https://t.co/uSFSWCmK38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024738030062604556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有空照照镜子看看自己是什么东西。 https://t.co/uSFSWCmK38"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7035,
+          "following_count": 5,
+          "like_count": 947,
+          "listed_count": 17,
+          "media_count": 78,
+          "tweet_count": 1391
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

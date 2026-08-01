@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2004532201761976578",
+    "created_at": "2025-12-26T12:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T13:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004532201761976578"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004532201761976578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实谈恋爱不能发展太快，开始的不明不白，结束就会不清不楚，一上来就牵手拥抱说爱你，根本就没有了解彼此 就匆匆忙忙在一起了，最后会因为新鲜感的消失而分手。\n\n健康的恋爱就应该像小火慢炖的粥，需要花更多时间去慢慢了解彼此的喜好，要在一起吃好多顿饭，讲好多好多话，慢慢来才是最好的诚意 。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2004532201761976578",
+        "created_at": "2025-12-26T12:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004532201761976578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004532201761976578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实谈恋爱不能发展太快，开始的不明不白，结束就会不清不楚，一上来就牵手拥抱说爱你，根本就没有了解彼此 就匆匆忙忙在一起了，最后会因为新鲜感的消失而分手。\n\n健康的恋爱就应该像小火慢炖的粥，需要花更多时间去慢慢了解彼此的喜好，要在一起吃好多顿饭，讲好多好多话，慢慢来才是最好的诚意 。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 6,
+          "like_count": 697,
+          "listed_count": 10,
+          "media_count": 47,
+          "tweet_count": 848
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

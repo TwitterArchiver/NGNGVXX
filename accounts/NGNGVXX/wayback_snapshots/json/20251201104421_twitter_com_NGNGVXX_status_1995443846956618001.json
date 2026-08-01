@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1995443846956618001",
+    "created_at": "2025-12-01T10:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T11:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995443846956618001"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995443846956618001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人是需要死的，如果我快死那就把ta 叫过来，流着泪说出所有碍于身份地位社会关系不能说的话。最后一切不快都遗忘，只记得他的眉毛、眼睛、手的样子，笑起来时脸上的皱纹，双手捧着脸看我的眼神，剩余的生命这些瞬间就足够填满，世界的其他部分全是一片模糊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1995443846956618001",
+        "created_at": "2025-12-01T10:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T11:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995443846956618001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995443846956618001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人是需要死的，如果我快死那就把ta 叫过来，流着泪说出所有碍于身份地位社会关系不能说的话。最后一切不快都遗忘，只记得他的眉毛、眼睛、手的样子，笑起来时脸上的皱纹，双手捧着脸看我的眼神，剩余的生命这些瞬间就足够填满，世界的其他部分全是一片模糊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 7,
+          "like_count": 538,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 725
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

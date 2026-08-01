@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2004801416058261900",
+    "created_at": "2025-12-27T11:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T12:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004883471861514479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892304871648350208",
+          "start": 0,
+          "username": "oOlivia1022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004883471861514479",
+    "in_reply_to_user_id": "1892304871648350208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004862439050158183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oOlivia1022 草莓酸酸是很正常的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2004801416058261900",
+        "created_at": "2025-12-27T11:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T12:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004883471861514479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892304871648350208",
+              "start": 0,
+              "username": "oOlivia1022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004883471861514479",
+        "in_reply_to_user_id": "1892304871648350208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004862439050158183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oOlivia1022 草莓酸酸是很正常的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892304871648350208",
+        "conversation_id": "2004801416058261900",
+        "created_at": "2025-12-27T10:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004862439050158183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004862439050158183",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004801416058261900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 话又说回来为啥我感觉草莓都是酸酸的。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 6,
+          "like_count": 706,
+          "listed_count": 10,
+          "media_count": 47,
+          "tweet_count": 856
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T20:07:05.000Z",
+        "description": "INTP/FCRO ♎︎",
+        "id": "1892304871648350208",
+        "location": "not on earth",
+        "name": "(o_O)?livia",
+        "pinned_tweet_id": "2004857633103339841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003503789148635136/DuE1rs08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 102,
+          "like_count": 3741,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 188
+        },
+        "username": "oOlivia1022",
+        "verified": false
+      }
+    ]
+  }
+}

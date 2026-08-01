@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1993931536417345706",
+    "created_at": "2025-11-28T17:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T18:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994454682669048200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1731999552276992000",
+          "start": 0,
+          "username": "AzuYuu0126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994454682669048200",
+    "in_reply_to_user_id": "1731999552276992000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993931536417345706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzuYuu0126 平安就好"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8933,
+        "height": 960,
+        "media_key": "13_1993931464300482562",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993931464300482562/img/uX7M9vBi2NeVcIx3.jpg",
+        "public_metrics": {
+          "view_count": 306722
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993931464300482562/vid/avc1/320x426/whzOlFb1g3bow-D4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993931464300482562/vid/avc1/480x640/DXl1HghfFyDYU2c2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993931464300482562/vid/avc1/720x960/Pu5LDMy7j7QDcljd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993931464300482562/pl/19iNGouq8XLSzACa.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1993931536417345706",
+        "created_at": "2025-11-28T17:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T18:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994454682669048200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1731999552276992000",
+              "start": 0,
+              "username": "AzuYuu0126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994454682669048200",
+        "in_reply_to_user_id": "1731999552276992000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993931536417345706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzuYuu0126 平安就好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993931464300482562"
+          ]
+        },
+        "author_id": "1731999552276992000",
+        "conversation_id": "1993931536417345706",
+        "created_at": "2025-11-27T06:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993931536417345706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/svxtrryFqU",
+              "end": 103,
+              "expanded_url": "https://x.com/AzuYuu0126/status/1993931536417345706/video/1",
+              "media_key": "13_1993931464300482562",
+              "start": 80,
+              "url": "https://t.co/svxtrryFqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993931536417345706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 531,
+          "impression_count": 842268,
+          "like_count": 13582,
+          "quote_count": 52,
+          "reply_count": 1607,
+          "retweet_count": 552
+        },
+        "reply_settings": "everyone",
+        "text": "今次香港火災非常不幸燒中了我家\n多謝大家關心我\n只是想報一聲平安\n我同屋企人都冇事🙏🏻\n患難見真情\n你地一直都在我心中🫂\n影片人地send俾我的\n真係非常誇張 https://t.co/svxtrryFqU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 7,
+          "like_count": 529,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 700
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T11:30:54.000Z",
+        "description": "🇭🇰｜cosplayer based in Hong Kong ｜📩DM for Job｜IG: _azuyuu | Do not repost without permission",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_azuyuu/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/_azuyuu/",
+                "start": 0,
+                "url": "https://t.co/tanEwFPRDM"
+              }
+            ]
+          }
+        },
+        "id": "1731999552276992000",
+        "location": "Hong Kong",
+        "name": "Yuu(ゆう)",
+        "pinned_tweet_id": "1949747119000310216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983485695365959680/oj1gu-AT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2329,
+          "following_count": 99,
+          "like_count": 1815,
+          "listed_count": 8,
+          "media_count": 113,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/tanEwFPRDM",
+        "username": "AzuYuu0126",
+        "verified": false
+      }
+    ]
+  }
+}

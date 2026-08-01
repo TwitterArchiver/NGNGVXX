@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1960259395276931165",
+    "created_at": "2025-08-26T08:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T09:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960259395276931165"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "le"
+        },
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "les"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960259395276931165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真觉得好不好这个词太微妙了，总藏着点试探的甜，像揣着颗糖在手心晃，又带着点怕被拒绝的软。请包容我的小孩子气好不好，一定要告诉我好不好，有委屈跟我说好不好。别问天气了，你好不好，如果天气好的话我们一起去散步好不好。 ​​​#le #les #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1960259395276931165",
+        "created_at": "2025-08-26T08:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960259395276931165"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "le"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "les"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960259395276931165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真觉得好不好这个词太微妙了，总藏着点试探的甜，像揣着颗糖在手心晃，又带着点怕被拒绝的软。请包容我的小孩子气好不好，一定要告诉我好不好，有委屈跟我说好不好。别问天气了，你好不好，如果天气好的话我们一起去散步好不好。 ​​​#le #les #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 6,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 411
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043705052532244796",
+    "created_at": "2026-04-14T09:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043989526436294667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1767844864887070720",
+          "start": 0,
+          "username": "ne_pas6501"
+        },
+        {
+          "end": 22,
+          "id": "1535884086862000129",
+          "start": 12,
+          "username": "bayunmomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043989526436294667",
+    "in_reply_to_user_id": "1767844864887070720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043985819854397449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ne_pas6501 @bayunmomo 只有子宫能保妈妈的命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043705052532244796",
+        "created_at": "2026-04-14T09:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043989526436294667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1767844864887070720",
+              "start": 0,
+              "username": "ne_pas6501"
+            },
+            {
+              "end": 22,
+              "id": "1535884086862000129",
+              "start": 12,
+              "username": "bayunmomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043989526436294667",
+        "in_reply_to_user_id": "1767844864887070720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043985819854397449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ne_pas6501 @bayunmomo 只有子宫能保妈妈的命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767844864887070720",
+        "conversation_id": "2043705052532244796",
+        "created_at": "2026-04-14T09:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043985819854397449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1535884086862000129",
+              "start": 0,
+              "username": "bayunmomo"
+            },
+            {
+              "end": 19,
+              "id": "2363856960",
+              "start": 11,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043985819854397449",
+        "in_reply_to_user_id": "1535884086862000129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043974865334813033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bayunmomo @NGNGVXX 那小肠呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8283,
+          "following_count": 5,
+          "like_count": 1027,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1921
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T09:27:27.000Z",
+        "description": "我是个\nINFJ-T.一个线下阴暗男，爱骑车，爱旅游，减肥ing，搞搞电子设备，比较单，也比较蠢，我不是什么好人，如果让你不开心了，我可以跟你道歉，谢谢理解，交朋友。可以帮忙配电脑。（爱搞抽象，我是傻逼）有🚪吗如有，好吧就是没有。@zhgnhnionioywi1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 115,
+                "username": "zhgnhnionioywi1"
+              }
+            ]
+          }
+        },
+        "id": "1767844864887070720",
+        "location": "爱斯基摩",
+        "name": "秋雨似情长",
+        "pinned_tweet_id": "2029773651932061947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023287363112407043/JYJ3sMmb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 617,
+          "like_count": 5783,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2362
+        },
+        "username": "ne_pas6501",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T07:18:04.000Z",
+        "description": "04｜160.6｜40kg，泛性恋说是，🉑side🉑0，前括号使用熟手，欢迎宁来，购买涩涩合集等请+q3658394273（非扩列号）匿名提问已开放：https://t.co/9SamVQbsuf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bayunmomo",
+                "end": 98,
+                "expanded_url": "https://ngl.link/bayunmomo",
+                "start": 75,
+                "url": "https://t.co/9SamVQbsuf"
+              }
+            ]
+          }
+        },
+        "id": "1535884086862000129",
+        "location": "你的床上",
+        "name": "八云漠",
+        "pinned_tweet_id": "2029521444989010391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801171287840284672/cTsrUfTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8067,
+          "following_count": 2273,
+          "like_count": 395,
+          "listed_count": 20,
+          "media_count": 1249,
+          "tweet_count": 12995
+        },
+        "username": "bayunmomo",
+        "verified": false
+      }
+    ]
+  }
+}

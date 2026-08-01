@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995708551122280448"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "1995708561041539335",
+    "created_at": "2025-12-02T04:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T05:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995708561041539335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sv0lMSKWSd",
+          "end": 49,
+          "expanded_url": "https://x.com/NGNGVXX/status/1995708561041539335/photo/1",
+          "media_key": "3_1995708551122280448",
+          "start": 26,
+          "url": "https://t.co/sv0lMSKWSd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995708561041539335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要谩骂以前的自己，他当时一个人站在雾里也很迷茫。 https://t.co/sv0lMSKWSd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1995708551122280448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7IuWoDaYAAjV9p.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995708551122280448"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "1995708561041539335",
+        "created_at": "2025-12-02T04:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T05:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995708561041539335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sv0lMSKWSd",
+              "end": 49,
+              "expanded_url": "https://x.com/NGNGVXX/status/1995708561041539335/photo/1",
+              "media_key": "3_1995708551122280448",
+              "start": 26,
+              "url": "https://t.co/sv0lMSKWSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995708561041539335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要谩骂以前的自己，他当时一个人站在雾里也很迷茫。 https://t.co/sv0lMSKWSd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 7,
+          "like_count": 541,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 728
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

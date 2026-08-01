@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2073764899826868431",
+    "created_at": "2026-07-05T15:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073788779467616627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1978142123779133440",
+          "start": 0,
+          "username": "huaiYuYu40347"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073788779467616627",
+    "in_reply_to_user_id": "1978142123779133440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073767563176317191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaiYuYu40347 你的脑子是有什么毛病吗？还是说你还没发育好？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2073764899826868431",
+        "created_at": "2026-07-05T15:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073788779467616627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1978142123779133440",
+              "start": 0,
+              "username": "huaiYuYu40347"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073788779467616627",
+        "in_reply_to_user_id": "1978142123779133440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073767563176317191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaiYuYu40347 你的脑子是有什么毛病吗？还是说你还没发育好？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978142123779133440",
+        "conversation_id": "2073764899826868431",
+        "created_at": "2026-07-05T13:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073767563176317191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073767563176317191",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073764899826868431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 你的前列腺也开始造反了吗站长？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10341,
+          "following_count": 6,
+          "like_count": 1201,
+          "listed_count": 28,
+          "media_count": 137,
+          "tweet_count": 2885
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T16:53:37.000Z",
+        "description": "🚪绝地武士尖晶石（严格要求霓虹感）/赵之谦名品一方或黄士陵两方/宋拓集王圣教序一册/雍正粉彩茶圆一对（珐琅彩亦可）",
+        "id": "1978142123779133440",
+        "name": "螺丝起子多加西柚",
+        "pinned_tweet_id": "2045083040431685854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978144187729035265/Ub-ENlH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 21,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 676
+        },
+        "url": "",
+        "username": "huaiYuYu40347",
+        "verified": true
+      }
+    ]
+  }
+}

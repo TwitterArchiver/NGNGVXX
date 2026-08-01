@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2035532992660259295",
+    "created_at": "2026-03-22T01:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T02:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035532992660259295"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035532992660259295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的好奇怪，我特感性共情能力很强，但是当我离开家里人我一个电话都不会去一个、一条短信都不会发，或者和玩的很好的朋友一旦生活中没了交集就不会主动联系了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2035532992660259295",
+        "created_at": "2026-03-22T01:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035532992660259295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035532992660259295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好奇怪，我特感性共情能力很强，但是当我离开家里人我一个电话都不会去一个、一条短信都不会发，或者和玩的很好的朋友一旦生活中没了交集就不会主动联系了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7797,
+          "following_count": 5,
+          "like_count": 983,
+          "listed_count": 20,
+          "media_count": 97,
+          "tweet_count": 1636
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

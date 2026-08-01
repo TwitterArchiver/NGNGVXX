@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043705052532244796",
+    "created_at": "2026-04-14T03:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T04:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043897166901678265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2030620997481881600",
+          "start": 0,
+          "username": "hanmimi031213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043897166901678265",
+    "in_reply_to_user_id": "2030620997481881600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043858374744518738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanmimi031213 我想说的是“男的有本事自己怀宝宝去，一天天的在我这里羞辱女性，看了我火大！！！”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043705052532244796",
+        "created_at": "2026-04-14T03:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043897166901678265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2030620997481881600",
+              "start": 0,
+              "username": "hanmimi031213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043897166901678265",
+        "in_reply_to_user_id": "2030620997481881600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043858374744518738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanmimi031213 我想说的是“男的有本事自己怀宝宝去，一天天的在我这里羞辱女性，看了我火大！！！”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030620997481881600",
+        "conversation_id": "2043705052532244796",
+        "created_at": "2026-04-14T01:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T02:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043858374744518738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043858374744518738",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 536,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043705052532244796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 你到底想说啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8278,
+          "following_count": 5,
+          "like_count": 1010,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1893
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T12:26:04.000Z",
+        "description": "猫型",
+        "id": "2030620997481881600",
+        "name": "^－_－^",
+        "pinned_tweet_id": "2036424795160764705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030632575186907136/peC26FXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 24,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 166
+        },
+        "username": "hanmimi031213",
+        "verified": false
+      }
+    ]
+  }
+}

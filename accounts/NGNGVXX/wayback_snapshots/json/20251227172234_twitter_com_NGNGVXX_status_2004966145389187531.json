@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2004966145389187531",
+    "created_at": "2025-12-27T17:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T18:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004966145389187531"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004966145389187531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拜托不要对我展现出一丝丝的善意，我怕我会在此后漫长的时光里靠着你这一点点善意麻痹自己，哄骗自己我们还有机会。\n\n拜托不要对我太过冷漠，我怕我会陷入无尽的自我怀疑与狂躁，我怕我这短暂的青春充斥着战战兢兢，整日纠结于你对我是否厌恶。 \n\n什么也不要说 给我一个温暖的拥抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2004966145389187531",
+        "created_at": "2025-12-27T17:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T18:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004966145389187531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004966145389187531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拜托不要对我展现出一丝丝的善意，我怕我会在此后漫长的时光里靠着你这一点点善意麻痹自己，哄骗自己我们还有机会。\n\n拜托不要对我太过冷漠，我怕我会陷入无尽的自我怀疑与狂躁，我怕我这短暂的青春充斥着战战兢兢，整日纠结于你对我是否厌恶。 \n\n什么也不要说 给我一个温暖的拥抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 6,
+          "like_count": 711,
+          "listed_count": 10,
+          "media_count": 49,
+          "tweet_count": 862
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

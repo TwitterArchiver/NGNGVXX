@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961322823940775936"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "1961323029985726640",
+    "created_at": "2025-08-29T07:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T08:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961323029985726640"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "le"
+        },
+        {
+          "end": 95,
+          "start": 91,
+          "tag": "les"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "女同"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LgJnhktjVc",
+          "end": 123,
+          "expanded_url": "https://x.com/NGNGVXX/status/1961323029985726640/photo/1",
+          "media_key": "3_1961322823940775936",
+          "start": 100,
+          "url": "https://t.co/LgJnhktjVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961323029985726640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“恋爱最珍贵的纪念物，从来就不是那些你送我的手表和项链，甚至也不是那些甜蜜的短信和合照。恋爱最珍贵的纪念物，是你留在我身上的，如同河川留给地形的，那些你对我造成的改变。”\n #le #les #女同 https://t.co/LgJnhktjVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_1961322823940775936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgEt4LbIAAtC5d.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961322823940775936"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "1961323029985726640",
+        "created_at": "2025-08-29T07:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T08:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961323029985726640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "le"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "les"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "女同"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LgJnhktjVc",
+              "end": 123,
+              "expanded_url": "https://x.com/NGNGVXX/status/1961323029985726640/photo/1",
+              "media_key": "3_1961322823940775936",
+              "start": 100,
+              "url": "https://t.co/LgJnhktjVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961323029985726640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“恋爱最珍贵的纪念物，从来就不是那些你送我的手表和项链，甚至也不是那些甜蜜的短信和合照。恋爱最珍贵的纪念物，是你留在我身上的，如同河川留给地形的，那些你对我造成的改变。”\n #le #les #女同 https://t.co/LgJnhktjVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 6,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 414
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

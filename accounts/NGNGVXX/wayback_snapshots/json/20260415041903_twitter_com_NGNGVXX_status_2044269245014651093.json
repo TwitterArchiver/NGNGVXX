@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2044269245014651093",
+    "created_at": "2026-04-15T04:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T05:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044269245014651093"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044269245014651093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日本之前流行的一个恶魔一般的游戏。\n就是一方说“我爱你”\n然后另一方回答“再来一遍”\n就这么一直重复，谁先害羞地笑了的话谁\n就输了。这个游戏可以加深情侣之间的感情。\n但是这个游戏之所以恐怖就是因为，它可以让两个没有好感（但不讨厌）的人产生喜欢上对方的错觉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2044269245014651093",
+        "created_at": "2026-04-15T04:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044269245014651093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044269245014651093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本之前流行的一个恶魔一般的游戏。\n就是一方说“我爱你”\n然后另一方回答“再来一遍”\n就这么一直重复，谁先害羞地笑了的话谁\n就输了。这个游戏可以加深情侣之间的感情。\n但是这个游戏之所以恐怖就是因为，它可以让两个没有好感（但不讨厌）的人产生喜欢上对方的错觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8295,
+          "following_count": 5,
+          "like_count": 1040,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1953
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

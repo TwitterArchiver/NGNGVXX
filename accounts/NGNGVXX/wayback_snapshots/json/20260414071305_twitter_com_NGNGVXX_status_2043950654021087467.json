@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043705052532244796",
+    "created_at": "2026-04-14T07:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043950654021087467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1404182080901296129",
+          "start": 0,
+          "username": "OZNhtLJfmYmaLkR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043950654021087467",
+    "in_reply_to_user_id": "1404182080901296129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043949006141735372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OZNhtLJfmYmaLkR 有些孩子脱离母体长大之后还是会继续吸，更甚的反过来看不起女性羞辱女性还以此为乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043705052532244796",
+        "created_at": "2026-04-14T07:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043950654021087467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1404182080901296129",
+              "start": 0,
+              "username": "OZNhtLJfmYmaLkR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043950654021087467",
+        "in_reply_to_user_id": "1404182080901296129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043949006141735372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OZNhtLJfmYmaLkR 有些孩子脱离母体长大之后还是会继续吸，更甚的反过来看不起女性羞辱女性还以此为乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404182080901296129",
+        "conversation_id": "2043705052532244796",
+        "created_at": "2026-04-14T07:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043949006141735372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043949006141735372",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043705052532244796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 孩子就是寄生虫，子宫是保护母体不被吸死的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8284,
+          "following_count": 5,
+          "like_count": 1012,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1901
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-13T21:01:57.000Z",
+        "description": "喜欢omega男和猫//火焰、月亮、和宇宙的女儿//岁月静好女权非激，勿鉴，看不惯请自助拉黑//来骚扰的屌子驴子必得艾滋梅毒HPV//乐趣是把屌子和屌子的爹剁碎，尸块混一起喂狗",
+        "id": "1404182080901296129",
+        "name": "姜妲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443614497185349635/gXQPSUFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 23,
+          "like_count": 25550,
+          "listed_count": 9,
+          "media_count": 56,
+          "tweet_count": 9393
+        },
+        "username": "OZNhtLJfmYmaLkR",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2044994572250714239",
+    "created_at": "2026-04-17T04:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T05:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044994572250714239"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044994572250714239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近看到一个很戳人的理论\n叫“Last meetingtheory”(最后相遇定律)\n\n“无论你们过去多么亲密,一旦你们完成了在彼此身上的课题，宇宙便会确保你们再无重逢之日。”\n\n在我们这儿,这大概就叫“缘分尽了”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2044994572250714239",
+        "created_at": "2026-04-17T04:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044994572250714239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044994572250714239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近看到一个很戳人的理论\n叫“Last meetingtheory”(最后相遇定律)\n\n“无论你们过去多么亲密,一旦你们完成了在彼此身上的课题，宇宙便会确保你们再无重逢之日。”\n\n在我们这儿,这大概就叫“缘分尽了”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8374,
+          "following_count": 5,
+          "like_count": 1052,
+          "listed_count": 22,
+          "media_count": 101,
+          "tweet_count": 1989
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

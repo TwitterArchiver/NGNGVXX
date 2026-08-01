@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2045840685723758816",
+    "created_at": "2026-04-19T12:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045840685723758816"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045840685723758816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很现实的一句话：\n\n“大家一定要好好赚钱。只要你有钱，你失恋以后，你还可以哭遍斐济东京和巴黎，去各种豪华酒店开一瓶香槟。再不行就坐船去南极看企鹅，去非洲看动物大迁徙，去马达加斯加，还需要什么恋人，很快就能忘记失恋这件事。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2045840685723758816",
+        "created_at": "2026-04-19T12:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045840685723758816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045840685723758816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很现实的一句话：\n\n“大家一定要好好赚钱。只要你有钱，你失恋以后，你还可以哭遍斐济东京和巴黎，去各种豪华酒店开一瓶香槟。再不行就坐船去南极看企鹅，去非洲看动物大迁徙，去马达加斯加，还需要什么恋人，很快就能忘记失恋这件事。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8459,
+          "following_count": 5,
+          "like_count": 1054,
+          "listed_count": 23,
+          "media_count": 102,
+          "tweet_count": 2012
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2032307839105200152",
+    "created_at": "2026-03-13T04:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T05:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032307839105200152"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032307839105200152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太喜欢与温柔的人相处了，能够完全压制我奇怪的性格。和他相处真的能被治愈到，软绵绵的语气小心翼翼的态度，有耐心的跟我讲话。让我感受到我是被认真用心对待的，激起我内心柔软的一面。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2032307839105200152",
+        "created_at": "2026-03-13T04:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032307839105200152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032307839105200152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太喜欢与温柔的人相处了，能够完全压制我奇怪的性格。和他相处真的能被治愈到，软绵绵的语气小心翼翼的态度，有耐心的跟我讲话。让我感受到我是被认真用心对待的，激起我内心柔软的一面。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7638,
+          "following_count": 5,
+          "like_count": 974,
+          "listed_count": 20,
+          "media_count": 89,
+          "tweet_count": 1565
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

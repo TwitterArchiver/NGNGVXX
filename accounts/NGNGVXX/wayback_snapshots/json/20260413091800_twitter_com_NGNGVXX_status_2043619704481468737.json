@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043362128741192012",
+    "created_at": "2026-04-13T09:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T10:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043619704481468737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1743233646369329152",
+          "start": 0,
+          "username": "iMiniPotato"
+        },
+        {
+          "end": 24,
+          "id": "1767414025909067776",
+          "start": 13,
+          "username": "xiow288417"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043619704481468737",
+    "in_reply_to_user_id": "1743233646369329152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043584588363284619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iMiniPotato @xiow288417 我其实想说2%来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-13T09:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043619704481468737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1743233646369329152",
+              "start": 0,
+              "username": "iMiniPotato"
+            },
+            {
+              "end": 24,
+              "id": "1767414025909067776",
+              "start": 13,
+              "username": "xiow288417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043619704481468737",
+        "in_reply_to_user_id": "1743233646369329152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043584588363284619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iMiniPotato @xiow288417 我其实想说2%来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743233646369329152",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-13T06:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043584588363284619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            },
+            {
+              "end": 20,
+              "id": "1767414025909067776",
+              "start": 9,
+              "username": "xiow288417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043584588363284619",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043556069285458420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX @xiow288417 没那么高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8214,
+          "following_count": 5,
+          "like_count": 1003,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1875
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T11:31:13.000Z",
+        "description": "想要拥有表达的自由就要有被讨厌的勇气",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onlyfans.com/buckycloud",
+                "end": 23,
+                "expanded_url": "https://onlyfans.com/buckycloud",
+                "start": 0,
+                "url": "https://t.co/YkqYEzDTxk"
+              }
+            ]
+          }
+        },
+        "id": "1743233646369329152",
+        "location": "Australia",
+        "name": "仿生云烧会梦见电子土豆吗",
+        "pinned_tweet_id": "1993332023621247249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745138620812701698/bUxgNwHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76947,
+          "following_count": 104,
+          "like_count": 19939,
+          "listed_count": 175,
+          "media_count": 7035,
+          "tweet_count": 27001
+        },
+        "url": "https://t.co/YkqYEzDTxk",
+        "username": "iMiniPotato",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T04:55:32.000Z",
+        "description": "",
+        "id": "1767414025909067776",
+        "name": "小吴",
+        "pinned_tweet_id": "1791331982515061032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856891314677452800/ZuuFAPXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 154,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 138
+        },
+        "username": "xiow288417",
+        "verified": false
+      }
+    ]
+  }
+}

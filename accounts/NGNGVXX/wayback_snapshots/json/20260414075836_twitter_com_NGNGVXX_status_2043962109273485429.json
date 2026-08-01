@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043362128741192012",
+    "created_at": "2026-04-14T07:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043962109273485429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1767414025909067776",
+          "start": 0,
+          "username": "xiow288417"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043962109273485429",
+    "in_reply_to_user_id": "1767414025909067776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043540287893709001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiow288417 男人的尊严价值至少50万外加女方原生家庭有钱有权有社会地位，有些男的没房没工作没存款不用礼金就能得到一个免费的六边形保姆和他孩子的妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-14T07:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043962109273485429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1767414025909067776",
+              "start": 0,
+              "username": "xiow288417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043962109273485429",
+        "in_reply_to_user_id": "1767414025909067776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043540287893709001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiow288417 男人的尊严价值至少50万外加女方原生家庭有钱有权有社会地位，有些男的没房没工作没存款不用礼金就能得到一个免费的六边形保姆和他孩子的妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767414025909067776",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-13T04:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043540287893709001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043540287893709001",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1887,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043362128741192012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 人家结婚是为了爱情，想要看一个新生命长大，你结婚就是为了拿十几万，那你也挺可笑的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8284,
+          "following_count": 5,
+          "like_count": 1014,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1907
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T04:55:32.000Z",
+        "description": "",
+        "id": "1767414025909067776",
+        "name": "小吴",
+        "pinned_tweet_id": "1791331982515061032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856891314677452800/ZuuFAPXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 154,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 138
+        },
+        "username": "xiow288417",
+        "verified": false
+      }
+    ]
+  }
+}

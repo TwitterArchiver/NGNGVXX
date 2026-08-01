@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2004834372135059946",
+    "created_at": "2025-12-27T08:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T09:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004834372135059946"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004834372135059946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们不要以为当舔狗很简单，舔的门槛也很高的！\n有人一舔就苦大仇深，就大冬天往头上哐哐砸酒瓶子，就恨不得跪在地上苦苦追问恁为啥不爱俺！\n搞毛线啊！听姐一句劝，没有坚强的大心脏不要出来舔啦！对谁都不好！\n真正的舔狗精神是一种越挫越勇的革命乐观主义！真正的长征战士！salute！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2004834372135059946",
+        "created_at": "2025-12-27T08:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T09:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004834372135059946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004834372135059946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们不要以为当舔狗很简单，舔的门槛也很高的！\n有人一舔就苦大仇深，就大冬天往头上哐哐砸酒瓶子，就恨不得跪在地上苦苦追问恁为啥不爱俺！\n搞毛线啊！听姐一句劝，没有坚强的大心脏不要出来舔啦！对谁都不好！\n真正的舔狗精神是一种越挫越勇的革命乐观主义！真正的长征战士！salute！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2570,
+          "following_count": 6,
+          "like_count": 705,
+          "listed_count": 10,
+          "media_count": 47,
+          "tweet_count": 855
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

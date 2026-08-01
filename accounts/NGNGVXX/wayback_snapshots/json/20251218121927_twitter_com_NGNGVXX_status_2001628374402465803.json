@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2001610507510517967",
+    "created_at": "2025-12-18T12:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T13:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001628374402465803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811227176303210496",
+          "start": 0,
+          "username": "mi006iiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001628374402465803",
+    "in_reply_to_user_id": "1811227176303210496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001627870792385014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi006iiii 我真的特别喜欢和这样的人做朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2001610507510517967",
+        "created_at": "2025-12-18T12:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001628374402465803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811227176303210496",
+              "start": 0,
+              "username": "mi006iiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001628374402465803",
+        "in_reply_to_user_id": "1811227176303210496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001627870792385014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi006iiii 我真的特别喜欢和这样的人做朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811227176303210496",
+        "conversation_id": "2001610507510517967",
+        "created_at": "2025-12-18T12:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001627870792385014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001627870792385014",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001610507510517967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 幻视我跟我好友，每次聊天都能激发一些新奇的点😸😸彼此都很有启发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 7,
+          "like_count": 635,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 801
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T02:33:15.000Z",
+        "description": "160 45kg INFP\n偶尔写点小破文，不约p别问了……\n不礼貌的私信不回，欢迎妹宝跟我互关，猫猫教🥰🥰喜欢大奶男妈妈（喜欢男妈妈的可以看我的关注列表๑ᵒᯅᵒ๑",
+        "id": "1811227176303210496",
+        "name": "此人绝非扇贝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994440282759430144/VqjG9dyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 41,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 189
+        },
+        "username": "mi006iiii",
+        "verified": false
+      }
+    ]
+  }
+}

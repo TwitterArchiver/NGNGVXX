@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043532369328791787",
+    "created_at": "2026-04-14T13:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044052881150750958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1709044381020459008",
+          "start": 0,
+          "username": "tinanna79835"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044052881150750958",
+    "in_reply_to_user_id": "1709044381020459008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044051446631674238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tinanna79835 我第一次听说聊八卦消耗精力😱 抱歉啊因为我可喜欢听人聊八卦了😝 其实聊什么我都喜欢听，除了那些炫耀的和不尊敬的带有羞辱任何人的话题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043532369328791787",
+        "created_at": "2026-04-14T13:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044052881150750958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1709044381020459008",
+              "start": 0,
+              "username": "tinanna79835"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044052881150750958",
+        "in_reply_to_user_id": "1709044381020459008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044051446631674238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tinanna79835 我第一次听说聊八卦消耗精力😱 抱歉啊因为我可喜欢听人聊八卦了😝 其实聊什么我都喜欢听，除了那些炫耀的和不尊敬的带有羞辱任何人的话题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709044381020459008",
+        "conversation_id": "2043532369328791787",
+        "created_at": "2026-04-14T13:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044051446631674238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044051446631674238",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043532369328791787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我也好想找人谈论这些 可是好像还没有找到对的人 每次见面都是聊八卦反而很消耗我的精力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8285,
+          "following_count": 5,
+          "like_count": 1034,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1934
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T03:15:16.000Z",
+        "description": "天下大同 天下女同",
+        "id": "1709044381020459008",
+        "name": "guilispring",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936104129929396225/gQWbTW3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 53,
+          "like_count": 1306,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 302
+        },
+        "username": "tinanna79835",
+        "verified": false
+      }
+    ]
+  }
+}

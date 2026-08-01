@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2082006339497398742",
+    "created_at": "2026-07-29T04:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T05:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082319946500243622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761386948453883905",
+          "start": 0,
+          "username": "sunjiayu666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082319946500243622",
+    "in_reply_to_user_id": "1761386948453883905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082308415242817713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunjiayu666 杠精你先请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2082006339497398742",
+        "created_at": "2026-07-29T04:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082319946500243622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761386948453883905",
+              "start": 0,
+              "username": "sunjiayu666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082319946500243622",
+        "in_reply_to_user_id": "1761386948453883905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082308415242817713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunjiayu666 杠精你先请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761386948453883905",
+        "conversation_id": "2082006339497398742",
+        "created_at": "2026-07-29T03:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082308415242817713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082308415242817713",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082006339497398742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 从三十楼跳下来就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10779,
+          "following_count": 5,
+          "like_count": 1224,
+          "listed_count": 30,
+          "media_count": 155,
+          "tweet_count": 3229
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T13:45:59.000Z",
+        "description": "",
+        "id": "1761386948453883905",
+        "name": "孙嘉遇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761387065105870848/_PQa-3VZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 490,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 527
+        },
+        "url": "",
+        "username": "sunjiayu666",
+        "verified": false
+      }
+    ]
+  }
+}

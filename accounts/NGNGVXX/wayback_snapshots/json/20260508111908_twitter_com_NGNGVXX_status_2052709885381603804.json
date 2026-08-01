@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2052335730735952083",
+    "created_at": "2026-05-08T11:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052709885381603804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1861072335412887553",
+          "start": 0,
+          "username": "ZiWeiXianSheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052709885381603804",
+    "in_reply_to_user_id": "1861072335412887553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052697950019883204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZiWeiXianSheng 看来你这个紫薇小学生比我这门外汉还无知啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 316,
+        "media_key": "16_2052697938238078976",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHyl5i_bgAAJ2vs.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHyl5i_bgAAJ2vs.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2052335730735952083",
+        "created_at": "2026-05-08T11:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052709885381603804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1861072335412887553",
+              "start": 0,
+              "username": "ZiWeiXianSheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052709885381603804",
+        "in_reply_to_user_id": "1861072335412887553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052697950019883204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZiWeiXianSheng 看来你这个紫薇小学生比我这门外汉还无知啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2052697938238078976"
+          ]
+        },
+        "author_id": "1861072335412887553",
+        "conversation_id": "2052335730735952083",
+        "created_at": "2026-05-08T10:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052697950019883204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0iReP59Muf",
+              "end": 99,
+              "expanded_url": "https://x.com/ZiWeiXianSheng/status/2052697950019883204/photo/1",
+              "media_key": "16_2052697938238078976",
+              "start": 76,
+              "url": "https://t.co/0iReP59Muf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052697950019883204",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052621205954544053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 不想当有钱人，我就不上推了啊。这不是在努力赚钱吗。我的核心意思是。你下辈子发财和你这辈子有啥关系啊。你下辈子是另一个人享福又不是你。 https://t.co/0iReP59Muf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9204,
+          "following_count": 5,
+          "like_count": 1148,
+          "listed_count": 26,
+          "media_count": 105,
+          "tweet_count": 2195
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T15:40:08.000Z",
+        "description": "袋子空空，不要打我主意，割不到的。一滴都没有。😭😭😭😭😭\n紫薇初学者，日常发布学习紫薇的感受。同时学习赚钱之道。听了@dontbesilent12 的直播回放受益匪浅。希望能早日实现财富自由！小白一个请多指教。但请礼貌发言。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "dontbesilent12"
+              }
+            ]
+          }
+        },
+        "id": "1861072335412887553",
+        "location": "地球村",
+        "name": "紫薇小学生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861075351813988352/rh0HgYK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 160,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 169
+        },
+        "username": "ZiWeiXianSheng",
+        "verified": false
+      }
+    ]
+  }
+}

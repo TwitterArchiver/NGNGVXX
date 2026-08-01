@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1972192081138668009",
+    "created_at": "2025-09-28T06:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T07:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972192081138668009"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "le"
+        },
+        {
+          "end": 54,
+          "start": 50,
+          "tag": "les"
+        },
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972192081138668009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "愛就是這麼奇怪；有的人看起來很好，但你無法愛上她。有的人明明没那麼好，但你就是不能不愛她。 #le #les #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1972192081138668009",
+        "created_at": "2025-09-28T06:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T07:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972192081138668009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "le"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "les"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972192081138668009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "愛就是這麼奇怪；有的人看起來很好，但你無法愛上她。有的人明明没那麼好，但你就是不能不愛她。 #le #les #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 7,
+          "like_count": 523,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 446
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

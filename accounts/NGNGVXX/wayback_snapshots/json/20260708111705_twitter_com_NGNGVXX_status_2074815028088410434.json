@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2074465813118280161",
+    "created_at": "2026-07-08T11:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074815028088410434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701249690723926016",
+          "start": 0,
+          "username": "KatrinWill17234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074815028088410434",
+    "in_reply_to_user_id": "1701249690723926016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074749402904973531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KatrinWill17234 空气炸锅和微波炉真的是解冻的好帮手👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2074465813118280161",
+        "created_at": "2026-07-08T11:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074815028088410434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701249690723926016",
+              "start": 0,
+              "username": "KatrinWill17234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074815028088410434",
+        "in_reply_to_user_id": "1701249690723926016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074749402904973531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KatrinWill17234 空气炸锅和微波炉真的是解冻的好帮手👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701249690723926016",
+        "conversation_id": "2074465813118280161",
+        "created_at": "2026-07-08T06:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074749402904973531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074749402904973531",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3529,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074465813118280161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我明白你想借此表达的意思，不过插播一个生活小tip，空气炸锅装一碗水然后调80°或者解冻档10分钟，普通肉块都可以变成冷鲜状态切备，大的就翻面继续解冻直到方便切备"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10390,
+          "following_count": 6,
+          "like_count": 1203,
+          "listed_count": 28,
+          "media_count": 138,
+          "tweet_count": 2927
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T15:02:11.000Z",
+        "description": "不接广，随便记录的活人\n成分复杂难以简介，以前被说可爱，现在完全属于变态。\nintj",
+        "id": "1701249690723926016",
+        "location": "Hong Kong",
+        "name": "说吧超市谁",
+        "pinned_tweet_id": "1806247222583177521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909136539034230784/XZKtWNSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 54,
+          "like_count": 814,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 2430
+        },
+        "url": "",
+        "username": "KatrinWill17234",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2003723836689457514",
+    "created_at": "2025-12-24T07:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T08:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003723836689457514"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2003723836689457514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我深刻的意识到不应该等待被爱，但其实潜意识里还是希望有一个人出现来爱我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2003723836689457514",
+        "created_at": "2025-12-24T07:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T08:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003723836689457514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003723836689457514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我深刻的意识到不应该等待被爱，但其实潜意识里还是希望有一个人出现来爱我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 6,
+          "like_count": 668,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 818
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2079190312233382050",
+    "created_at": "2026-07-21T06:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079455243029626890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1196087401782894595",
+          "start": 0,
+          "username": "BDD0Qf8xkCWRW2p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079455243029626890",
+    "in_reply_to_user_id": "1196087401782894595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079433964335644856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BDD0Qf8xkCWRW2p 你自己爱当狗没人阻止你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2079190312233382050",
+        "created_at": "2026-07-21T06:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079455243029626890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1196087401782894595",
+              "start": 0,
+              "username": "BDD0Qf8xkCWRW2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079455243029626890",
+        "in_reply_to_user_id": "1196087401782894595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079433964335644856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BDD0Qf8xkCWRW2p 你自己爱当狗没人阻止你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1196087401782894595",
+        "conversation_id": "2079190312233382050",
+        "created_at": "2026-07-21T05:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079433964335644856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079433964335644856",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079190312233382050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 对，长大了专杀你们动保"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10603,
+          "following_count": 6,
+          "like_count": 1214,
+          "listed_count": 30,
+          "media_count": 150,
+          "tweet_count": 3102
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-17T15:27:25.000Z",
+        "description": "乱自上作也。",
+        "id": "1196087401782894595",
+        "name": "Innocent Monster",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1251225535063248898/A5g0GJPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "BDD0Qf8xkCWRW2p",
+        "verified": false
+      }
+    ]
+  }
+}

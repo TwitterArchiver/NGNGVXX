@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2064664562998366395",
+    "created_at": "2026-06-10T14:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064719803890487770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2030358010619625472",
+          "start": 0,
+          "username": "linlin999lin9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064719803890487770",
+    "in_reply_to_user_id": "2030358010619625472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064718037954240881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlin999lin9 这条法有利于哪种特定的群体一目了然了吧，为什么这位女同学的建议会掀起如此巨大的讨论度和关注度？不就是因为动了某群体性癖的蛋糕吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2064664562998366395",
+        "created_at": "2026-06-10T14:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064719803890487770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2030358010619625472",
+              "start": 0,
+              "username": "linlin999lin9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064719803890487770",
+        "in_reply_to_user_id": "2030358010619625472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064718037954240881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin999lin9 这条法有利于哪种特定的群体一目了然了吧，为什么这位女同学的建议会掀起如此巨大的讨论度和关注度？不就是因为动了某群体性癖的蛋糕吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030358010619625472",
+        "conversation_id": "2064664562998366395",
+        "created_at": "2026-06-10T14:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064718037954240881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064718037954240881",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064664562998366395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 这样真的难以理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9919,
+          "following_count": 6,
+          "like_count": 1182,
+          "listed_count": 28,
+          "media_count": 114,
+          "tweet_count": 2539
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T19:00:54.000Z",
+        "description": "🚪99碎碎念switch 佛系主包 经常不在线 waiting 希望大家得偿所愿 温柔待人 善良渡己 喜欢我靠近我 离不开我 私信会回or口令赞赏",
+        "id": "2030358010619625472",
+        "location": "福州 99➕",
+        "name": "碎碎冰旺旺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031391076645482499/S1DF1_jJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 9,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 932
+        },
+        "username": "linlin999lin9",
+        "verified": false
+      }
+    ]
+  }
+}

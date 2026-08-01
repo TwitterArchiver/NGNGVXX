@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071269777809825792"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2071269784814317703",
+    "created_at": "2026-06-28T16:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071269784814317703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BICfY3I0kn",
+          "end": 161,
+          "expanded_url": "https://x.com/NGNGVXX/status/2071269784814317703/photo/1",
+          "media_key": "3_2071269777809825792",
+          "start": 138,
+          "url": "https://t.co/BICfY3I0kn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071269784814317703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友们，必要时请向小猫学习：1.冷漠对待讨厌的人；2.不喜欢的声音直接无视；3.不必刻意融入哪一个团体；4.遇事别慌多睡大觉；5.饿了就吃饭，喜欢就咬住；6.不该操的心不操，不该管的事不管；7.感到舒服时也是可以离开的；8.不开心就喵喵大叫；9.只在自己的世界里快乐也很好。 https://t.co/BICfY3I0kn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_2071269777809825792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6g44xbYAAAc2N.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071269777809825792"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2071269784814317703",
+        "created_at": "2026-06-28T16:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071269784814317703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BICfY3I0kn",
+              "end": 161,
+              "expanded_url": "https://x.com/NGNGVXX/status/2071269784814317703/photo/1",
+              "media_key": "3_2071269777809825792",
+              "start": 138,
+              "url": "https://t.co/BICfY3I0kn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071269784814317703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们，必要时请向小猫学习：1.冷漠对待讨厌的人；2.不喜欢的声音直接无视；3.不必刻意融入哪一个团体；4.遇事别慌多睡大觉；5.饿了就吃饭，喜欢就咬住；6.不该操的心不操，不该管的事不管；7.感到舒服时也是可以离开的；8.不开心就喵喵大叫；9.只在自己的世界里快乐也很好。 https://t.co/BICfY3I0kn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10170,
+          "following_count": 6,
+          "like_count": 1201,
+          "listed_count": 29,
+          "media_count": 132,
+          "tweet_count": 2800
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

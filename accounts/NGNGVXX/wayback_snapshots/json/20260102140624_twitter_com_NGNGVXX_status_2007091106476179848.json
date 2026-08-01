@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007091099589115904"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2007091106476179848",
+    "created_at": "2026-01-02T14:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T15:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007091106476179848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/19BhAM3LxW",
+          "end": 78,
+          "expanded_url": "https://x.com/NGNGVXX/status/2007091106476179848/photo/1",
+          "media_key": "3_2007091099589115904",
+          "start": 55,
+          "url": "https://t.co/19BhAM3LxW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007091106476179848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早上和我爸出门，电梯出故障困里面了，\n\n我爸：:\"嘿siri, 告诉我老婆我爱她\n\n然后我妈收到了这条短信： https://t.co/19BhAM3LxW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 328,
+        "media_key": "3_2007091099589115904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qeuJbbgAA6I5D.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007091099589115904"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2007091106476179848",
+        "created_at": "2026-01-02T14:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007091106476179848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/19BhAM3LxW",
+              "end": 78,
+              "expanded_url": "https://x.com/NGNGVXX/status/2007091106476179848/photo/1",
+              "media_key": "3_2007091099589115904",
+              "start": 55,
+              "url": "https://t.co/19BhAM3LxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007091106476179848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上和我爸出门，电梯出故障困里面了，\n\n我爸：:\"嘿siri, 告诉我老婆我爱她\n\n然后我妈收到了这条短信： https://t.co/19BhAM3LxW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3661,
+          "following_count": 6,
+          "like_count": 825,
+          "listed_count": 10,
+          "media_count": 51,
+          "tweet_count": 918
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

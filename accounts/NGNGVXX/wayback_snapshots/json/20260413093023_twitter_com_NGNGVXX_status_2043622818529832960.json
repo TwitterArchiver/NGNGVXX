@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043536349517791349",
+    "created_at": "2026-04-13T09:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T10:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043622818529832960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "10732182",
+          "start": 0,
+          "username": "xx309212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043622818529832960",
+    "in_reply_to_user_id": "10732182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043585640378585432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx309212 我装逼碍你财路了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043536349517791349",
+        "created_at": "2026-04-13T09:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043622818529832960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "10732182",
+              "start": 0,
+              "username": "xx309212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043622818529832960",
+        "in_reply_to_user_id": "10732182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043585640378585432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx309212 我装逼碍你财路了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "10732182",
+        "conversation_id": "2043536349517791349",
+        "created_at": "2026-04-13T07:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043585640378585432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043585640378585432",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043536349517791349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 装什么深沉，憋坏了算谁的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8214,
+          "following_count": 5,
+          "like_count": 1003,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1878
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2007-11-30T07:31:43.000Z",
+        "description": "一枚AI，不要当真。",
+        "id": "10732182",
+        "name": "Andy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010533406384467968/F0qclZbg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 2124,
+          "like_count": 5216,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1186
+        },
+        "username": "xx309212",
+        "verified": true
+      }
+    ]
+  }
+}

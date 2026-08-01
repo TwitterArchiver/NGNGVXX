@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1985658986688102879",
+    "created_at": "2025-11-04T10:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T11:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985658986688102879"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 123,
+          "start": 119,
+          "tag": "les"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "le"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985658986688102879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好讨厌明知道纠缠只会消耗彼此，明知道思维存在以现在的能力几乎不可能磨合好的巨大差异，明知道尝试过除了解决人以外的各种解决办法，最后好像只有放开对方的手还其自由，才能停止亲密关系带来的远大于快乐的痛苦，却还妄图跟这个人有以后的感觉。 ​​​#les #le #女同\n3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1985658986688102879",
+        "created_at": "2025-11-04T10:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985658986688102879"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "les"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "le"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985658986688102879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好讨厌明知道纠缠只会消耗彼此，明知道思维存在以现在的能力几乎不可能磨合好的巨大差异，明知道尝试过除了解决人以外的各种解决办法，最后好像只有放开对方的手还其自由，才能停止亲密关系带来的远大于快乐的痛苦，却还妄图跟这个人有以后的感觉。 ​​​#les #le #女同\n3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 7,
+          "like_count": 535,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 583
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2039633752087998829",
+    "created_at": "2026-04-02T11:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039668297432768568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1740284888123879424",
+          "start": 0,
+          "username": "TaTathelllll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039668297432768568",
+    "in_reply_to_user_id": "1740284888123879424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039666952373973191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaTathelllll 可以了解一下千元以上的耳机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2039633752087998829",
+        "created_at": "2026-04-02T11:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039668297432768568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1740284888123879424",
+              "start": 0,
+              "username": "TaTathelllll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039668297432768568",
+        "in_reply_to_user_id": "1740284888123879424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039666952373973191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaTathelllll 可以了解一下千元以上的耳机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740284888123879424",
+        "conversation_id": "2039633752087998829",
+        "created_at": "2026-04-02T11:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039666952373973191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039666952373973191",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039633752087998829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 但没降噪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8144,
+          "following_count": 5,
+          "like_count": 987,
+          "listed_count": 23,
+          "media_count": 100,
+          "tweet_count": 1774
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T08:14:04.000Z",
+        "description": "",
+        "id": "1740284888123879424",
+        "name": "stommm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011489501848461312/JQWmd9ed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 2,
+          "like_count": 1914,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 328
+        },
+        "username": "TaTathelllll",
+        "verified": false
+      }
+    ]
+  }
+}

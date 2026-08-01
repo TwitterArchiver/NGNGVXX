@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049415104484249600"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2049415126571528602",
+    "created_at": "2026-04-29T09:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049415126571528602"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XvZYU9s6ec",
+          "end": 40,
+          "expanded_url": "https://x.com/NGNGVXX/status/2049415126571528602/video/1",
+          "media_key": "13_2049415104484249600",
+          "start": 17,
+          "url": "https://t.co/XvZYU9s6ec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049415126571528602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给小狗喝水的盆怎么变成烟灰缸了？ https://t.co/XvZYU9s6ec"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2833,
+        "height": 1317,
+        "media_key": "13_2049415104484249600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049415104484249600/img/seQW6q8wPhX-i_XF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049415104484249600/vid/avc1/320x390/Cgb1weAEMy6VZXuS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049415104484249600/vid/avc1/480x584/eVPPSnT5g93Gl5nJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049415104484249600/vid/avc1/720x878/Ff_hfX4m2aP-arvl.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049415104484249600/pl/GxXqWDFv5Iy_pe7W.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049415104484249600"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2049415126571528602",
+        "created_at": "2026-04-29T09:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049415126571528602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvZYU9s6ec",
+              "end": 40,
+              "expanded_url": "https://x.com/NGNGVXX/status/2049415126571528602/video/1",
+              "media_key": "13_2049415104484249600",
+              "start": 17,
+              "url": "https://t.co/XvZYU9s6ec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049415126571528602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给小狗喝水的盆怎么变成烟灰缸了？ https://t.co/XvZYU9s6ec"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8964,
+          "following_count": 4,
+          "like_count": 1121,
+          "listed_count": 24,
+          "media_count": 108,
+          "tweet_count": 2120
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

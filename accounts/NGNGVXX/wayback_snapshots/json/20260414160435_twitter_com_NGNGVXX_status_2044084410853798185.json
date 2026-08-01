@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2044030383889805383",
+    "created_at": "2026-04-14T16:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044084410853798185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1836448795955204097",
+          "start": 0,
+          "username": "j66666aaaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044084410853798185",
+    "in_reply_to_user_id": "1836448795955204097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044081484311781641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@j66666aaaaaa 00后也不小了，一半以上都可以合法领结婚证了。看透了婚姻的本质不代表就一定就恐婚拒婚，相反的或许00后可以创造独属于00后的婚姻现象。一代人有一代人的活法，没有最好或最坏。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2044030383889805383",
+        "created_at": "2026-04-14T16:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044084410853798185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1836448795955204097",
+              "start": 0,
+              "username": "j66666aaaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044084410853798185",
+        "in_reply_to_user_id": "1836448795955204097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044081484311781641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j66666aaaaaa 00后也不小了，一半以上都可以合法领结婚证了。看透了婚姻的本质不代表就一定就恐婚拒婚，相反的或许00后可以创造独属于00后的婚姻现象。一代人有一代人的活法，没有最好或最坏。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836448795955204097",
+        "conversation_id": "2044030383889805383",
+        "created_at": "2026-04-14T15:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044081484311781641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044081484311781641",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044030383889805383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 阿对对对 小小年纪 都看清了呢 获得了至高真理\n不过是一个现代解构主义罢了 \n解构主义就像蝗虫一样 吃掉了所有 然后呢😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8290,
+          "following_count": 5,
+          "like_count": 1037,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1945
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T16:54:58.000Z",
+        "description": "你看 你又急又破防了",
+        "id": "1836448795955204097",
+        "name": "Adewole Esan",
+        "pinned_tweet_id": "2039274226662916203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040287560711454720/rVhp4mwW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 1699,
+          "like_count": 76403,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 48397
+        },
+        "username": "j66666aaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2019255432766976016",
+    "created_at": "2026-02-05T03:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T04:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019255432766976016"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019255432766976016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱和被爱不是能力，是余力。\n有生存焦虑的人是没能力去爱的\n就像玩游戏时，全然在担心会不会被怪打死的人，是不可能享受探索地图的乐趣的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2019255432766976016",
+        "created_at": "2026-02-05T03:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T04:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019255432766976016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019255432766976016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱和被爱不是能力，是余力。\n有生存焦虑的人是没能力去爱的\n就像玩游戏时，全然在担心会不会被怪打死的人，是不可能享受探索地图的乐趣的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6153,
+          "following_count": 5,
+          "like_count": 925,
+          "listed_count": 16,
+          "media_count": 66,
+          "tweet_count": 1257
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

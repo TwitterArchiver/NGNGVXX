@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2064739111823671495",
+    "created_at": "2026-06-10T15:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064739111823671495"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064739111823671495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很多亲密关系中的烦恼，都是因为人不懂“尊重”的重要性而引发的。\n\n不尊重自己，所以愿意和践踏自己的人结成关系。不尊重他人，所以愿意和自己瞧不上的人混在一起。这两种行为，都会结出恶果。\n\n自尊自重、尊重他人是人格的基石，也是获得幸福的关键。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2064739111823671495",
+        "created_at": "2026-06-10T15:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064739111823671495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064739111823671495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多亲密关系中的烦恼，都是因为人不懂“尊重”的重要性而引发的。\n\n不尊重自己，所以愿意和践踏自己的人结成关系。不尊重他人，所以愿意和自己瞧不上的人混在一起。这两种行为，都会结出恶果。\n\n自尊自重、尊重他人是人格的基石，也是获得幸福的关键。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9919,
+          "following_count": 6,
+          "like_count": 1182,
+          "listed_count": 28,
+          "media_count": 115,
+          "tweet_count": 2543
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

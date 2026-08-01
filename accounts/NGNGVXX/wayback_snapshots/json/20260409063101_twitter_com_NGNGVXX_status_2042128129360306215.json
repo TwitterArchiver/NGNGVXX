@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2042128129360306215",
+    "created_at": "2026-04-09T06:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042128129360306215"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042128129360306215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最好的状态，就是销声匿迹，半隐半藏。除了谋生与安身，不必再迎合无效社交，不必贪恋热闹喧哗。\n\n正如杨绛先生所言：“我们曾如此渴望命运的波澜，到最后才发现：人生最曼妙的风景，竟是内心的淡定与从容。”\n\n少言，少欲，少争。是清醒，是自愈，是归真！\n你越静，路越宽！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2042128129360306215",
+        "created_at": "2026-04-09T06:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042128129360306215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042128129360306215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最好的状态，就是销声匿迹，半隐半藏。除了谋生与安身，不必再迎合无效社交，不必贪恋热闹喧哗。\n\n正如杨绛先生所言：“我们曾如此渴望命运的波澜，到最后才发现：人生最曼妙的风景，竟是内心的淡定与从容。”\n\n少言，少欲，少争。是清醒，是自愈，是归真！\n你越静，路越宽！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8244,
+          "following_count": 5,
+          "like_count": 994,
+          "listed_count": 22,
+          "media_count": 101,
+          "tweet_count": 1836
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

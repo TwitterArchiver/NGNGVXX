@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2082006339497398742",
+    "created_at": "2026-07-28T11:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082066324948484193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1467566519127138308",
+          "start": 0,
+          "username": "baizhi79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082066324948484193",
+    "in_reply_to_user_id": "1467566519127138308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082061570541277358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhi79 也没有这个条件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2082006339497398742",
+        "created_at": "2026-07-28T11:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082066324948484193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1467566519127138308",
+              "start": 0,
+              "username": "baizhi79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082066324948484193",
+        "in_reply_to_user_id": "1467566519127138308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082061570541277358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhi79 也没有这个条件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467566519127138308",
+        "conversation_id": "2082006339497398742",
+        "created_at": "2026-07-28T11:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082061570541277358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082061570541277358",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082057926748053799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 😂那就去郊区，骑个自行车日落的时候戴着耳机，不要一直一个人困在房间里。我从ICU里出来第一件事，去爬雪山了。我觉得我要突然嘎了，我还没爬过雪山，好亏的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10754,
+          "following_count": 5,
+          "like_count": 1224,
+          "listed_count": 31,
+          "media_count": 155,
+          "tweet_count": 3224
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T18:48:33.000Z",
+        "description": "灵魂有趣的大叔",
+        "id": "1467566519127138308",
+        "name": "躲在夜里",
+        "pinned_tweet_id": "1597981270436290565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657053177517056001/ypAp14dk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 237,
+          "like_count": 85197,
+          "listed_count": 6,
+          "media_count": 200,
+          "tweet_count": 5277
+        },
+        "url": "",
+        "username": "baizhi79",
+        "verified": false
+      }
+    ]
+  }
+}

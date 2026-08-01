@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961293279838015488",
+        "3_1961293299966509057"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "1961293370120196257",
+    "created_at": "2025-08-29T05:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T06:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961293370120196257"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "le"
+        },
+        {
+          "end": 27,
+          "start": 23,
+          "tag": "les"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "女同"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qnginxZzAH",
+          "end": 55,
+          "expanded_url": "https://x.com/NGNGVXX/status/1961293370120196257/photo/1",
+          "media_key": "3_1961293279838015488",
+          "start": 32,
+          "url": "https://t.co/qnginxZzAH"
+        },
+        {
+          "display_url": "pic.x.com/qnginxZzAH",
+          "end": 55,
+          "expanded_url": "https://x.com/NGNGVXX/status/1961293370120196257/photo/1",
+          "media_key": "3_1961293299966509057",
+          "start": 32,
+          "url": "https://t.co/qnginxZzAH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961293370120196257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听闻小姐治家有方，鄙人余生愿闻其详。 #le #les #女同 https://t.co/qnginxZzAH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_1961293279838015488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzfp2L0bEAAjOJG.jpg",
+        "width": 690
+      },
+      {
+        "height": 690,
+        "media_key": "3_1961293299966509057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzfp3WzbgAEQHwN.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961293279838015488",
+            "3_1961293299966509057"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "1961293370120196257",
+        "created_at": "2025-08-29T05:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T06:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961293370120196257"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "le"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "les"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "女同"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qnginxZzAH",
+              "end": 55,
+              "expanded_url": "https://x.com/NGNGVXX/status/1961293370120196257/photo/1",
+              "media_key": "3_1961293279838015488",
+              "start": 32,
+              "url": "https://t.co/qnginxZzAH"
+            },
+            {
+              "display_url": "pic.x.com/qnginxZzAH",
+              "end": 55,
+              "expanded_url": "https://x.com/NGNGVXX/status/1961293370120196257/photo/1",
+              "media_key": "3_1961293299966509057",
+              "start": 32,
+              "url": "https://t.co/qnginxZzAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961293370120196257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听闻小姐治家有方，鄙人余生愿闻其详。 #le #les #女同 https://t.co/qnginxZzAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 6,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 413
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

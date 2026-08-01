@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2067974608507318540",
+    "created_at": "2026-06-21T06:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068587371852091855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1519049896703184897",
+          "start": 0,
+          "username": "ZoeZzzz0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068587371852091855",
+    "in_reply_to_user_id": "1519049896703184897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068209226753900726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZoeZzzz0 支付宝跑路的话，中国会陷入瘫痪状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2067974608507318540",
+        "created_at": "2026-06-21T06:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068587371852091855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1519049896703184897",
+              "start": 0,
+              "username": "ZoeZzzz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068587371852091855",
+        "in_reply_to_user_id": "1519049896703184897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068209226753900726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZoeZzzz0 支付宝跑路的话，中国会陷入瘫痪状态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519049896703184897",
+        "conversation_id": "2067974608507318540",
+        "created_at": "2026-06-20T05:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068209226753900726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068209226753900726",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1234,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067974608507318540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 那支付宝就跑路了哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10111,
+          "following_count": 6,
+          "like_count": 1197,
+          "listed_count": 27,
+          "media_count": 126,
+          "tweet_count": 2687
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-26T20:25:19.000Z",
+        "description": "清醒、自律、偶尔失控。喜欢分享音乐、夜景和生活瞬间。生活在上海",
+        "id": "1519049896703184897",
+        "location": "上海",
+        "name": "碎个好觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059210498655301632/YA4qxaHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 71,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "ZoeZzzz0",
+        "verified": false
+      }
+    ]
+  }
+}

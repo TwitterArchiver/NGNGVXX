@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2000472409334530233",
+    "created_at": "2025-12-16T07:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T08:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000835162641412396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1492163352273252352",
+          "start": 0,
+          "username": "NeymarJr010407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000835162641412396",
+    "in_reply_to_user_id": "1492163352273252352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000818502719168631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeymarJr010407 要抬杠请到别处去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2000472409334530233",
+        "created_at": "2025-12-16T07:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T08:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000835162641412396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1492163352273252352",
+              "start": 0,
+              "username": "NeymarJr010407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000835162641412396",
+        "in_reply_to_user_id": "1492163352273252352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000818502719168631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeymarJr010407 要抬杠请到别处去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492163352273252352",
+        "conversation_id": "2000472409334530233",
+        "created_at": "2025-12-16T06:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T07:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000818502719168631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000818502719168631",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000472409334530233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 你对上述文字有怎样的思考？请自选立意写一篇不少于800字的文章，表达你的思考。不得抄袭，不得泄露个人信息。文体不限，诗歌除外。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 7,
+          "like_count": 605,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 805
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T15:47:30.000Z",
+        "description": "",
+        "id": "1492163352273252352",
+        "name": "🐴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992866391167582208/_bH-Xpxi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 96,
+          "like_count": 238,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 747
+        },
+        "username": "NeymarJr010407",
+        "verified": false
+      }
+    ]
+  }
+}

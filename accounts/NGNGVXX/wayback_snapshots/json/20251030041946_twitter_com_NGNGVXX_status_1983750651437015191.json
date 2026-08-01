@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1983750651437015191",
+    "created_at": "2025-10-30T04:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983750651437015191"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "les"
+        },
+        {
+          "end": 140,
+          "start": 137,
+          "tag": "le"
+        },
+        {
+          "end": 144,
+          "start": 141,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983750651437015191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可是我觉得真正被爱的时候\n是可以穿着你宽大的T恤在屋子里蹦蹦跳跳是在你面前把眼睛哭到红肿你也会摸摸我的头是你爱我有痘痘和黑眼圈的脸和带着疤痕的身体\n如果你只爱我卷翘的睫毛只爱我艳丽的唇色只爱我搭配了一小时的衣服\n我要怎么办呢\n我要永远在你面前光鲜亮丽吗 ​​​\n\n#les #le #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1983750651437015191",
+        "created_at": "2025-10-30T04:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983750651437015191"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "les"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "le"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983750651437015191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是我觉得真正被爱的时候\n是可以穿着你宽大的T恤在屋子里蹦蹦跳跳是在你面前把眼睛哭到红肿你也会摸摸我的头是你爱我有痘痘和黑眼圈的脸和带着疤痕的身体\n如果你只爱我卷翘的睫毛只爱我艳丽的唇色只爱我搭配了一小时的衣服\n我要怎么办呢\n我要永远在你面前光鲜亮丽吗 ​​​\n\n#les #le #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 7,
+          "like_count": 533,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 557
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

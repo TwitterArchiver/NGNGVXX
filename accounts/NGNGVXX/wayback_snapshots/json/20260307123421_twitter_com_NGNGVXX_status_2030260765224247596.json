@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2030260765224247596",
+    "created_at": "2026-03-07T12:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T13:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030260765224247596"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030260765224247596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很多个时刻我都想起了你，可我始终不会去找你。我们沉默地躺在彼此的列表里，却不再有任何联系。大概你我都清楚，再怎么修改，也不会有更好的结局了。仅剩的那点情意，就远远躲着好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2030260765224247596",
+        "created_at": "2026-03-07T12:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030260765224247596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030260765224247596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多个时刻我都想起了你，可我始终不会去找你。我们沉默地躺在彼此的列表里，却不再有任何联系。大概你我都清楚，再怎么修改，也不会有更好的结局了。仅剩的那点情意，就远远躲着好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7416,
+          "following_count": 5,
+          "like_count": 972,
+          "listed_count": 18,
+          "media_count": 86,
+          "tweet_count": 1515
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

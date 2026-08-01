@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2030919703192088809",
+    "created_at": "2026-03-09T08:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T09:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030919703192088809"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030919703192088809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一些事实：\n1.大家都会后悔向某些人坦诚过心扉\n2.过度友善会被别人当作廉价示好\n3.尊重不一定换来尊重 但实力可以\n4.原谅一个人很容易 但是再次信任就比较难了\n5.放弃讨好别人 就会开心起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2030919703192088809",
+        "created_at": "2026-03-09T08:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030919703192088809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030919703192088809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一些事实：\n1.大家都会后悔向某些人坦诚过心扉\n2.过度友善会被别人当作廉价示好\n3.尊重不一定换来尊重 但实力可以\n4.原谅一个人很容易 但是再次信任就比较难了\n5.放弃讨好别人 就会开心起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7450,
+          "following_count": 5,
+          "like_count": 971,
+          "listed_count": 18,
+          "media_count": 87,
+          "tweet_count": 1528
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

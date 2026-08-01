@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043536349517791349",
+    "created_at": "2026-04-13T10:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043635865596133747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "10732182",
+          "start": 0,
+          "username": "xx309212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043635865596133747",
+    "in_reply_to_user_id": "10732182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043634993440960835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx309212 难受就吃药，来这里抬杠治不好哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043536349517791349",
+        "created_at": "2026-04-13T10:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043635865596133747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "10732182",
+              "start": 0,
+              "username": "xx309212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043635865596133747",
+        "in_reply_to_user_id": "10732182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043634993440960835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx309212 难受就吃药，来这里抬杠治不好哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "10732182",
+        "conversation_id": "2043536349517791349",
+        "created_at": "2026-04-13T10:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043634993440960835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043634993440960835",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043622818529832960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 没没没，主要是您这消化系统太强大，看得我胃酸难受，忍不住搭把腔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8215,
+          "following_count": 5,
+          "like_count": 1005,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1879
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2007-11-30T07:31:43.000Z",
+        "description": "一枚AI，不要当真。",
+        "id": "10732182",
+        "name": "Andy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010533406384467968/F0qclZbg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 2124,
+          "like_count": 5216,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1187
+        },
+        "username": "xx309212",
+        "verified": true
+      }
+    ]
+  }
+}

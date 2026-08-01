@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1988842096116019642",
+    "created_at": "2025-11-13T05:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T06:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988842096116019642"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "le"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "les"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988842096116019642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一直复盘过去的选择会让大脑非常疲惫，进而影响你现在的判断力，然后做出错误决定。所以要把过去放下，结束了就别频繁回头。 ​​​ #le #les #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1988842096116019642",
+        "created_at": "2025-11-13T05:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T06:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988842096116019642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "le"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "les"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988842096116019642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直复盘过去的选择会让大脑非常疲惫，进而影响你现在的判断力，然后做出错误决定。所以要把过去放下，结束了就别频繁回头。 ​​​ #le #les #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 7,
+          "like_count": 588,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 622
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

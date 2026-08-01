@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914601378921807872"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "1914601470181433717",
+    "created_at": "2025-04-22T08:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T09:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914601470181433717"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "les"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "女同"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bL5HoTrEnO",
+          "end": 49,
+          "expanded_url": "https://x.com/NGNGVXX/status/1914601470181433717/photo/1",
+          "media_key": "3_1914601378921807872",
+          "start": 26,
+          "url": "https://t.co/bL5HoTrEnO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914601470181433717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "短暂的相遇，好像是在惩罚认真的人。#les #女同 https://t.co/bL5HoTrEnO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1914601378921807872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpIHz2UbgAAOlo6.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914601378921807872"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "1914601470181433717",
+        "created_at": "2025-04-22T08:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T09:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914601470181433717"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "les"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "女同"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bL5HoTrEnO",
+              "end": 49,
+              "expanded_url": "https://x.com/NGNGVXX/status/1914601470181433717/photo/1",
+              "media_key": "3_1914601378921807872",
+              "start": 26,
+              "url": "https://t.co/bL5HoTrEnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914601470181433717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "短暂的相遇，好像是在惩罚认真的人。#les #女同 https://t.co/bL5HoTrEnO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 8,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 382
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

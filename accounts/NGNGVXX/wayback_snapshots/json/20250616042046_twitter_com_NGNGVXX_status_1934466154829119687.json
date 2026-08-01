@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934466107286634496"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "1934466154829119687",
+    "created_at": "2025-06-16T04:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T05:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934466154829119687"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 37,
+          "tag": "les"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "le"
+        },
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "wlw"
+        },
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "女同"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rNSdtEDdSR",
+          "end": 78,
+          "expanded_url": "https://x.com/NGNGVXX/status/1934466154829119687/photo/1",
+          "media_key": "3_1934466107286634496",
+          "start": 55,
+          "url": "https://t.co/rNSdtEDdSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934466154829119687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我大概是疯了，竟然想在这全是欲望的世界里找到个灵魂契合又生理性喜欢的人。 #les #le #wlw #女同 https://t.co/rNSdtEDdSR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1835,
+        "media_key": "3_1934466107286634496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtiarOLaQAApSMH.jpg",
+        "width": 1195
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934466107286634496"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "1934466154829119687",
+        "created_at": "2025-06-16T04:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T05:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934466154829119687"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "les"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "le"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "wlw"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "女同"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNSdtEDdSR",
+              "end": 78,
+              "expanded_url": "https://x.com/NGNGVXX/status/1934466154829119687/photo/1",
+              "media_key": "3_1934466107286634496",
+              "start": 55,
+              "url": "https://t.co/rNSdtEDdSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934466154829119687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我大概是疯了，竟然想在这全是欲望的世界里找到个灵魂契合又生理性喜欢的人。 #les #le #wlw #女同 https://t.co/rNSdtEDdSR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 7,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 400
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

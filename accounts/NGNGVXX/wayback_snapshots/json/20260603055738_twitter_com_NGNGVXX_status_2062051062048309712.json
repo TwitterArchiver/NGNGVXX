@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2062051062048309712",
+    "created_at": "2026-06-03T05:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062051062048309712"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062051062048309712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很多女生特别害怕被分手，一有风吹草动就开始疯狂内耗。这里面的根本原因其实是，总觉得被分手说明自己不够好，认为这是一种对自身价值的否定。但事实其实并不是这样。别人选择离开，和你好不好没有关系，只和需求是否匹配有关。如果对方需要的是a特质，你的b特质再好，他也不受用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2062051062048309712",
+        "created_at": "2026-06-03T05:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062051062048309712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062051062048309712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多女生特别害怕被分手，一有风吹草动就开始疯狂内耗。这里面的根本原因其实是，总觉得被分手说明自己不够好，认为这是一种对自身价值的否定。但事实其实并不是这样。别人选择离开，和你好不好没有关系，只和需求是否匹配有关。如果对方需要的是a特质，你的b特质再好，他也不受用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9838,
+          "following_count": 6,
+          "like_count": 1178,
+          "listed_count": 28,
+          "media_count": 110,
+          "tweet_count": 2473
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

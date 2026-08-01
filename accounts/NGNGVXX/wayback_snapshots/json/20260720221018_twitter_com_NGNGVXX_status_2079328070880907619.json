@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2079052326523043975",
+    "created_at": "2026-07-20T22:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T23:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079328070880907619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1695808089084010496",
+          "start": 0,
+          "username": "NM078729445399"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079328070880907619",
+    "in_reply_to_user_id": "1695808089084010496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079237539463098374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NM078729445399 你脑子有泡否"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2079052326523043975",
+        "created_at": "2026-07-20T22:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079328070880907619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1695808089084010496",
+              "start": 0,
+              "username": "NM078729445399"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079328070880907619",
+        "in_reply_to_user_id": "1695808089084010496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079237539463098374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NM078729445399 你脑子有泡否"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695808089084010496",
+        "conversation_id": "2079052326523043975",
+        "created_at": "2026-07-20T16:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079237539463098374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079237539463098374",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079052326523043975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 说得不错\n\n但有一个问题非常重要\n\n人的生命从何时开始？\n\n如果人的生命从何开始搞不清\n\n就遑论明白什么是人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10602,
+          "following_count": 6,
+          "like_count": 1214,
+          "listed_count": 30,
+          "media_count": 150,
+          "tweet_count": 3100
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T14:39:02.000Z",
+        "description": "God bless America",
+        "id": "1695808089084010496",
+        "name": "X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695808144088162304/tL5rxV4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 357,
+          "like_count": 30565,
+          "listed_count": 2,
+          "media_count": 866,
+          "tweet_count": 8201
+        },
+        "url": "",
+        "username": "NM078729445399",
+        "verified": false
+      }
+    ]
+  }
+}

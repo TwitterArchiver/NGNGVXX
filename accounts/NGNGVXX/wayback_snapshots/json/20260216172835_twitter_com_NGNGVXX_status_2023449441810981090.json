@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2023449441810981090",
+    "created_at": "2026-02-16T17:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T18:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023449441810981090"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023449441810981090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在自己能力范围内，一点苦都不要吃一点难听的话都不要听。不舒服的关系就断掉，要记住普通人不必过度追求幸福只需要规避痛苦，一定要丢掉那些没必要的愧疚感，能让自己好过就一定不要让自己难过。人不是老了才会死而是随时都会死，所以一定要好好爱自己，不去吃没必有要的苦，把自己的感受放在第一位。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2023449441810981090",
+        "created_at": "2026-02-16T17:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023449441810981090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023449441810981090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在自己能力范围内，一点苦都不要吃一点难听的话都不要听。不舒服的关系就断掉，要记住普通人不必过度追求幸福只需要规避痛苦，一定要丢掉那些没必要的愧疚感，能让自己好过就一定不要让自己难过。人不是老了才会死而是随时都会死，所以一定要好好爱自己，不去吃没必有要的苦，把自己的感受放在第一位。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7034,
+          "following_count": 5,
+          "like_count": 947,
+          "listed_count": 16,
+          "media_count": 72,
+          "tweet_count": 1374
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

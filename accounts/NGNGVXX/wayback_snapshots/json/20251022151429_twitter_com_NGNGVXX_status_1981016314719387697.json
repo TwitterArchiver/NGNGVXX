@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1981016314719387697",
+    "created_at": "2025-10-22T15:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T16:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981016314719387697"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981016314719387697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亲爱的女孩：世界上从不缺漂亮的女生，稳定的内核才是真正的迷人之处，所以你要读书，去见识广袤的天地，去成为更好的自己。在新思想中涅槃重生，目标明确，经济独立，思想独立，人格独立，这些不是在某一刻熠熠生辉，而是在以后的每一个孤立无援的时刻，成为自己最坚实的底气。先有自我，才无枷锁。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1981016314719387697",
+        "created_at": "2025-10-22T15:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T16:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981016314719387697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981016314719387697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的女孩：世界上从不缺漂亮的女生，稳定的内核才是真正的迷人之处，所以你要读书，去见识广袤的天地，去成为更好的自己。在新思想中涅槃重生，目标明确，经济独立，思想独立，人格独立，这些不是在某一刻熠熠生辉，而是在以后的每一个孤立无援的时刻，成为自己最坚实的底气。先有自我，才无枷锁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 7,
+          "like_count": 528,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 500
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

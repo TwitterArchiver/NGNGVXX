@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2041004780139729074",
+    "created_at": "2026-04-06T08:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041070951123808645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1807557409503883264",
+          "start": 0,
+          "username": "jjjkkk8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041070951123808645",
+    "in_reply_to_user_id": "1807557409503883264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041070496197059006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjjkkk8964 建议远离"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2041070493349158912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNWzLWboAAz5vH.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2041004780139729074",
+        "created_at": "2026-04-06T08:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041070951123808645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1807557409503883264",
+              "start": 0,
+              "username": "jjjkkk8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041070951123808645",
+        "in_reply_to_user_id": "1807557409503883264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041070496197059006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjjkkk8964 建议远离"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041070493349158912"
+          ]
+        },
+        "author_id": "1807557409503883264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041004780139729074",
+        "created_at": "2026-04-06T08:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041070496197059006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMrzNntJ03",
+              "end": 80,
+              "expanded_url": "https://x.com/jjjkkk8964/status/2041070496197059006/photo/1",
+              "media_key": "3_2041070493349158912",
+              "start": 57,
+              "url": "https://t.co/CMrzNntJ03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041070496197059006",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041004780139729074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我不行了我把你的文案转空间动态了结果\n我都不敢笑 直接破防了\n他生气了 我都笑的没有哄的力气了 https://t.co/CMrzNntJ03"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8245,
+          "following_count": 5,
+          "like_count": 990,
+          "listed_count": 23,
+          "media_count": 101,
+          "tweet_count": 1817
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T23:30:58.000Z",
+        "description": "不正常人｜仅晚上在线｜发推只是碎碎念不喜欢可以屏蔽｜喜欢各种台本",
+        "id": "1807557409503883264",
+        "name": "kk",
+        "pinned_tweet_id": "1961115278965866618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022416027037110273/p7haU6ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 47,
+          "like_count": 4295,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 2756
+        },
+        "username": "jjjkkk8964",
+        "verified": false
+      }
+    ]
+  }
+}

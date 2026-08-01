@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043362128741192012",
+    "created_at": "2026-04-14T09:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043983388705763591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1651940062010175488",
+          "start": 0,
+          "username": "TXdu114496"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043983388705763591",
+    "in_reply_to_user_id": "1651940062010175488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043965691674693651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TXdu114496 认同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-14T09:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043983388705763591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1651940062010175488",
+              "start": 0,
+              "username": "TXdu114496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043983388705763591",
+        "in_reply_to_user_id": "1651940062010175488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043965691674693651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TXdu114496 认同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651940062010175488",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-14T08:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043965691674693651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1849383863023480832",
+              "start": 0,
+              "username": "bo199999bo"
+            },
+            {
+              "end": 20,
+              "id": "2363856960",
+              "start": 12,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043965691674693651",
+        "in_reply_to_user_id": "1849383863023480832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043707505042469256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bo199999bo @NGNGVXX 真那啥是不会接受肚子里长其他性别的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8283,
+          "following_count": 5,
+          "like_count": 1026,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1918
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T13:23:25.000Z",
+        "description": "",
+        "id": "1651940062010175488",
+        "name": "TX du",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 49,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "TXdu114496",
+        "verified": false
+      }
+    ]
+  }
+}

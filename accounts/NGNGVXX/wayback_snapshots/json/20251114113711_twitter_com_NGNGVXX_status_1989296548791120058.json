@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1989296548791120058",
+    "created_at": "2025-11-14T11:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T12:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989296548791120058"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "le"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "les"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989296548791120058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "越来越觉得在一段关系里 能顺其自然地表现自己的性格真的太重要了 我希望你喜欢的是纯粹的我 而不是我为了迎合你而去修饰和伪装自己的样子 你喜欢且愿意接受 就继续在一起 不喜欢且无法忍受 就各自分开 ​​​#le #les #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1989296548791120058",
+        "created_at": "2025-11-14T11:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989296548791120058"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "le"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "les"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989296548791120058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越来越觉得在一段关系里 能顺其自然地表现自己的性格真的太重要了 我希望你喜欢的是纯粹的我 而不是我为了迎合你而去修饰和伪装自己的样子 你喜欢且愿意接受 就继续在一起 不喜欢且无法忍受 就各自分开 ​​​#le #les #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 7,
+          "like_count": 530,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 637
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

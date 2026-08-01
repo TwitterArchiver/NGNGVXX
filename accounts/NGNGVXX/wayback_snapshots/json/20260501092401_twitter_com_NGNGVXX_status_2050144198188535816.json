@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2050144198188535816",
+    "created_at": "2026-05-01T09:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050144198188535816"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050144198188535816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "望周知：明确拒绝后，请勿自我感动式纠缠 ​​​\n\n我十几岁的侄子告诉我,他向一个女孩告白,但女孩拒绝了他。\n我说:“你知道该怎么做了,对吧?\n他说:“是的,我不会放弃的。”\n我告诉他:“不,你不应该再去打扰她,\n她已经拒绝了你。”\n他很震惊,从没有人教过他要尊重女生的意愿。\n\n请教会男孩子,学会尊重别人的意愿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2050144198188535816",
+        "created_at": "2026-05-01T09:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050144198188535816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050144198188535816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "望周知：明确拒绝后，请勿自我感动式纠缠 ​​​\n\n我十几岁的侄子告诉我,他向一个女孩告白,但女孩拒绝了他。\n我说:“你知道该怎么做了,对吧?\n他说:“是的,我不会放弃的。”\n我告诉他:“不,你不应该再去打扰她,\n她已经拒绝了你。”\n他很震惊,从没有人教过他要尊重女生的意愿。\n\n请教会男孩子,学会尊重别人的意愿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8966,
+          "following_count": 5,
+          "like_count": 1121,
+          "listed_count": 24,
+          "media_count": 110,
+          "tweet_count": 2137
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

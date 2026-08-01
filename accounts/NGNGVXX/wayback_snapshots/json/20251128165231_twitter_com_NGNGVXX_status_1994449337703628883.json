@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1994449337703628883",
+    "created_at": "2025-11-28T16:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T17:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994449337703628883"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994449337703628883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我恳请大家不要把一两个聊得投机的夜晚当作是遇见了真爱的象征 诚然关系的升华有时只在一两个夜晚甚至是瞬间 可是一段健康的关系更应该经得起时间的考验 它不会畏惧激烈的争吵 更不会畏惧空白的平淡 \n不要太快试图建立关系 如果它真的属于你 那它就等得起一起吃过的一百顿饭 听过的一万首歌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1994449337703628883",
+        "created_at": "2025-11-28T16:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994449337703628883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994449337703628883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恳请大家不要把一两个聊得投机的夜晚当作是遇见了真爱的象征 诚然关系的升华有时只在一两个夜晚甚至是瞬间 可是一段健康的关系更应该经得起时间的考验 它不会畏惧激烈的争吵 更不会畏惧空白的平淡 \n不要太快试图建立关系 如果它真的属于你 那它就等得起一起吃过的一百顿饭 听过的一万首歌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 7,
+          "like_count": 527,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 691
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

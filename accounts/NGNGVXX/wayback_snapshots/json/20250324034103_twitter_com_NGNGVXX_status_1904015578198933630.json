@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904015566417104896"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "1904015578198933630",
+    "created_at": "2025-03-24T03:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T04:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904015578198933630"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "女同"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJdR0pyRJC",
+          "end": 51,
+          "expanded_url": "https://x.com/NGNGVXX/status/1904015578198933630/photo/1",
+          "media_key": "3_1904015566417104896",
+          "start": 28,
+          "url": "https://t.co/jJdR0pyRJC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904015578198933630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在长大，在失去，在努力，在接受，在好好生活。\n\n#女同 https://t.co/jJdR0pyRJC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1904015566417104896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmxsEdsbEAAxM2r.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904015566417104896"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "1904015578198933630",
+        "created_at": "2025-03-24T03:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T04:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904015578198933630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "女同"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJdR0pyRJC",
+              "end": 51,
+              "expanded_url": "https://x.com/NGNGVXX/status/1904015578198933630/photo/1",
+              "media_key": "3_1904015566417104896",
+              "start": 28,
+              "url": "https://t.co/jJdR0pyRJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904015578198933630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在长大，在失去，在努力，在接受，在好好生活。\n\n#女同 https://t.co/jJdR0pyRJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。",
+        "id": "2363856960",
+        "name": "NG NG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 8,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 363
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

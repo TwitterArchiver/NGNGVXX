@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2033138730798809586",
+    "created_at": "2026-03-15T11:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033138730798809586"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033138730798809586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朋友问我忙不忙，如果没有安排，出来吃个饭。我，虽然不忙……但是我也有安排：那就是睡觉。睡到自然醒。其实“休息”也能算是一个安排。不是非得去做某一件事情才叫安排。我年纪太大了，现在的我觉得“睡个饱觉”比外出去玩要重要的多，论舒服程度，玩是六分，睡觉是十分。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2033138730798809586",
+        "created_at": "2026-03-15T11:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033138730798809586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033138730798809586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友问我忙不忙，如果没有安排，出来吃个饭。我，虽然不忙……但是我也有安排：那就是睡觉。睡到自然醒。其实“休息”也能算是一个安排。不是非得去做某一件事情才叫安排。我年纪太大了，现在的我觉得“睡个饱觉”比外出去玩要重要的多，论舒服程度，玩是六分，睡觉是十分。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7718,
+          "following_count": 5,
+          "like_count": 977,
+          "listed_count": 20,
+          "media_count": 92,
+          "tweet_count": 1588
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2027216253044334739",
+    "created_at": "2026-02-27T02:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T03:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027216253044334739"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027216253044334739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "勇敢的人先清理通讯录。不知道名字的删掉，从来不聊天的删掉，加了之后只为了交易的删掉，几百年不联系的和以后也不会联系的删掉，下头的人删掉，心情不好随机挑选几个删掉，删完之后像清理了垃圾一样舒畅。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2027216253044334739",
+        "created_at": "2026-02-27T02:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T03:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027216253044334739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027216253044334739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "勇敢的人先清理通讯录。不知道名字的删掉，从来不聊天的删掉，加了之后只为了交易的删掉，几百年不联系的和以后也不会联系的删掉，下头的人删掉，心情不好随机挑选几个删掉，删完之后像清理了垃圾一样舒畅。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7275,
+          "following_count": 5,
+          "like_count": 973,
+          "listed_count": 18,
+          "media_count": 84,
+          "tweet_count": 1449
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

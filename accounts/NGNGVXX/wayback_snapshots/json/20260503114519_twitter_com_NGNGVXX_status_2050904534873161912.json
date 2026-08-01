@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2050904534873161912",
+    "created_at": "2026-05-03T11:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T12:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050904534873161912"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050904534873161912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从来都不怕一个人，我可以一个人吃饭，一个人生活，一个人解决所有事情，但唯独让我害怕的是，一些短暂陪伴的人，突然出现在我的生活里，打乱我平静已久的生活节奏，然后又突然离开，像什么都没发生过一样，而我却要花很长一段时间接受事实，慢慢适应我原来的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2050904534873161912",
+        "created_at": "2026-05-03T11:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050904534873161912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050904534873161912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来都不怕一个人，我可以一个人吃饭，一个人生活，一个人解决所有事情，但唯独让我害怕的是，一些短暂陪伴的人，突然出现在我的生活里，打乱我平静已久的生活节奏，然后又突然离开，像什么都没发生过一样，而我却要花很长一段时间接受事实，慢慢适应我原来的生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9015,
+          "following_count": 5,
+          "like_count": 1144,
+          "listed_count": 24,
+          "media_count": 111,
+          "tweet_count": 2151
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

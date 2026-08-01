@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1994438929655959703",
+    "created_at": "2025-11-28T16:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T17:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994438929655959703"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994438929655959703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你习惯通过顺从、表演和奉献来获得爱，试试跟以往相反的风格，不再控制和努力让每个人都接受你，允许自己沉默、犹豫、不确定、关系终结。它可能会让你觉得世界在崩塌，但那正是你旧有生存模式开始瓦解的样子。\n\n爱你的人，始终会爱你，因为爱不是需要去争取的东西。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1994438929655959703",
+        "created_at": "2025-11-28T16:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994438929655959703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994438929655959703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你习惯通过顺从、表演和奉献来获得爱，试试跟以往相反的风格，不再控制和努力让每个人都接受你，允许自己沉默、犹豫、不确定、关系终结。它可能会让你觉得世界在崩塌，但那正是你旧有生存模式开始瓦解的样子。\n\n爱你的人，始终会爱你，因为爱不是需要去争取的东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 7,
+          "like_count": 527,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 683
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

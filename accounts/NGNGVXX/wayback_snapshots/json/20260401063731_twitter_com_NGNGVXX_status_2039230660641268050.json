@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2038951725747544441",
+    "created_at": "2026-04-01T06:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039230660641268050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999384761773821952",
+          "start": 0,
+          "username": "theheartofstar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039230660641268050",
+    "in_reply_to_user_id": "1999384761773821952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039228497756094676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theheartofstar 没💲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2038951725747544441",
+        "created_at": "2026-04-01T06:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039230660641268050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999384761773821952",
+              "start": 0,
+              "username": "theheartofstar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039230660641268050",
+        "in_reply_to_user_id": "1999384761773821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039228497756094676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theheartofstar 没💲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999384761773821952",
+        "conversation_id": "2038951725747544441",
+        "created_at": "2026-04-01T06:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039228497756094676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039228497756094676",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038951725747544441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 为什么不开蓝 V ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8126,
+          "following_count": 5,
+          "like_count": 985,
+          "listed_count": 23,
+          "media_count": 99,
+          "tweet_count": 1747
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T07:44:24.000Z",
+        "description": "7 年快消市场营销人 | All in Web3 | Creater&Writer&Builder.人生遊樂體驗家。看见自己，也看见他人。在数字世界，保持真实的「看见」。",
+        "id": "1999384761773821952",
+        "location": "Hong Kong",
+        "name": "周星星的樹洞",
+        "pinned_tweet_id": "2038498728877928647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003342845533368320/cZ1mXiOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 758,
+          "like_count": 423,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 729
+        },
+        "username": "theheartofstar",
+        "verified": true
+      }
+    ]
+  }
+}

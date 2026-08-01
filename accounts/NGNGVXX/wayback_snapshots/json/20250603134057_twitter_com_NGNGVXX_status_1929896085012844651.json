@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1929569075790758388",
+    "created_at": "2025-06-03T13:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T14:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929896085012844651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1521779841099440128",
+          "start": 0,
+          "username": "lchd225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929896085012844651",
+    "in_reply_to_user_id": "1521779841099440128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929569075790758388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lchd225 happy birthday 🐚老师"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1733,
+        "media_key": "3_1929569009541980160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsc0yndaIAAKaRc.jpg",
+        "width": 1280
+      },
+      {
+        "duration_ms": 6466,
+        "height": 960,
+        "media_key": "13_1929569009562963968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1929569009562963968/img/XrxDYgOACiQ08TEv.jpg",
+        "public_metrics": {
+          "view_count": 1497
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929569009562963968/vid/avc1/320x426/PjVCyMpSagHu9Mi-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929569009562963968/vid/avc1/480x640/61rTVQFsbGRruwa0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929569009562963968/vid/avc1/720x960/uEFyybILIBXYNn0A.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1929569009562963968/pl/UeMkee6P9iC8SzE8.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 9100,
+        "height": 1280,
+        "media_key": "13_1929569009479118848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1929569009479118848/img/6IbrQRenCQ-0d_8L.jpg",
+        "public_metrics": {
+          "view_count": 466
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929569009479118848/vid/avc1/320x568/2J7yih_GOIRDRtUM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929569009479118848/vid/avc1/480x852/w92CED8TA9HS-1UF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929569009479118848/vid/avc1/720x1280/ZZ_tgvpTxF0GUzPM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1929569009479118848/pl/gOPjZGkj9DkeTLaf.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929569009483337728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsc0ynPbUAAemHx.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1929569075790758388",
+        "created_at": "2025-06-03T13:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929896085012844651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1521779841099440128",
+              "start": 0,
+              "username": "lchd225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929896085012844651",
+        "in_reply_to_user_id": "1521779841099440128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929569075790758388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lchd225 happy birthday 🐚老师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929569009541980160",
+            "13_1929569009562963968",
+            "13_1929569009479118848",
+            "3_1929569009483337728"
+          ]
+        },
+        "author_id": "1521779841099440128",
+        "conversation_id": "1929569075790758388",
+        "created_at": "2025-06-02T16:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T17:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929569075790758388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F17pyDrG0N",
+              "end": 42,
+              "expanded_url": "https://x.com/lchd225/status/1929569075790758388/video/1",
+              "media_key": "3_1929569009541980160",
+              "start": 19,
+              "url": "https://t.co/F17pyDrG0N"
+            },
+            {
+              "display_url": "pic.x.com/F17pyDrG0N",
+              "end": 42,
+              "expanded_url": "https://x.com/lchd225/status/1929569075790758388/video/1",
+              "media_key": "13_1929569009562963968",
+              "start": 19,
+              "url": "https://t.co/F17pyDrG0N"
+            },
+            {
+              "display_url": "pic.x.com/F17pyDrG0N",
+              "end": 42,
+              "expanded_url": "https://x.com/lchd225/status/1929569075790758388/video/1",
+              "media_key": "13_1929569009479118848",
+              "start": 19,
+              "url": "https://t.co/F17pyDrG0N"
+            },
+            {
+              "display_url": "pic.x.com/F17pyDrG0N",
+              "end": 42,
+              "expanded_url": "https://x.com/lchd225/status/1929569075790758388/video/1",
+              "media_key": "3_1929569009483337728",
+              "start": 19,
+              "url": "https://t.co/F17pyDrG0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929569075790758388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4110,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一生二，二变三\n祈佑护持，祝我🎂快乐 https://t.co/F17pyDrG0N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 7,
+          "like_count": 589,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 394
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T09:12:49.000Z",
+        "description": "Lesbian｜问卦、奇葩投稿、心理树洞单请私信",
+        "id": "1521779841099440128",
+        "name": "爆炒海螺多加辣",
+        "pinned_tweet_id": "1918753230395191682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923310797272600576/puh1v354_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21640,
+          "following_count": 30,
+          "like_count": 2292,
+          "listed_count": 23,
+          "media_count": 30,
+          "tweet_count": 122
+        },
+        "username": "lchd225",
+        "verified": false
+      }
+    ]
+  }
+}

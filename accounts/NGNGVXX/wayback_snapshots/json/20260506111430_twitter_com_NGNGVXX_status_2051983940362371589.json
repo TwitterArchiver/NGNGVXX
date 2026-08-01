@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2051983940362371589",
+    "created_at": "2026-05-06T11:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T12:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051983940362371589"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051983940362371589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "成年人的见面很贵。推掉其他安排，腾出时间，调整好状态，不带收益的去见一个人，已经算是顶级示爱了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2051983940362371589",
+        "created_at": "2026-05-06T11:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051983940362371589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051983940362371589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成年人的见面很贵。推掉其他安排，腾出时间，调整好状态，不带收益的去见一个人，已经算是顶级示爱了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9083,
+          "following_count": 5,
+          "like_count": 1150,
+          "listed_count": 26,
+          "media_count": 105,
+          "tweet_count": 2180
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

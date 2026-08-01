@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1921421492648058903",
+    "created_at": "2025-05-11T06:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T07:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921449874223931397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1632274834850988032",
+          "start": 0,
+          "username": "Zero_One_CW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921449874223931397",
+    "in_reply_to_user_id": "1632274834850988032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921421492648058903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zero_One_CW 妈妈！！！！！！！！！！！！！！！！！！！！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_1921421484263723008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqpCqOlX0AAGeiQ.jpg",
+        "width": 793
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1921421492648058903",
+        "created_at": "2025-05-11T06:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T07:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921449874223931397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1632274834850988032",
+              "start": 0,
+              "username": "Zero_One_CW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921449874223931397",
+        "in_reply_to_user_id": "1632274834850988032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921421492648058903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zero_One_CW 妈妈！！！！！！！！！！！！！！！！！！！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921421484263723008"
+          ]
+        },
+        "author_id": "1632274834850988032",
+        "conversation_id": "1921421492648058903",
+        "created_at": "2025-05-11T04:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T05:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921421492648058903"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "女大学生"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "les"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "le"
+            },
+            {
+              "end": 33,
+              "start": 31,
+              "tag": "胸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/us07AFKJ6Y",
+              "end": 57,
+              "expanded_url": "https://x.com/Zero_One_CW/status/1921421492648058903/photo/1",
+              "media_key": "3_1921421484263723008",
+              "start": 34,
+              "url": "https://t.co/us07AFKJ6Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921421492648058903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1682,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喊一声妈妈听听\n#女同性恋   #女大学生 #les #le #胸 https://t.co/us07AFKJ6Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 7,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 380
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T07:00:32.000Z",
+        "description": "入🚪➕私人v 可闲聊 很会提供情绪价值 废话很多的人/很少上推/经常清理图文/接转推推广",
+        "id": "1632274834850988032",
+        "location": "🚪99 /288/520/1314/可闲聊 分享欲极强",
+        "name": "居",
+        "pinned_tweet_id": "1786931767800434823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730165500540534784/ZmAW7vpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17147,
+          "following_count": 0,
+          "like_count": 35,
+          "listed_count": 38,
+          "media_count": 99,
+          "tweet_count": 214
+        },
+        "username": "Zero_One_CW",
+        "verified": false
+      }
+    ]
+  }
+}

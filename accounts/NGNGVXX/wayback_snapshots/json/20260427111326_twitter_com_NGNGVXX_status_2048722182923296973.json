@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2048616431189999735",
+    "created_at": "2026-04-27T11:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048722182923296973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1992771733372469249",
+          "start": 0,
+          "username": "Yshi919917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048722182923296973",
+    "in_reply_to_user_id": "1992771733372469249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048710370156839073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yshi919917 是的，旅游就应该和趣味相投的人一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2048616431189999735",
+        "created_at": "2026-04-27T11:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048722182923296973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992771733372469249",
+              "start": 0,
+              "username": "Yshi919917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048722182923296973",
+        "in_reply_to_user_id": "1992771733372469249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048710370156839073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yshi919917 是的，旅游就应该和趣味相投的人一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992771733372469249",
+        "conversation_id": "2048616431189999735",
+        "created_at": "2026-04-27T10:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048710370156839073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048710370156839073",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048616431189999735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 一起出去互相出片还可以。一个硬要别人给自己出片，给别人拍又不走心的才窒息😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8834,
+          "following_count": 4,
+          "like_count": 1118,
+          "listed_count": 24,
+          "media_count": 107,
+          "tweet_count": 2102
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T01:46:42.000Z",
+        "description": "06",
+        "id": "1992771733372469249",
+        "name": "Yshi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992772499583737856/-lOmUxnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 147,
+          "like_count": 1042,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 182
+        },
+        "username": "Yshi919917",
+        "verified": false
+      }
+    ]
+  }
+}

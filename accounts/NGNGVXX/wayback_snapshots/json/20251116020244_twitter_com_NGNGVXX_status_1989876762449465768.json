@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1989744944714830108",
+    "created_at": "2025-11-16T02:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T03:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989876762449465768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1216015239931498497",
+          "start": 0,
+          "username": "luna220807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989876762449465768",
+    "in_reply_to_user_id": "1216015239931498497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989744944714830108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luna220807 抱抱你🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1989744944714830108",
+        "created_at": "2025-11-16T02:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T03:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989876762449465768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1216015239931498497",
+              "start": 0,
+              "username": "luna220807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989876762449465768",
+        "in_reply_to_user_id": "1216015239931498497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989744944714830108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna220807 抱抱你🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1216015239931498497",
+        "conversation_id": "1989744944714830108",
+        "created_at": "2025-11-15T17:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T18:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989744944714830108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NGNGVXX/status…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/NGNGVXX/status/1989721494063284259",
+              "start": 59,
+              "url": "https://t.co/J2DbBtVoXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989744944714830108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989721494063284259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的优点是崩溃了也看不出\n除非看过我的推\n都不知道我正在崩溃或者已经崩溃了\n我就这样瞒过现实中的亲人\n一个人偷偷崩溃 https://t.co/J2DbBtVoXn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 7,
+          "like_count": 529,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 649
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-11T15:13:37.000Z",
+        "description": "07年\n| INFJ-T \n| 狮子座 |\n🐋的快乐日常 |\n                     云朵就应该随风而去，随风而来，不为谁停下",
+        "id": "1216015239931498497",
+        "name": "送你一粒小云朵☁︎（困死版）",
+        "pinned_tweet_id": "1981292858645913648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870124219776020483/Y5d_4K42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 383,
+          "like_count": 277,
+          "listed_count": 6,
+          "media_count": 353,
+          "tweet_count": 3486
+        },
+        "username": "luna220807",
+        "verified": false
+      }
+    ]
+  }
+}

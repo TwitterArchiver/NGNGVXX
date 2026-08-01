@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2044368311232897201",
+    "created_at": "2026-04-15T13:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044405802526822729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944862516976472064",
+          "start": 0,
+          "username": "Mickey06101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044405802526822729",
+    "in_reply_to_user_id": "1944862516976472064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044368311232897201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mickey06101 其实更应该说“不尊重女性的人里不该配和女人拥有性生活”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2044368311232897201",
+        "created_at": "2026-04-15T13:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044405802526822729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944862516976472064",
+              "start": 0,
+              "username": "Mickey06101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044405802526822729",
+        "in_reply_to_user_id": "1944862516976472064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044368311232897201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mickey06101 其实更应该说“不尊重女性的人里不该配和女人拥有性生活”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944862516976472064",
+        "conversation_id": "2044368311232897201",
+        "created_at": "2026-04-15T10:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044368311232897201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044368311232897201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4625,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 115,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不尊重女性的人里不该配拥有性生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8310,
+          "following_count": 5,
+          "like_count": 1047,
+          "listed_count": 22,
+          "media_count": 101,
+          "tweet_count": 1973
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T20:52:22.000Z",
+        "description": "玩推只是分享生活",
+        "id": "1944862516976472064",
+        "location": "🚪188",
+        "name": "qaq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944863286157053952/6Y2oQa9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72027,
+          "following_count": 16,
+          "like_count": 1138,
+          "listed_count": 93,
+          "media_count": 263,
+          "tweet_count": 980
+        },
+        "username": "Mickey06101",
+        "verified": false
+      }
+    ]
+  }
+}

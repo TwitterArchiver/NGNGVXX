@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938104149465546752"
+      ]
+    },
+    "author_id": "2363856960",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1938104164325953983",
+    "created_at": "2025-06-26T05:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T06:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938104164325953983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wymJ7wOr6Q",
+          "end": 147,
+          "expanded_url": "https://x.com/NGNGVXX/status/1938104164325953983/photo/1",
+          "media_key": "3_1938104149465546752",
+          "start": 124,
+          "url": "https://t.co/wymJ7wOr6Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938104164325953983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知为什么，总是喜欢熬夜，习惯了熬夜，天黑着就舍不得睡觉。仿佛白天是属于所有人的世界，而夜晚是只属于我一个人的世界。独身的时候我享受这种孤独，享受电影，书籍，酒精和音乐。恋爱的时候终于有一个人与我共享这份孤独，熬得更晚了。睡觉是对这种孤独的辜负。 https://t.co/wymJ7wOr6Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3264,
+        "media_key": "3_1938104149465546752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuWHdJaawAAAOlw.jpg",
+        "width": 2448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938104149465546752"
+          ]
+        },
+        "author_id": "2363856960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1938104164325953983",
+        "created_at": "2025-06-26T05:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T06:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938104164325953983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wymJ7wOr6Q",
+              "end": 147,
+              "expanded_url": "https://x.com/NGNGVXX/status/1938104164325953983/photo/1",
+              "media_key": "3_1938104149465546752",
+              "start": 124,
+              "url": "https://t.co/wymJ7wOr6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938104164325953983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知为什么，总是喜欢熬夜，习惯了熬夜，天黑着就舍不得睡觉。仿佛白天是属于所有人的世界，而夜晚是只属于我一个人的世界。独身的时候我享受这种孤独，享受电影，书籍，酒精和音乐。恋爱的时候终于有一个人与我共享这份孤独，熬得更晚了。睡觉是对这种孤独的辜负。 https://t.co/wymJ7wOr6Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 6,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 406
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

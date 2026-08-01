@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2047288341721444747",
+    "created_at": "2026-04-23T12:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047288341721444747"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047288341721444747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "国籍不同母语不同的小情侣吵架时，一方会突然卡住在原地懵逼好半天。绞尽脑汁搜肠刮肚，最后抬手叫停然后抓起手机，问翻译器对方母语里的某个词怎么说···"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2047288341721444747",
+        "created_at": "2026-04-23T12:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047288341721444747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047288341721444747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国籍不同母语不同的小情侣吵架时，一方会突然卡住在原地懵逼好半天。绞尽脑汁搜肠刮肚，最后抬手叫停然后抓起手机，问翻译器对方母语里的某个词怎么说···"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8571,
+          "following_count": 4,
+          "like_count": 1053,
+          "listed_count": 24,
+          "media_count": 104,
+          "tweet_count": 2053
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

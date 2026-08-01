@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2021293880948502853",
+    "created_at": "2026-02-10T18:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T19:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021293880948502853"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021293880948502853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学会放弃是件挺厉害的事儿，放弃一段耗人的关系，放弃某个不甘心的执念，放弃努力了也得不到的东西，放弃不切实际的幻想，放弃紧握着不撒手的过去，放弃不适合自己的生活。\n\n放弃这词儿看着挺丧气，但其实想一想放弃就意味着新的开始，意味着你将会收获许多新的东西。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2021293880948502853",
+        "created_at": "2026-02-10T18:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T19:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021293880948502853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021293880948502853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学会放弃是件挺厉害的事儿，放弃一段耗人的关系，放弃某个不甘心的执念，放弃努力了也得不到的东西，放弃不切实际的幻想，放弃紧握着不撒手的过去，放弃不适合自己的生活。\n\n放弃这词儿看着挺丧气，但其实想一想放弃就意味着新的开始，意味着你将会收获许多新的东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6821,
+          "following_count": 5,
+          "like_count": 938,
+          "listed_count": 17,
+          "media_count": 72,
+          "tweet_count": 1331
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

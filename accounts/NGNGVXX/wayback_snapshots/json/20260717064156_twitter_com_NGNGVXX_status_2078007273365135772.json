@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2078007273365135772",
+    "created_at": "2026-07-17T06:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078007273365135772"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078007273365135772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一定要做一个不吃压力的人 不要总因为别人对你态度不友好而内耗 在你没有价值或威慑力的情况下 只有少部分高素质的人会对你友好 要做的是屏蔽干扰 保持自己的锋利 并专注自己的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2078007273365135772",
+        "created_at": "2026-07-17T06:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078007273365135772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078007273365135772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一定要做一个不吃压力的人 不要总因为别人对你态度不友好而内耗 在你没有价值或威慑力的情况下 只有少部分高素质的人会对你友好 要做的是屏蔽干扰 保持自己的锋利 并专注自己的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10482,
+          "following_count": 6,
+          "like_count": 1205,
+          "listed_count": 30,
+          "media_count": 148,
+          "tweet_count": 3029
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

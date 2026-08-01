@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2004434569387470868",
+    "created_at": "2025-12-26T07:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T08:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004451058366795945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886683561123819520",
+          "start": 0,
+          "username": "sd37745"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004451058366795945",
+    "in_reply_to_user_id": "1886683561123819520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004449342372171852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sd37745 没有礼物太可怜了，所以自己送了自己一个☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2004434569387470868",
+        "created_at": "2025-12-26T07:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T08:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004451058366795945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886683561123819520",
+              "start": 0,
+              "username": "sd37745"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004451058366795945",
+        "in_reply_to_user_id": "1886683561123819520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004449342372171852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sd37745 没有礼物太可怜了，所以自己送了自己一个☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886683561123819520",
+        "conversation_id": "2004434569387470868",
+        "created_at": "2025-12-26T07:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T08:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004449342372171852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004449342372171852",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004434569387470868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 能送自己礼物就很好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 6,
+          "like_count": 694,
+          "listed_count": 10,
+          "media_count": 47,
+          "tweet_count": 843
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T07:50:01.000Z",
+        "description": "",
+        "id": "1886683561123819520",
+        "location": "LOTUS",
+        "name": "prom1se",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955644185484091392/Su3N2X6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 236
+        },
+        "username": "sd37745",
+        "verified": false
+      }
+    ]
+  }
+}

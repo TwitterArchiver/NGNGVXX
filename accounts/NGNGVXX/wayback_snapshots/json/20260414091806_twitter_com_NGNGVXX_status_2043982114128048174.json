@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043658631682662575",
+    "created_at": "2026-04-14T09:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043982114128048174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1485251335520153608",
+          "start": 0,
+          "username": "SeabreezeDragon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043982114128048174",
+    "in_reply_to_user_id": "1485251335520153608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043718586137760192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeabreezeDragon 只要你不嫌弃满身泥泞的自己，别人就没有资格批判你。多么不容易的自己，多爱自己！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043658631682662575",
+        "created_at": "2026-04-14T09:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043982114128048174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1485251335520153608",
+              "start": 0,
+              "username": "SeabreezeDragon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043982114128048174",
+        "in_reply_to_user_id": "1485251335520153608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043718586137760192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeabreezeDragon 只要你不嫌弃满身泥泞的自己，别人就没有资格批判你。多么不容易的自己，多爱自己！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485251335520153608",
+        "conversation_id": "2043658631682662575",
+        "created_at": "2026-04-13T15:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043718586137760192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043718586137760192",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043658631682662575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 但问题是，无论是我的亲身体验，还是同样有类似家庭的朋友，我们都很难用这种方式去激励自己，因为差距是事实存在的，并且随着时间可能会越拉越大。\n同时没几个人会对在爬出泥坑的我们抱有鼓励的心态，大部分人只会嘲笑满身泥泞的我们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8283,
+          "following_count": 5,
+          "like_count": 1022,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1916
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T14:01:45.000Z",
+        "description": "是涩龙～\n在成都，想找个dom主",
+        "id": "1485251335520153608",
+        "location": "四川成都",
+        "name": "🔞NSFW🔞涩涩的奇美拉龙/塞壬龙🔞🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490364129122873346/iR86PCpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 635,
+          "like_count": 8291,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 920
+        },
+        "username": "SeabreezeDragon",
+        "verified": false
+      }
+    ]
+  }
+}

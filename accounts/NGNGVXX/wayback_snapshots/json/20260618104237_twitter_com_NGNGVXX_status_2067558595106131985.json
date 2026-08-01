@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067558588110057472"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2067558595106131985",
+    "created_at": "2026-06-18T10:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067558595106131985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xIDPd7GSPh",
+          "end": 43,
+          "expanded_url": "https://x.com/NGNGVXX/status/2067558595106131985/photo/1",
+          "media_key": "3_2067558588110057472",
+          "start": 20,
+          "url": "https://t.co/xIDPd7GSPh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067558595106131985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个社会，都是草台班子，你凭什么先跪？ https://t.co/xIDPd7GSPh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2067558588110057472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFxlNybsAAVfwE.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067558588110057472"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2067558595106131985",
+        "created_at": "2026-06-18T10:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067558595106131985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xIDPd7GSPh",
+              "end": 43,
+              "expanded_url": "https://x.com/NGNGVXX/status/2067558595106131985/photo/1",
+              "media_key": "3_2067558588110057472",
+              "start": 20,
+              "url": "https://t.co/xIDPd7GSPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067558595106131985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个社会，都是草台班子，你凭什么先跪？ https://t.co/xIDPd7GSPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10004,
+          "following_count": 6,
+          "like_count": 1193,
+          "listed_count": 29,
+          "media_count": 119,
+          "tweet_count": 2622
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

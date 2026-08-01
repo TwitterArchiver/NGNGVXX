@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043362128741192012",
+    "created_at": "2026-04-14T07:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043952324771754174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1988526917562347520",
+          "start": 0,
+          "username": "dd7038034735579"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043952324771754174",
+    "in_reply_to_user_id": "1988526917562347520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043677888470495238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd7038034735579 共产党都给工资还提供吃住呢，你让他别拿一分钱，他估计会诅咒你祖宗十八代了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-14T07:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043952324771754174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1988526917562347520",
+              "start": 0,
+              "username": "dd7038034735579"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043952324771754174",
+        "in_reply_to_user_id": "1988526917562347520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043677888470495238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd7038034735579 共产党都给工资还提供吃住呢，你让他别拿一分钱，他估计会诅咒你祖宗十八代了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988526917562347520",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-13T13:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043677888470495238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1992703228291563520",
+              "start": 0,
+              "username": "Jerryxuj0"
+            },
+            {
+              "end": 19,
+              "id": "2363856960",
+              "start": 11,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043677888470495238",
+        "in_reply_to_user_id": "1992703228291563520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043363559518683600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jerryxuj0 @NGNGVXX 那你工作别要一分钱 奉献社会！不把自己当工具！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8284,
+          "following_count": 5,
+          "like_count": 1012,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1904
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T08:39:20.000Z",
+        "description": "。",
+        "id": "1988526917562347520",
+        "name": "嘟嘟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007361546700369924/9WL1nKM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "dd7038034735579",
+        "verified": false
+      }
+    ]
+  }
+}

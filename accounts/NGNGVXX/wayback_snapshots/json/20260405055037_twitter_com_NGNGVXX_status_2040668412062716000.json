@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2040668412062716000",
+    "created_at": "2026-04-05T05:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T06:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040668412062716000"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040668412062716000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "指出别人的问题，是一件非常消耗能量的事情。\n\n因为你不仅需要花精力把对方的信息转化成他能听懂的语言，还需要化解他的对抗情绪。\n最终如果没有成功，则惹怒了对方，消耗了自己，实在是损人不利己。\n\n所以要放下助人情节，尊重他人命运。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2040668412062716000",
+        "created_at": "2026-04-05T05:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T06:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040668412062716000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040668412062716000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "指出别人的问题，是一件非常消耗能量的事情。\n\n因为你不仅需要花精力把对方的信息转化成他能听懂的语言，还需要化解他的对抗情绪。\n最终如果没有成功，则惹怒了对方，消耗了自己，实在是损人不利己。\n\n所以要放下助人情节，尊重他人命运。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8219,
+          "following_count": 5,
+          "like_count": 990,
+          "listed_count": 23,
+          "media_count": 101,
+          "tweet_count": 1800
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1932370803607421266",
+    "created_at": "2025-06-11T06:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T07:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932683385891352845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771513890138132480",
+          "start": 0,
+          "username": "iove3064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932683385891352845",
+    "in_reply_to_user_id": "1771513890138132480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932370803607421266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iove3064 我也没有炮友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1932370803607421266",
+        "created_at": "2025-06-11T06:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T07:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932683385891352845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771513890138132480",
+              "start": 0,
+              "username": "iove3064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932683385891352845",
+        "in_reply_to_user_id": "1771513890138132480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932370803607421266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iove3064 我也没有炮友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771513890138132480",
+        "conversation_id": "1932370803607421266",
+        "created_at": "2025-06-10T09:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T10:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932370803607421266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932370803607421266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 159631,
+          "like_count": 745,
+          "quote_count": 29,
+          "reply_count": 291,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "全推特都有炮友 就我没有 凭什么\n全推特都有炮友 就我没有 凭什么\n全推特都有炮友 就我没有 凭什么\n全推特都有炮友 就我没有 凭什么\n全推特都有炮友 就我没有 凭什么\n全推特都有炮友 就我没有 凭什么\n全推特都有炮友 就我没有 凭什么\n全推特都有炮友 就我没有 凭什么\n全推特都有炮友 就我没有 凭什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 7,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 398
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T12:26:49.000Z",
+        "description": "enfj ᰔᩚ",
+        "id": "1771513890138132480",
+        "name": "湫",
+        "pinned_tweet_id": "1931284888289972569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772665243774464000/eITTTB3s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33497,
+          "following_count": 63,
+          "like_count": 98,
+          "listed_count": 52,
+          "media_count": 228,
+          "tweet_count": 2738
+        },
+        "username": "iove3064",
+        "verified": false
+      }
+    ]
+  }
+}

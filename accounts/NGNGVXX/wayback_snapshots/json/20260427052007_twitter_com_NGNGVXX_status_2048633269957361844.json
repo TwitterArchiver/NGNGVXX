@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2048616431189999735",
+    "created_at": "2026-04-27T05:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048633269957361844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1707020631991316480",
+          "start": 0,
+          "username": "busycat212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048633269957361844",
+    "in_reply_to_user_id": "1707020631991316480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048619395300082142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@busycat212 抠门的抠自己不影响我我无所谓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2048616431189999735",
+        "created_at": "2026-04-27T05:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048633269957361844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1707020631991316480",
+              "start": 0,
+              "username": "busycat212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048633269957361844",
+        "in_reply_to_user_id": "1707020631991316480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048619395300082142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@busycat212 抠门的抠自己不影响我我无所谓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707020631991316480",
+        "conversation_id": "2048616431189999735",
+        "created_at": "2026-04-27T04:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048619395300082142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048619395300082142",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048616431189999735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 还有抠门的。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8817,
+          "following_count": 4,
+          "like_count": 1116,
+          "listed_count": 24,
+          "media_count": 105,
+          "tweet_count": 2097
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T13:13:41.000Z",
+        "description": "对我好一点",
+        "id": "1707020631991316480",
+        "location": "London, England",
+        "name": "美女上门喂猫",
+        "pinned_tweet_id": "1977174833277612066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017917912288555008/UcpRa_s0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 389,
+          "like_count": 11823,
+          "listed_count": 5,
+          "media_count": 1669,
+          "tweet_count": 5845
+        },
+        "username": "busycat212",
+        "verified": false
+      }
+    ]
+  }
+}

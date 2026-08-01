@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1989175301189038317",
+    "created_at": "2025-11-14T03:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T04:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989175301189038317"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "le"
+        },
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "les"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989175301189038317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "长期单身其实是一件很危险的事 当你爱上了这种平静之后 就再也没有可以打动你的情绪 不管遇见谁 你都会感觉差那么一点 #le #les #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1989175301189038317",
+        "created_at": "2025-11-14T03:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989175301189038317"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "le"
+            },
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "les"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989175301189038317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长期单身其实是一件很危险的事 当你爱上了这种平静之后 就再也没有可以打动你的情绪 不管遇见谁 你都会感觉差那么一点 #le #les #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 7,
+          "like_count": 591,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 630
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

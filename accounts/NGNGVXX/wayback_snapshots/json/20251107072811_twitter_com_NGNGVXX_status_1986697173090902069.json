@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1986441622067028421",
+    "created_at": "2025-11-07T07:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T08:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986697173090902069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "911849666194563072",
+          "start": 0,
+          "username": "tosunwandou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986697173090902069",
+    "in_reply_to_user_id": "911849666194563072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986696664170832283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tosunwandou 谢谢你😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1986441622067028421",
+        "created_at": "2025-11-07T07:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T08:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986697173090902069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "911849666194563072",
+              "start": 0,
+              "username": "tosunwandou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986697173090902069",
+        "in_reply_to_user_id": "911849666194563072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986696664170832283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tosunwandou 谢谢你😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "911849666194563072",
+        "conversation_id": "1986441622067028421",
+        "created_at": "2025-11-07T07:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T08:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986696664170832283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986696664170832283",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986695221124735486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 是啊稀缺又珍贵。你也一样，愿你也能遇见，收获幸福！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 7,
+          "like_count": 541,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 600
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-24T07:07:56.000Z",
+        "description": "人文社科学新闻学的（请敲晕我/he/♋INFJ/喜欢戴enfp面具/50%抽象50%理性/异性浪漫倾向无性恋🖤🐘🤍💜/柏拉图式/小圈Switch/不键政/梦想传递快乐/互fo",
+        "id": "911849666194563072",
+        "name": "Pea Outer",
+        "pinned_tweet_id": "1986482279666041215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983497024239747072/dpsnHnR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 79,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 119
+        },
+        "username": "tosunwandou",
+        "verified": false
+      }
+    ]
+  }
+}

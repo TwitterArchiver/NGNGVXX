@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1982715354158903471",
+    "created_at": "2025-10-27T07:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T08:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982715354158903471"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "les"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "le"
+        },
+        {
+          "end": 83,
+          "start": 80,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982715354158903471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "强求某缘分就像两个人之间那条线本不是红线，是这个人一直死死攀扯，致使手掌被磨破被割伤、乃至丝线深深嵌进肉里，落的血浸红了这条线被握着的每一段 #les #le #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1982715354158903471",
+        "created_at": "2025-10-27T07:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982715354158903471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "les"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "le"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982715354158903471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "强求某缘分就像两个人之间那条线本不是红线，是这个人一直死死攀扯，致使手掌被磨破被割伤、乃至丝线深深嵌进肉里，落的血浸红了这条线被握着的每一段 #les #le #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 7,
+          "like_count": 530,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 539
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

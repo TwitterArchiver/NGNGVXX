@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043362128741192012",
+    "created_at": "2026-04-14T07:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043962327821889731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1892870935449128964",
+          "start": 0,
+          "username": "zhugekongm333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043962327821889731",
+    "in_reply_to_user_id": "1892870935449128964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043944364276363577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhugekongm333 男人的尊严价值至少50万外加女方原生家庭有钱有权有社会地位，有些男的没房没工作没存款不用礼金就能得到一个免费的六边形保姆和他孩子的妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-14T07:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043962327821889731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1892870935449128964",
+              "start": 0,
+              "username": "zhugekongm333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043962327821889731",
+        "in_reply_to_user_id": "1892870935449128964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043944364276363577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhugekongm333 男人的尊严价值至少50万外加女方原生家庭有钱有权有社会地位，有些男的没房没工作没存款不用礼金就能得到一个免费的六边形保姆和他孩子的妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892870935449128964",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-14T06:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043944364276363577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1767414025909067776",
+              "start": 0,
+              "username": "xiow288417"
+            },
+            {
+              "end": 20,
+              "id": "2363856960",
+              "start": 12,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043944364276363577",
+        "in_reply_to_user_id": "1767414025909067776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043540287893709001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiow288417 @NGNGVXX 其实挺好笑的，要男人入赘的话要五十万要家庭条件好，要女人入赘的话有爱情就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8284,
+          "following_count": 5,
+          "like_count": 1014,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1907
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T09:36:39.000Z",
+        "description": "",
+        "id": "1892870935449128964",
+        "name": "出轨老公和我离婚的那个雨夜小三对我强制爱了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892871043448262658/07mWLgVV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 83,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "zhugekongm333",
+        "verified": false
+      }
+    ]
+  }
+}

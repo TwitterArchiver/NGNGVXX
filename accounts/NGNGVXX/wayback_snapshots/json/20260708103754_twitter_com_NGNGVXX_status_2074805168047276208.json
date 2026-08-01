@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2074465813118280161",
+    "created_at": "2026-07-08T10:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074805168047276208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2022857306820743170",
+          "start": 0,
+          "username": "Fankkot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074805168047276208",
+    "in_reply_to_user_id": "2022857306820743170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074740345984967043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fankkot 我也这样对过我妈，一想到这个我就想回到过去给自己几巴掌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2074465813118280161",
+        "created_at": "2026-07-08T10:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074805168047276208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2022857306820743170",
+              "start": 0,
+              "username": "Fankkot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074805168047276208",
+        "in_reply_to_user_id": "2022857306820743170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074740345984967043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fankkot 我也这样对过我妈，一想到这个我就想回到过去给自己几巴掌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022857306820743170",
+        "conversation_id": "2074465813118280161",
+        "created_at": "2026-07-08T06:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074740345984967043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074740345984967043",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 523,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074465813118280161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 指望不了孩子干家务，让孩子解冻个鸡，回到家发现在看电视玩手机，鸡也没拿出来，问你妈什么时候有饭吃我饿了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10389,
+          "following_count": 6,
+          "like_count": 1203,
+          "listed_count": 28,
+          "media_count": 138,
+          "tweet_count": 2924
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T02:15:57.000Z",
+        "description": "男的别私信；没其他号；上推只是分享，不圈钱不收门卡不卖片，不喜欢可以屏蔽拉黑，不要扒我骂我。",
+        "id": "2022857306820743170",
+        "name": "月影",
+        "pinned_tweet_id": "2065999671412346920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057317657905704960/DMZR_KoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12195,
+          "following_count": 303,
+          "like_count": 674,
+          "listed_count": 35,
+          "media_count": 65,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "Fankkot",
+        "verified": false
+      }
+    ]
+  }
+}

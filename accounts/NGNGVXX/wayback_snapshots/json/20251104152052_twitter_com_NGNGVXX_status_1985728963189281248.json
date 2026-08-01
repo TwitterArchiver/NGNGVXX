@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1985728963189281248",
+    "created_at": "2025-11-04T15:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T16:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985728963189281248"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 59,
+          "tag": "les"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "le"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985728963189281248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点想谈恋爱，但星期一到星期五都在上班，星期六要洗衣服，星期天要为星期一上班做心理准备，’心动小鹿‘其实已经在腐烂了。#les #le #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1985728963189281248",
+        "created_at": "2025-11-04T15:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T16:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985728963189281248"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "les"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "le"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985728963189281248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点想谈恋爱，但星期一到星期五都在上班，星期六要洗衣服，星期天要为星期一上班做心理准备，’心动小鹿‘其实已经在腐烂了。#les #le #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 7,
+          "like_count": 538,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 588
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

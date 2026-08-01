@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2014624359328186802",
+    "created_at": "2026-01-25T04:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T05:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015285176981725252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812504972044775425",
+          "start": 0,
+          "username": "muhanmode123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015285176981725252",
+    "in_reply_to_user_id": "1812504972044775425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015229279655874562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muhanmode123 至少比现在的普男爱豆更像明星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2014624359328186802",
+        "created_at": "2026-01-25T04:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015285176981725252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812504972044775425",
+              "start": 0,
+              "username": "muhanmode123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015285176981725252",
+        "in_reply_to_user_id": "1812504972044775425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015229279655874562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muhanmode123 至少比现在的普男爱豆更像明星"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812504972044775425",
+        "conversation_id": "2014624359328186802",
+        "created_at": "2026-01-25T01:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T02:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015229279655874562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015229279655874562",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014624359328186802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 那你颜值是不是也快追上爱豆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5646,
+          "following_count": 5,
+          "like_count": 918,
+          "listed_count": 13,
+          "media_count": 60,
+          "tweet_count": 1155
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T15:10:45.000Z",
+        "description": "一个疯子，天天胡言乱语，有一些很抽象的行为，也有一些自己独特的思考和看法，管别人怎么看干嘛，我反正是疯了",
+        "id": "1812504972044775425",
+        "name": "马红梅",
+        "pinned_tweet_id": "2010894425623556287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978135518752755712/e8UvK-rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 974,
+          "like_count": 1109,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 2313
+        },
+        "username": "muhanmode123",
+        "verified": true
+      }
+    ]
+  }
+}

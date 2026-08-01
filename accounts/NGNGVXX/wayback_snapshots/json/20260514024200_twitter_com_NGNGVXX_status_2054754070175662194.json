@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2054423245353549862",
+    "created_at": "2026-05-14T02:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T03:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054754070175662194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581698835940016128",
+          "start": 0,
+          "username": "grace_ran4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054754070175662194",
+    "in_reply_to_user_id": "1581698835940016128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054601632630100147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grace_ran4 我见过很多自身卫生脏乱差的女生，也见过一直保持自身干净整洁的男生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2054423245353549862",
+        "created_at": "2026-05-14T02:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T03:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054754070175662194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581698835940016128",
+              "start": 0,
+              "username": "grace_ran4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054754070175662194",
+        "in_reply_to_user_id": "1581698835940016128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054601632630100147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grace_ran4 我见过很多自身卫生脏乱差的女生，也见过一直保持自身干净整洁的男生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581698835940016128",
+        "conversation_id": "2054423245353549862",
+        "created_at": "2026-05-13T16:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054601632630100147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054601632630100147",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054423245353549862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 你说的只是男人吧！这些我都做到了。结果还因为自己做不到每天全妆、全套首饰而心慌慌。我也喜欢像乔布斯一样每天穿同款衣服。女性难成大业，日常消耗太大了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9415,
+          "following_count": 5,
+          "like_count": 1158,
+          "listed_count": 27,
+          "media_count": 107,
+          "tweet_count": 2276
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T17:29:44.000Z",
+        "description": "",
+        "id": "1581698835940016128",
+        "name": "Grace Ran🇨🇦🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590001080494338052/9WFrNNDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 81,
+          "like_count": 89267,
+          "listed_count": 11,
+          "media_count": 1,
+          "tweet_count": 8850
+        },
+        "username": "grace_ran4",
+        "verified": false
+      }
+    ]
+  }
+}

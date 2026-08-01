@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2041365842257162386",
+    "created_at": "2026-04-07T04:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041365842257162386"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041365842257162386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你要记住，那些让你内耗的人或事都不是好人好事，别理别问别起波澜。一个人最可怕的就是内耗，过度的自我消耗，过度的分析思考以及自我否定，往往会让你感到身心俱疲。试着尝试安静下来，做自己该做的事，而不是让烦躁和焦虑毁掉你原本就不多的热情和定力。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2041365842257162386",
+        "created_at": "2026-04-07T04:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041365842257162386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041365842257162386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你要记住，那些让你内耗的人或事都不是好人好事，别理别问别起波澜。一个人最可怕的就是内耗，过度的自我消耗，过度的分析思考以及自我否定，往往会让你感到身心俱疲。试着尝试安静下来，做自己该做的事，而不是让烦躁和焦虑毁掉你原本就不多的热情和定力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8266,
+          "following_count": 5,
+          "like_count": 990,
+          "listed_count": 23,
+          "media_count": 101,
+          "tweet_count": 1821
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2079190312233382050",
+    "created_at": "2026-07-20T22:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T23:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079328332274172347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909568987689893890",
+          "start": 0,
+          "username": "youyu8866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079328332274172347",
+    "in_reply_to_user_id": "1909568987689893890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079290442085192040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youyu8866 至少你没把自己当人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2079190312233382050",
+        "created_at": "2026-07-20T22:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079328332274172347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909568987689893890",
+              "start": 0,
+              "username": "youyu8866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079328332274172347",
+        "in_reply_to_user_id": "1909568987689893890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079290442085192040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyu8866 至少你没把自己当人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909568987689893890",
+        "conversation_id": "2079190312233382050",
+        "created_at": "2026-07-20T19:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079290442085192040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079290442085192040",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079190312233382050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 😂人类把人当人了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10602,
+          "following_count": 6,
+          "like_count": 1214,
+          "listed_count": 30,
+          "media_count": 150,
+          "tweet_count": 3101
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T11:28:34.000Z",
+        "description": "摄影师 | INTJ",
+        "id": "1909568987689893890",
+        "name": "鱿鱼的洋芋",
+        "pinned_tweet_id": "2004515728242917471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022006975656341504/5MoJ0_A3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 1,
+          "like_count": 14773,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1614
+        },
+        "url": "",
+        "username": "youyu8866",
+        "verified": false
+      }
+    ]
+  }
+}

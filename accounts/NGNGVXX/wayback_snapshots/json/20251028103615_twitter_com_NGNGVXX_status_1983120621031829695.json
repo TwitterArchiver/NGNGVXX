@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1983120621031829695",
+    "created_at": "2025-10-28T10:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T11:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983120621031829695"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "les"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "le"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983120621031829695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“我的毛病太多了，你对此却无能为力，你无法改变，你无法修好我。因为我并没有坏掉，我不需要被修好，我就是我。” ​​​#les #le #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1983120621031829695",
+        "created_at": "2025-10-28T10:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983120621031829695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "les"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "le"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983120621031829695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“我的毛病太多了，你对此却无能为力，你无法改变，你无法修好我。因为我并没有坏掉，我不需要被修好，我就是我。” ​​​#les #le #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 7,
+          "like_count": 530,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 550
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

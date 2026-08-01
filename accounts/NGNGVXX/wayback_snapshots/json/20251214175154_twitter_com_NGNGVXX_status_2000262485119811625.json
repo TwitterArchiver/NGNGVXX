@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1999689140540178789",
+    "created_at": "2025-12-14T17:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T18:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000262485119811625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1106977717432578048",
+          "start": 0,
+          "username": "payphone131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000262485119811625",
+    "in_reply_to_user_id": "1106977717432578048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000257958727598319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@payphone131 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1999689140540178789",
+        "created_at": "2025-12-14T17:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T18:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000262485119811625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1106977717432578048",
+              "start": 0,
+              "username": "payphone131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000262485119811625",
+        "in_reply_to_user_id": "1106977717432578048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000257958727598319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@payphone131 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1106977717432578048",
+        "conversation_id": "1999689140540178789",
+        "created_at": "2025-12-14T17:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T18:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000257958727598319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000257958727598319",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999689140540178789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 吵架都能做到这点的人，平时也不太会和对象朋友吵架的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 7,
+          "like_count": 565,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 788
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-16T17:57:09.000Z",
+        "description": "🇩🇪｜直男 直男 直男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkiosk2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kkiosk2",
+                "start": 0,
+                "url": "https://t.co/HC69DUofFs"
+              }
+            ]
+          }
+        },
+        "id": "1106977717432578048",
+        "location": "矿洞",
+        "name": "Kkiosk",
+        "pinned_tweet_id": "1961559467536822624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992681734635237376/5Y2euKxm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 217,
+          "like_count": 1349,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/HC69DUofFs",
+        "username": "payphone131",
+        "verified": false
+      }
+    ]
+  }
+}

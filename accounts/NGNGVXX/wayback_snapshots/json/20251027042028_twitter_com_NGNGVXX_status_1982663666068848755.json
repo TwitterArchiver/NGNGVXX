@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982663653196222464"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "1982663666068848755",
+    "created_at": "2025-10-27T04:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T05:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982663666068848755"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "les"
+        },
+        {
+          "end": 8,
+          "start": 5,
+          "tag": "le"
+        },
+        {
+          "end": 12,
+          "start": 9,
+          "tag": "女同"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PxCjZBjWy8",
+          "end": 36,
+          "expanded_url": "https://x.com/NGNGVXX/status/1982663666068848755/photo/1",
+          "media_key": "3_1982663653196222464",
+          "start": 13,
+          "url": "https://t.co/PxCjZBjWy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982663666068848755",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#les #le #女同 https://t.co/PxCjZBjWy8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_1982663653196222464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PWFoXW0AA9SfU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982663653196222464"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "1982663666068848755",
+        "created_at": "2025-10-27T04:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982663666068848755"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "les"
+            },
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "le"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "女同"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxCjZBjWy8",
+              "end": 36,
+              "expanded_url": "https://x.com/NGNGVXX/status/1982663666068848755/photo/1",
+              "media_key": "3_1982663653196222464",
+              "start": 13,
+              "url": "https://t.co/PxCjZBjWy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982663666068848755",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#les #le #女同 https://t.co/PxCjZBjWy8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 7,
+          "like_count": 530,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 532
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

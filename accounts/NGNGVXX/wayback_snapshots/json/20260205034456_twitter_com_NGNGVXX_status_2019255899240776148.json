@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2019255899240776148",
+    "created_at": "2026-02-05T03:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T04:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019255899240776148"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019255899240776148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我看了一些情感博主，我发现现在年轻人谈恋爱，经常搞得很ugly的原因是：谁都不会说话，谁也都听不懂话。\n\n真的，一边不会婉拒，一边不理解婉拒。每个人都跟绝望的主男主妇一样。一边是上来就把话说得贼难听，一边是话都说得贼难听了还抱着死活不走。\n\n男的女的都有。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2019255899240776148",
+        "created_at": "2026-02-05T03:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T04:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019255899240776148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019255899240776148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看了一些情感博主，我发现现在年轻人谈恋爱，经常搞得很ugly的原因是：谁都不会说话，谁也都听不懂话。\n\n真的，一边不会婉拒，一边不理解婉拒。每个人都跟绝望的主男主妇一样。一边是上来就把话说得贼难听，一边是话都说得贼难听了还抱着死活不走。\n\n男的女的都有。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6153,
+          "following_count": 5,
+          "like_count": 925,
+          "listed_count": 16,
+          "media_count": 66,
+          "tweet_count": 1261
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

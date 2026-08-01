@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2039206204422095357",
+    "created_at": "2026-04-02T02:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T03:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039531502837620770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990701808856281092",
+          "start": 0,
+          "username": "XiaMan98875"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039531502837620770",
+    "in_reply_to_user_id": "1990701808856281092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039440030477984046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaMan98875 你可以问一问评论区那些破防男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2039206204422095357",
+        "created_at": "2026-04-02T02:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039531502837620770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990701808856281092",
+              "start": 0,
+              "username": "XiaMan98875"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039531502837620770",
+        "in_reply_to_user_id": "1990701808856281092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039440030477984046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaMan98875 你可以问一问评论区那些破防男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990701808856281092",
+        "conversation_id": "2039206204422095357",
+        "created_at": "2026-04-01T20:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T21:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039440030477984046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039440030477984046",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039206204422095357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 要怎么做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8133,
+          "following_count": 5,
+          "like_count": 987,
+          "listed_count": 23,
+          "media_count": 99,
+          "tweet_count": 1761
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T08:41:34.000Z",
+        "description": "千万少女的梦",
+        "id": "1990701808856281092",
+        "name": "夏小满",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990703154728763392/1xP_vL3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 142,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 406
+        },
+        "username": "XiaMan98875",
+        "verified": false
+      }
+    ]
+  }
+}

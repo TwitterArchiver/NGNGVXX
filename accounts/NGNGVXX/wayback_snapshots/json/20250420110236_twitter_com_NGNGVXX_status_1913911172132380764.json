@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913911168705630208",
+        "3_1913911169196404737"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "1913911172132380764",
+    "created_at": "2025-04-20T11:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T12:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913911172132380764"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "les"
+        },
+        {
+          "end": 8,
+          "start": 5,
+          "tag": "le"
+        },
+        {
+          "end": 12,
+          "start": 9,
+          "tag": "女同"
+        },
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "拉拉"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pd4WM6oNGL",
+          "end": 40,
+          "expanded_url": "https://x.com/NGNGVXX/status/1913911172132380764/photo/1",
+          "media_key": "3_1913911168705630208",
+          "start": 17,
+          "url": "https://t.co/pd4WM6oNGL"
+        },
+        {
+          "display_url": "pic.x.com/pd4WM6oNGL",
+          "end": 40,
+          "expanded_url": "https://x.com/NGNGVXX/status/1913911172132380764/photo/1",
+          "media_key": "3_1913911169196404737",
+          "start": 17,
+          "url": "https://t.co/pd4WM6oNGL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913911172132380764",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "＃les #le #女同 #拉拉 https://t.co/pd4WM6oNGL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913911168705630208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-UEU5aEAABfzP.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1913911169196404737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-UEWuasAELqbU.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913911168705630208",
+            "3_1913911169196404737"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "1913911172132380764",
+        "created_at": "2025-04-20T11:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T12:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913911172132380764"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "les"
+            },
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "le"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "女同"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "拉拉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pd4WM6oNGL",
+              "end": 40,
+              "expanded_url": "https://x.com/NGNGVXX/status/1913911172132380764/photo/1",
+              "media_key": "3_1913911168705630208",
+              "start": 17,
+              "url": "https://t.co/pd4WM6oNGL"
+            },
+            {
+              "display_url": "pic.x.com/pd4WM6oNGL",
+              "end": 40,
+              "expanded_url": "https://x.com/NGNGVXX/status/1913911172132380764/photo/1",
+              "media_key": "3_1913911169196404737",
+              "start": 17,
+              "url": "https://t.co/pd4WM6oNGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913911172132380764",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＃les #le #女同 #拉拉 https://t.co/pd4WM6oNGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 8,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 380
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

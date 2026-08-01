@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2058931602135384339",
+    "created_at": "2026-05-25T15:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058931602135384339"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058931602135384339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看似生命的馈赠，实际都标好了价格。这句话让我很务实，抵抗一些诱惑，我还是希望自己踏踏实实的过这一生，拿自己能拿住的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2058931602135384339",
+        "created_at": "2026-05-25T15:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058931602135384339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058931602135384339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看似生命的馈赠，实际都标好了价格。这句话让我很务实，抵抗一些诱惑，我还是希望自己踏踏实实的过这一生，拿自己能拿住的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9677,
+          "following_count": 5,
+          "like_count": 1160,
+          "listed_count": 30,
+          "media_count": 108,
+          "tweet_count": 2379
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

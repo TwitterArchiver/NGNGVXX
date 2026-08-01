@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2067831567842693534",
+    "created_at": "2026-06-19T04:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T05:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067831567842693534"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067831567842693534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那些不出力、不担责、不为你人生兜底的人，没资格替你按下确认键。\n\n闲话很轻，却很会偷人。它不毁路，却能毁掉你的胆子。\n\n你的时间有限，不要为别人而活，不要活在别人的观念里。真正对的选择，从来不需要太多人提前理解。它只需要你——先动起来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2067831567842693534",
+        "created_at": "2026-06-19T04:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067831567842693534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067831567842693534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那些不出力、不担责、不为你人生兜底的人，没资格替你按下确认键。\n\n闲话很轻，却很会偷人。它不毁路，却能毁掉你的胆子。\n\n你的时间有限，不要为别人而活，不要活在别人的观念里。真正对的选择，从来不需要太多人提前理解。它只需要你——先动起来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10030,
+          "following_count": 6,
+          "like_count": 1193,
+          "listed_count": 27,
+          "media_count": 119,
+          "tweet_count": 2628
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

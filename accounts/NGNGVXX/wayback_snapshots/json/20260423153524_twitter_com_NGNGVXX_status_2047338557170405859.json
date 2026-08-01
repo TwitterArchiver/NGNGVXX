@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2047338557170405859",
+    "created_at": "2026-04-23T15:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047338557170405859"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047338557170405859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的很厉害了，一个人挺过了那么多糟糕的时刻，把自己从那个糟糕的环境拯救出来，我就是自己的英雄，我为自己骄傲。不管以后如何，无论贫穷还是富有，我都不会自卑，因为我是自己的靠山，这件事就值得我永远自信。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2047338557170405859",
+        "created_at": "2026-04-23T15:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047338557170405859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047338557170405859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很厉害了，一个人挺过了那么多糟糕的时刻，把自己从那个糟糕的环境拯救出来，我就是自己的英雄，我为自己骄傲。不管以后如何，无论贫穷还是富有，我都不会自卑，因为我是自己的靠山，这件事就值得我永远自信。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8571,
+          "following_count": 4,
+          "like_count": 1053,
+          "listed_count": 24,
+          "media_count": 104,
+          "tweet_count": 2057
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034316980564738048"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2034316988890370336",
+    "created_at": "2026-03-18T17:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T18:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034316988890370336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QizafRs1WP",
+          "end": 42,
+          "expanded_url": "https://x.com/NGNGVXX/status/2034316988890370336/photo/1",
+          "media_key": "3_2034316980564738048",
+          "start": 19,
+          "url": "https://t.co/QizafRs1WP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034316988890370336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "后来，我真的开始珍惜身边炫富的朋友。 https://t.co/QizafRs1WP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_2034316980564738048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtYg_sbQAACANJ.jpg",
+        "width": 1584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034316980564738048"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2034316988890370336",
+        "created_at": "2026-03-18T17:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T18:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034316988890370336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QizafRs1WP",
+              "end": 42,
+              "expanded_url": "https://x.com/NGNGVXX/status/2034316988890370336/photo/1",
+              "media_key": "3_2034316980564738048",
+              "start": 19,
+              "url": "https://t.co/QizafRs1WP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034316988890370336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后来，我真的开始珍惜身边炫富的朋友。 https://t.co/QizafRs1WP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7781,
+          "following_count": 5,
+          "like_count": 981,
+          "listed_count": 20,
+          "media_count": 95,
+          "tweet_count": 1617
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

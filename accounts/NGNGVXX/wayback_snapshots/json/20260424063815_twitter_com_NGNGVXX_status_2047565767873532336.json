@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2047337042468839792",
+    "created_at": "2026-04-24T06:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047565767873532336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1738902636932292608",
+          "start": 0,
+          "username": "Betinlife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047565767873532336",
+    "in_reply_to_user_id": "1738902636932292608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047539553129693504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Betinlife 这本书的核心价值是想表达说“你才是你自己情绪的主人。不要让别人影响你的情绪”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2047337042468839792",
+        "created_at": "2026-04-24T06:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047565767873532336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738902636932292608",
+              "start": 0,
+              "username": "Betinlife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047565767873532336",
+        "in_reply_to_user_id": "1738902636932292608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047539553129693504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Betinlife 这本书的核心价值是想表达说“你才是你自己情绪的主人。不要让别人影响你的情绪”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738902636932292608",
+        "conversation_id": "2047337042468839792",
+        "created_at": "2026-04-24T04:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047539553129693504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047539553129693504",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047337042468839792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 这本书最残忍的地方，不是告诉你快乐是自己选的。\n\n是它暗示你——那些让你不快乐的人，连被你责怪的价值都没有。\n\n你以为是觉醒。\n\n其实是连痛苦都要自己一个人扛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8577,
+          "following_count": 4,
+          "like_count": 1054,
+          "listed_count": 24,
+          "media_count": 104,
+          "tweet_count": 2062
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T12:41:53.000Z",
+        "description": "不讲爱\n只讲人性\n以及怎么不被拿捏ㅤㅤㅤㅤㅤㅤㅤㅤ Never love.\nJust power, timing, control.",
+        "id": "1738902636932292608",
+        "location": "Los Angeles, CA",
+        "name": "说别关灯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045499767560794112/LSf9Qlqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 8,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 224
+        },
+        "username": "Betinlife",
+        "verified": false
+      }
+    ]
+  }
+}

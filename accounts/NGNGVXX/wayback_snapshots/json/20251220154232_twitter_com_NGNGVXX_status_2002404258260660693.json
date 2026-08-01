@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2001855255009726973",
+    "created_at": "2025-12-20T15:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002404258260660693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1455069879527112704",
+          "start": 0,
+          "username": "donotokwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002404258260660693",
+    "in_reply_to_user_id": "1455069879527112704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002028947299819894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donotokwq 劣质咖啡豆的确很便宜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2001855255009726973",
+        "created_at": "2025-12-20T15:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002404258260660693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1455069879527112704",
+              "start": 0,
+              "username": "donotokwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002404258260660693",
+        "in_reply_to_user_id": "1455069879527112704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002028947299819894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donotokwq 劣质咖啡豆的确很便宜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455069879527112704",
+        "conversation_id": "2001855255009726973",
+        "created_at": "2025-12-19T14:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T15:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002028947299819894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002028947299819894",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 756,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001855255009726973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 咖啡豆便宜得很"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 7,
+          "like_count": 648,
+          "listed_count": 6,
+          "media_count": 46,
+          "tweet_count": 806
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T07:11:18.000Z",
+        "description": "那是极度高贵又极度危险的行为",
+        "id": "1455069879527112704",
+        "name": "Sen",
+        "pinned_tweet_id": "1961001188616188347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970897388815736834/P-LA7rhc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 28,
+          "like_count": 1408,
+          "listed_count": 9,
+          "media_count": 77,
+          "tweet_count": 1926
+        },
+        "username": "donotokwq",
+        "verified": false
+      }
+    ]
+  }
+}

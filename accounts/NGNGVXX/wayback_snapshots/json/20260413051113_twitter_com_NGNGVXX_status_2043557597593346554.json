@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043362128741192012",
+    "created_at": "2026-04-13T05:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043557597593346554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "843471688763297792",
+          "start": 0,
+          "username": "baijiazi001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043557597593346554",
+    "in_reply_to_user_id": "843471688763297792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043541248167035323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baijiazi001 不是女人没有赚钱能力，而是比起男人女人更容易牺牲自己的事业。只能说你姐是幸福的同时也是幸运的，不是每个男人都像你姐夫一样不在意别人怎么看他，愿意承担背上“吃软饭”的标签。你姐姐姐夫更加明白“生活是自己的，和别人无关，过好自己的生活比什么都强”的道理。为你姐姐姐夫点赞👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-13T05:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043557597593346554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "843471688763297792",
+              "start": 0,
+              "username": "baijiazi001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043557597593346554",
+        "in_reply_to_user_id": "843471688763297792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043541248167035323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baijiazi001 不是女人没有赚钱能力，而是比起男人女人更容易牺牲自己的事业。只能说你姐是幸福的同时也是幸运的，不是每个男人都像你姐夫一样不在意别人怎么看他，愿意承担背上“吃软饭”的标签。你姐姐姐夫更加明白“生活是自己的，和别人无关，过好自己的生活比什么都强”的道理。为你姐姐姐夫点赞👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "843471688763297792",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-13T04:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043541248167035323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043541248167035323",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043362128741192012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 只能说，很多女人没什么赚钱能力。可能是笨，可能是懒。只能接受成住家保姆。\n\n人家哪些成功的女性，就不在意这些。我姐赚钱多她就让我姐夫日常住家。她在外面工作。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8200,
+          "following_count": 5,
+          "like_count": 1002,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1873
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-19T14:38:16.000Z",
+        "description": "蛙靠！",
+        "id": "843471688763297792",
+        "name": "枫糖老呱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790894983140229120/I3CqpIwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 171,
+          "like_count": 20773,
+          "listed_count": 19,
+          "media_count": 1512,
+          "tweet_count": 17800
+        },
+        "username": "baijiazi001",
+        "verified": false
+      }
+    ]
+  }
+}

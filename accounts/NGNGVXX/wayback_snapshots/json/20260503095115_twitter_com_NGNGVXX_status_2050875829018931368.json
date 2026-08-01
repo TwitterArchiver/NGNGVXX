@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2050181445449343342",
+    "created_at": "2026-05-03T09:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050875829018931368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1361811343054020609",
+          "start": 0,
+          "username": "zuczs"
+        },
+        {
+          "end": 18,
+          "id": "1471359527706501121",
+          "start": 7,
+          "username": "sheep_0v0_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050875829018931368",
+    "in_reply_to_user_id": "1361811343054020609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050758917014393164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuczs @sheep_0v0_ 有钱还出来干买播？呵呵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2050181445449343342",
+        "created_at": "2026-05-03T09:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050875829018931368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1361811343054020609",
+              "start": 0,
+              "username": "zuczs"
+            },
+            {
+              "end": 18,
+              "id": "1471359527706501121",
+              "start": 7,
+              "username": "sheep_0v0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050875829018931368",
+        "in_reply_to_user_id": "1361811343054020609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050758917014393164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuczs @sheep_0v0_ 有钱还出来干买播？呵呵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361811343054020609",
+        "conversation_id": "2050181445449343342",
+        "created_at": "2026-05-03T02:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050758917014393164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            },
+            {
+              "end": 20,
+              "id": "1471359527706501121",
+              "start": 9,
+              "username": "sheep_0v0_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050758917014393164",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050197778618630389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX @sheep_0v0_ 有钱人看不起穷人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9010,
+          "following_count": 5,
+          "like_count": 1144,
+          "listed_count": 24,
+          "media_count": 111,
+          "tweet_count": 2151
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-16T22:55:13.000Z",
+        "description": "开心",
+        "id": "1361811343054020609",
+        "location": "中国大陆",
+        "name": "zuczs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684406136630546433/UicVdLyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 238,
+          "like_count": 50083,
+          "listed_count": 5,
+          "media_count": 67,
+          "tweet_count": 1288
+        },
+        "username": "zuczs",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T06:00:29.000Z",
+        "description": "bi｜思维驰｜巴特｜艾恩艾服勾\n关注你是我想看更新\nhttps://t.co/LF2DcLBaU2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep_0v0_",
+                "end": 49,
+                "expanded_url": "https://ngl.link/sheep_0v0_",
+                "start": 26,
+                "url": "https://t.co/LF2DcLBaU2"
+              }
+            ]
+          }
+        },
+        "id": "1471359527706501121",
+        "name": "诗艺谱",
+        "pinned_tweet_id": "2045503639184400712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925971437501779969/negeYk95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 184,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 837
+        },
+        "username": "sheep_0v0_",
+        "verified": false
+      }
+    ]
+  }
+}

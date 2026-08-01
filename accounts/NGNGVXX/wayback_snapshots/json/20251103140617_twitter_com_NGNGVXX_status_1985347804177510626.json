@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1985347804177510626",
+    "created_at": "2025-11-03T14:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T15:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985347804177510626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Game On, Prizes Won - 100% Fun Guaranteed!",
+          "display_url": "s.lazada.com.my/s.t3GwO",
+          "end": 68,
+          "expanded_url": "https://s.lazada.com.my/s.t3GwO",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/1985347804542521344/NEQ_RkxD?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1985347804542521344/NEQ_RkxD?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 45,
+          "status": 200,
+          "title": "MergeBoss",
+          "unwound_url": "https://s.lazada.com.my/s.t3GwO",
+          "url": "https://t.co/LlpHpoXpHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985347804177510626",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Game On, Prizes Won - 100% Fun Guaranteed! | https://t.co/LlpHpoXpHQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1985347804177510626",
+        "created_at": "2025-11-03T14:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985347804177510626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Game On, Prizes Won - 100% Fun Guaranteed!",
+              "display_url": "s.lazada.com.my/s.t3GwO",
+              "end": 68,
+              "expanded_url": "https://s.lazada.com.my/s.t3GwO",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/1985347804542521344/NEQ_RkxD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1985347804542521344/NEQ_RkxD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 45,
+              "status": 200,
+              "title": "MergeBoss",
+              "unwound_url": "https://s.lazada.com.my/s.t3GwO",
+              "url": "https://t.co/LlpHpoXpHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985347804177510626",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Game On, Prizes Won - 100% Fun Guaranteed! | https://t.co/LlpHpoXpHQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 7,
+          "like_count": 535,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 580
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1958406713268482149",
+    "created_at": "2025-08-21T05:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T06:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958406713268482149"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1958406713268482149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不会强求任何人把我放在重要的位置上 可当我一旦意识到我在你那没有那么重要的时候 我也会把你的重要性降低 人和人之间就是这样的 我不能要求你 但我可以改变自己 我只在乎在乎我的人 你对我好我也对你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1958406713268482149",
+        "created_at": "2025-08-21T05:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T06:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958406713268482149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958406713268482149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会强求任何人把我放在重要的位置上 可当我一旦意识到我在你那没有那么重要的时候 我也会把你的重要性降低 人和人之间就是这样的 我不能要求你 但我可以改变自己 我只在乎在乎我的人 你对我好我也对你好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 7,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 435
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

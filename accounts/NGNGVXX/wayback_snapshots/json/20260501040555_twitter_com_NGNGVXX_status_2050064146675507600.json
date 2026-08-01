@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2050064146675507600",
+    "created_at": "2026-05-01T04:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050064146675507600"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050064146675507600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉挂念着一个不会见到的人的好处就是 你对周遭一切乱七八糟的事情都能保持平静的心态 不被影响你不在乎 也知道除了他以外没有人能再次把你打动这思念漫无边际 永无止境 静静伫立在那里 在每一个有月光的夜晚会变得明晰 像是在你灵魂里立下了一座永不腐朽的碑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2050064146675507600",
+        "created_at": "2026-05-01T04:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050064146675507600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050064146675507600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉挂念着一个不会见到的人的好处就是 你对周遭一切乱七八糟的事情都能保持平静的心态 不被影响你不在乎 也知道除了他以外没有人能再次把你打动这思念漫无边际 永无止境 静静伫立在那里 在每一个有月光的夜晚会变得明晰 像是在你灵魂里立下了一座永不腐朽的碑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8966,
+          "following_count": 5,
+          "like_count": 1121,
+          "listed_count": 24,
+          "media_count": 110,
+          "tweet_count": 2132
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

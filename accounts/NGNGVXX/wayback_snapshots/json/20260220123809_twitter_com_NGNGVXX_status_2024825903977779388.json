@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024825897266913280"
+      ]
+    },
+    "author_id": "2363856960",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2024825903977779388",
+    "created_at": "2026-02-20T12:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024825903977779388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9BtheWpxji",
+          "end": 34,
+          "expanded_url": "https://x.com/NGNGVXX/status/2024825903977779388/photo/1",
+          "media_key": "3_2024825897266913280",
+          "start": 11,
+          "url": "https://t.co/9BtheWpxji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024825903977779388",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "年味消失的原因找到了 https://t.co/9BtheWpxji"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 502,
+        "media_key": "3_2024825897266913280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmgbPKbIAAKWjq.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024825897266913280"
+          ]
+        },
+        "author_id": "2363856960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024825903977779388",
+        "created_at": "2026-02-20T12:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024825903977779388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9BtheWpxji",
+              "end": 34,
+              "expanded_url": "https://x.com/NGNGVXX/status/2024825903977779388/photo/1",
+              "media_key": "3_2024825897266913280",
+              "start": 11,
+              "url": "https://t.co/9BtheWpxji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024825903977779388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年味消失的原因找到了 https://t.co/9BtheWpxji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7035,
+          "following_count": 5,
+          "like_count": 947,
+          "listed_count": 17,
+          "media_count": 79,
+          "tweet_count": 1393
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

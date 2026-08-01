@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049474430489997312"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2049474438920573081",
+    "created_at": "2026-04-29T13:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049474438920573081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AEKuUghVMC",
+          "end": 42,
+          "expanded_url": "https://x.com/NGNGVXX/status/2049474438920573081/photo/1",
+          "media_key": "3_2049474430489997312",
+          "start": 19,
+          "url": "https://t.co/AEKuUghVMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049474438920573081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好喜欢这句：“缓缓生香，年年胜意。” https://t.co/AEKuUghVMC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2049474430489997312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEyIs2aMAAd-Lk.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049474430489997312"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2049474438920573081",
+        "created_at": "2026-04-29T13:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049474438920573081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEKuUghVMC",
+              "end": 42,
+              "expanded_url": "https://x.com/NGNGVXX/status/2049474438920573081/photo/1",
+              "media_key": "3_2049474430489997312",
+              "start": 19,
+              "url": "https://t.co/AEKuUghVMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049474438920573081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢这句：“缓缓生香，年年胜意。” https://t.co/AEKuUghVMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8962,
+          "following_count": 5,
+          "like_count": 1121,
+          "listed_count": 24,
+          "media_count": 110,
+          "tweet_count": 2124
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2040379036611105029",
+    "created_at": "2026-04-04T10:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T11:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040379036611105029"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040379036611105029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《乌合之众》古斯塔夫·勒\n\n他人的评价只不过是他认知的投影，当你的境界远高于对方时，他只能用自己有限的尺子丈量你！正所谓众生见你却非你！爱者见魂，利者见秤，所以不活在别人嘴里。好听的话不当真，难听的话别走心，你就做你自己，任何人也无法束缚你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2040379036611105029",
+        "created_at": "2026-04-04T10:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040379036611105029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040379036611105029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《乌合之众》古斯塔夫·勒\n\n他人的评价只不过是他认知的投影，当你的境界远高于对方时，他只能用自己有限的尺子丈量你！正所谓众生见你却非你！爱者见魂，利者见秤，所以不活在别人嘴里。好听的话不当真，难听的话别走心，你就做你自己，任何人也无法束缚你！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8204,
+          "following_count": 5,
+          "like_count": 990,
+          "listed_count": 23,
+          "media_count": 101,
+          "tweet_count": 1798
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

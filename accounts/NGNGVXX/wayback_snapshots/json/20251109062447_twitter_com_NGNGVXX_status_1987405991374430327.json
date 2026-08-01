@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1987405991374430327",
+    "created_at": "2025-11-09T06:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T07:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987405991374430327"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 118,
+          "start": 114,
+          "tag": "les"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "le"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987405991374430327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别人想和你终止关系，你立马同意就好了，不要去问为什么，对方说给你听的都是不痛不痒的借口，而且你的问题永远没有止境，就算你知道了分开的原因也会好奇是否有机会和好，对于这段关系，你永远会有疑问，所以不如什么都不问，早点接受早点看开。#les #le #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1987405991374430327",
+        "created_at": "2025-11-09T06:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987405991374430327"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "les"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "le"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987405991374430327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人想和你终止关系，你立马同意就好了，不要去问为什么，对方说给你听的都是不痛不痒的借口，而且你的问题永远没有止境，就算你知道了分开的原因也会好奇是否有机会和好，对于这段关系，你永远会有疑问，所以不如什么都不问，早点接受早点看开。#les #le #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 7,
+          "like_count": 579,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 612
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

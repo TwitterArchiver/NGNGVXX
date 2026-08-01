@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2044379475073499144",
+    "created_at": "2026-04-15T11:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044379475073499144"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044379475073499144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国人得意时信儒教，失意时信道教佛教，而在教义与己相背时，中国人会说，“人定胜天”。中国人的信仰危机在于，经常改变信仰。 \n——林语堂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2044379475073499144",
+        "created_at": "2026-04-15T11:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044379475073499144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044379475073499144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人得意时信儒教，失意时信道教佛教，而在教义与己相背时，中国人会说，“人定胜天”。中国人的信仰危机在于，经常改变信仰。 \n——林语堂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8310,
+          "following_count": 5,
+          "like_count": 1043,
+          "listed_count": 22,
+          "media_count": 101,
+          "tweet_count": 1969
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

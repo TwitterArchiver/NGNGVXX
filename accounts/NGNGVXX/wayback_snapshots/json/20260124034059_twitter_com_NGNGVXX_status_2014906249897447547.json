@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2014906249897447547",
+    "created_at": "2026-01-24T03:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T04:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014906249897447547"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014906249897447547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "长大后才发现\n长得好看又不能当饭吃\n这句话多么荒谬\n长得好看的人都快吃撑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2014906249897447547",
+        "created_at": "2026-01-24T03:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T04:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014906249897447547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014906249897447547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长大后才发现\n长得好看又不能当饭吃\n这句话多么荒谬\n长得好看的人都快吃撑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5580,
+          "following_count": 5,
+          "like_count": 916,
+          "listed_count": 13,
+          "media_count": 58,
+          "tweet_count": 1145
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

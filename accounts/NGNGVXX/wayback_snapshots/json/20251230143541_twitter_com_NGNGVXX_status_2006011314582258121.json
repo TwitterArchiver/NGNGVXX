@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2006010892874289486",
+    "created_at": "2025-12-30T14:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T15:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006011314582258121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1964908711215853568",
+          "start": 0,
+          "username": "Janice10475"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006011314582258121",
+    "in_reply_to_user_id": "1964908711215853568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006011071748845967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Janice10475 🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2006010892874289486",
+        "created_at": "2025-12-30T14:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T15:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006011314582258121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1964908711215853568",
+              "start": 0,
+              "username": "Janice10475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006011314582258121",
+        "in_reply_to_user_id": "1964908711215853568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006011071748845967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Janice10475 🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964908711215853568",
+        "conversation_id": "2006010892874289486",
+        "created_at": "2025-12-30T14:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T15:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006011071748845967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006011071748845967",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006010892874289486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 估计刚入行🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3058,
+          "following_count": 6,
+          "like_count": 735,
+          "listed_count": 10,
+          "media_count": 50,
+          "tweet_count": 893
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T04:28:57.000Z",
+        "description": "高级人力资源管理师｜“小沙飞”读书会创始人｜生活美学俱乐部主理人 。核心分享：生活美学#正能量# 热点。愿与同频的你一起成长！",
+        "id": "1964908711215853568",
+        "name": "凌光予你",
+        "pinned_tweet_id": "2003622824162795724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977338414920806400/OpZuuEKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2892,
+          "following_count": 2159,
+          "like_count": 27346,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 5027
+        },
+        "username": "Janice10475",
+        "verified": true
+      }
+    ]
+  }
+}

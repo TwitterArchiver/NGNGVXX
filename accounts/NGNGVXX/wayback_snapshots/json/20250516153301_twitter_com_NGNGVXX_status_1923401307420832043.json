@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1923401307420832043",
+    "created_at": "2025-05-16T15:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T16:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923401307420832043"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "les"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923401307420832043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "浮浮躁躁 分分合合 跟过家家一样 动不动就找个新的人暧昧 道德底线低 自我约束力太低 人啊 得有点责任感 你说要不然和动物有什么区别 我相信 爱是有洁癖的 它可以不问过往 但开始后就不能有瑕疵和谎话 辜负真心的人就不该幸福 ​ ​​​#les #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1923401307420832043",
+        "created_at": "2025-05-16T15:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T16:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923401307420832043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "les"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923401307420832043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "浮浮躁躁 分分合合 跟过家家一样 动不动就找个新的人暧昧 道德底线低 自我约束力太低 人啊 得有点责任感 你说要不然和动物有什么区别 我相信 爱是有洁癖的 它可以不问过往 但开始后就不能有瑕疵和谎话 辜负真心的人就不该幸福 ​ ​​​#les #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 7,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 384
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043362128741192012",
+    "created_at": "2026-04-12T21:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T22:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043434272057606225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "156961481",
+          "start": 0,
+          "username": "ouchaiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043434272057606225",
+    "in_reply_to_user_id": "156961481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043402496274747735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouchaiya 所以正常的女人都不会和这位网友拥有相同的观点，因为她们清楚的知道结婚生孩子对女人来说是意味着什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-12T21:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T22:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043434272057606225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "156961481",
+              "start": 0,
+              "username": "ouchaiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043434272057606225",
+        "in_reply_to_user_id": "156961481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043402496274747735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouchaiya 所以正常的女人都不会和这位网友拥有相同的观点，因为她们清楚的知道结婚生孩子对女人来说是意味着什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "156961481",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-12T18:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043402496274747735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "173811014",
+              "start": 0,
+              "username": "AOHK666"
+            },
+            {
+              "end": 17,
+              "id": "2363856960",
+              "start": 9,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043402496274747735",
+        "in_reply_to_user_id": "173811014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043395452159037610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AOHK666 @NGNGVXX 因为有这种观点的女人把自己当生育工具了，没有把自己当人，所以才会觉得是给别人生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8202,
+          "following_count": 5,
+          "like_count": 999,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1865
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-18T12:30:43.000Z",
+        "description": "毒舌。杠精。喜欢说尖酸刻薄的话。总是忍不住想要吐槽。无恶意，纯娱乐，别太当真，开心就好。正在学习日语中。\n日本語勉強中。たまに日本語でポスト（呟き）するけど、変な日本語だったら突っ込んでね！繋がれると嬉しいです 📌",
+        "id": "156961481",
+        "location": "Tokyo, Japan",
+        "name": "アイヤ＠毒舌評論家",
+        "pinned_tweet_id": "2028783007835070613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021866135596232704/LEYZQ2zm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 1024,
+          "like_count": 1353,
+          "listed_count": 8,
+          "media_count": 178,
+          "tweet_count": 99840
+        },
+        "username": "ouchaiya",
+        "verified": true
+      }
+    ]
+  }
+}

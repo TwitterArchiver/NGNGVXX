@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2030939668594966906",
+    "created_at": "2026-06-26T09:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070442626747105290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1596798393954619392",
+          "start": 0,
+          "username": "QuietWithLight"
+        },
+        {
+          "end": 25,
+          "id": "1645489308902756353",
+          "start": 16,
+          "username": "Dove2364"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070442626747105290",
+    "in_reply_to_user_id": "1596798393954619392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031234581811359751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuietWithLight @Dove2364 你可以相信你的人生就这样那样了，那是你的自由，没有会阻止你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2030939668594966906",
+        "created_at": "2026-06-26T09:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070442626747105290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596798393954619392",
+              "start": 0,
+              "username": "QuietWithLight"
+            },
+            {
+              "end": 25,
+              "id": "1645489308902756353",
+              "start": 16,
+              "username": "Dove2364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070442626747105290",
+        "in_reply_to_user_id": "1596798393954619392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031234581811359751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuietWithLight @Dove2364 你可以相信你的人生就这样那样了，那是你的自由，没有会阻止你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596798393954619392",
+        "conversation_id": "2030939668594966906",
+        "created_at": "2026-03-10T05:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031234581811359751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            },
+            {
+              "end": 18,
+              "id": "1645489308902756353",
+              "start": 9,
+              "username": "Dove2364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031234581811359751",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030939668594966906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX @Dove2364 感觉像鸡汤文了，对于那些没工作没钱的没财富积累的中共国年轻人做到以上那些难得要命，能养活自己都算不错了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10134,
+          "following_count": 6,
+          "like_count": 1201,
+          "listed_count": 29,
+          "media_count": 128,
+          "tweet_count": 2767
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:29:49.000Z",
+        "description": "永远不要失去良知、不要失去表达的力气\n中共政权现在就是一种色厉内荏的悲哀。\n当一个政权选择对抗人类良知，它就已在为自己的终结倒计时。反吃人不吐骨头的极权 | 捍卫言论自由与历史真相 | 相信善恶终有报。 | Anti-CCP ≠ Anti-China 中共政权它把“稳定”看得远高于“正义”和“人命”。",
+        "id": "1596798393954619392",
+        "location": "Sunol-Midtown, CA",
+        "name": "Ophelia's Lavender🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046723270087757824/ee_Ih-7p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 343,
+          "like_count": 19487,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 4988
+        },
+        "url": "",
+        "username": "QuietWithLight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T18:10:13.000Z",
+        "description": "Writer | Gay | Christian | Chinese Political Refugee | Psychiatric Disability",
+        "id": "1645489308902756353",
+        "location": "Auckland, New Zealand",
+        "name": "陈子奔 Leo Chen🤾🏻🏳️‍🌈🇳🇿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978618307227090945/a2GQc6m2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 194,
+          "like_count": 45865,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 855
+        },
+        "url": "",
+        "username": "Dove2364",
+        "verified": false
+      }
+    ]
+  }
+}

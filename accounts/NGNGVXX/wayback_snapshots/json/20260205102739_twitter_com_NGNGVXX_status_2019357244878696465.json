@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2019357244878696465",
+    "created_at": "2026-02-05T10:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T11:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019357244878696465"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019357244878696465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特别喜欢和幸福阈值低的人呆在一起，吃上一顿好吃的饭会开心，肆意在街上大叫会开心，路上见到小猫小狗会开心，看到一场落日都会开心。他们陪在身边能创造太多太多感知幸福的时刻，好像时间都会放慢倍速。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2019357244878696465",
+        "created_at": "2026-02-05T10:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019357244878696465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019357244878696465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别喜欢和幸福阈值低的人呆在一起，吃上一顿好吃的饭会开心，肆意在街上大叫会开心，路上见到小猫小狗会开心，看到一场落日都会开心。他们陪在身边能创造太多太多感知幸福的时刻，好像时间都会放慢倍速。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6165,
+          "following_count": 5,
+          "like_count": 925,
+          "listed_count": 16,
+          "media_count": 66,
+          "tweet_count": 1265
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

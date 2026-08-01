@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909256033660538880"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "1909256117903093965",
+    "created_at": "2025-04-07T14:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T15:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909256117903093965"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "les"
+        },
+        {
+          "end": 24,
+          "start": 22,
+          "tag": "t"
+        },
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "wlw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mAeVoLrksD",
+          "end": 53,
+          "expanded_url": "https://x.com/NGNGVXX/status/1909256117903093965/photo/1",
+          "media_key": "3_1909256033660538880",
+          "start": 30,
+          "url": "https://t.co/mAeVoLrksD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909256117903093965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我尊重所有人，但我不在乎他们。\n\n#les #t #wlw https://t.co/mAeVoLrksD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3503,
+        "media_key": "3_1909256033660538880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn8KPzebkAA-P4U.jpg",
+        "width": 2628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909256033660538880"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "1909256117903093965",
+        "created_at": "2025-04-07T14:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T15:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909256117903093965"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "les"
+            },
+            {
+              "end": 24,
+              "start": 22,
+              "tag": "t"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAeVoLrksD",
+              "end": 53,
+              "expanded_url": "https://x.com/NGNGVXX/status/1909256117903093965/photo/1",
+              "media_key": "3_1909256033660538880",
+              "start": 30,
+              "url": "https://t.co/mAeVoLrksD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909256117903093965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我尊重所有人，但我不在乎他们。\n\n#les #t #wlw https://t.co/mAeVoLrksD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。",
+        "id": "2363856960",
+        "name": "NG NG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 8,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 369
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

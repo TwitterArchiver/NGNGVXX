@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2048625202867958252",
+    "created_at": "2026-04-28T05:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049005492425646293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823538036019486724",
+          "start": 0,
+          "username": "RebeccaHsno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049005492425646293",
+    "in_reply_to_user_id": "1823538036019486724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048978630517116943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RebeccaHsno 你的目的是什么？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2048978627916935168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9vNMVbMAAHeDs.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2048625202867958252",
+        "created_at": "2026-04-28T05:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049005492425646293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823538036019486724",
+              "start": 0,
+              "username": "RebeccaHsno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049005492425646293",
+        "in_reply_to_user_id": "1823538036019486724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048978630517116943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RebeccaHsno 你的目的是什么？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048978627916935168"
+          ]
+        },
+        "author_id": "1823538036019486724",
+        "conversation_id": "2048625202867958252",
+        "created_at": "2026-04-28T04:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048978630517116943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZU3XOjzhFE",
+              "end": 36,
+              "expanded_url": "https://x.com/RebeccaHsno/status/2048978630517116943/photo/1",
+              "media_key": "3_2048978627916935168",
+              "start": 13,
+              "url": "https://t.co/ZU3XOjzhFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048978630517116943",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048625202867958252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 好吃吗 https://t.co/ZU3XOjzhFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8914,
+          "following_count": 4,
+          "like_count": 1118,
+          "listed_count": 24,
+          "media_count": 107,
+          "tweet_count": 2111
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T01:52:49.000Z",
+        "description": "25°C，78%，19:31 | 春を告げ踊り出す山菜、夏を見る宇治野原唐草乾くわ、秋の月登ったまん丸さお祝い、冬を過ぎまた月日を数える",
+        "id": "1823538036019486724",
+        "location": "Adrastea",
+        "name": "阿米娜 · 阔依姆@438代目",
+        "pinned_tweet_id": "1949363841835389343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823540468992630784/tptN9yYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 51,
+          "like_count": 1320,
+          "listed_count": 6,
+          "media_count": 330,
+          "tweet_count": 650
+        },
+        "username": "RebeccaHsno",
+        "verified": false
+      }
+    ]
+  }
+}

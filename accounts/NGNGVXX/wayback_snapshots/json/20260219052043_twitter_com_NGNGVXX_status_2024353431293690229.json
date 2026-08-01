@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2024334737817604211",
+    "created_at": "2026-02-19T05:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024353431293690229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1243478418957594629",
+          "start": 0,
+          "username": "Smile4Yes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024353431293690229",
+    "in_reply_to_user_id": "1243478418957594629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024348510548873693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smile4Yes 有这样想法的都很悲哀，这也不是你们的错。万幸的是并不是每一位都有这样的想法。希望不久的将来你可以有不一样的看法☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2024334737817604211",
+        "created_at": "2026-02-19T05:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024353431293690229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1243478418957594629",
+              "start": 0,
+              "username": "Smile4Yes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024353431293690229",
+        "in_reply_to_user_id": "1243478418957594629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024348510548873693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smile4Yes 有这样想法的都很悲哀，这也不是你们的错。万幸的是并不是每一位都有这样的想法。希望不久的将来你可以有不一样的看法☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243478418957594629",
+        "conversation_id": "2024334737817604211",
+        "created_at": "2026-02-19T05:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024348510548873693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024348510548873693",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024347029577880017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我觉得这不只是我的悲哀，还是社会的悲哀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7036,
+          "following_count": 5,
+          "like_count": 947,
+          "listed_count": 16,
+          "media_count": 75,
+          "tweet_count": 1385
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T10:02:25.000Z",
+        "description": "ISTP-T / Trying to get better / 一个好人 / 自己的心事小树洞",
+        "id": "1243478418957594629",
+        "location": "Utopia",
+        "name": "Smileyes（互/mutual）",
+        "pinned_tweet_id": "2010248239120077202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848555831572545536/Ri4_Cvix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 2335,
+          "like_count": 26947,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 5882
+        },
+        "username": "Smile4Yes",
+        "verified": true
+      }
+    ]
+  }
+}

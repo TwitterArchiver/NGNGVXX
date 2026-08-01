@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043955433162059776"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2043955435477348544",
+    "created_at": "2026-04-14T07:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043955435477348544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lQCVHcBtin",
+          "end": 149,
+          "expanded_url": "https://x.com/NGNGVXX/status/2043955435477348544/photo/1",
+          "media_key": "3_2043955433162059776",
+          "start": 126,
+          "url": "https://t.co/lQCVHcBtin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043955435477348544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这位姐姐你要不要看看你在说啥，你说男的有子宫，然后呢？和你是女生给你老公生了宝宝有啥关系？我还以为你说你老公是男的，而且有子宫，还给你生了宝宝呢🤔 然后和我能不能生宝宝，生过宝宝没有，有啥关系呢？ (她拉黑我了，我回复不了，所以我在这里提出我的疑问) https://t.co/lQCVHcBtin"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1808,
+        "media_key": "3_2043955433162059776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2WoxpasAA9X3B.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043955433162059776"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2043955435477348544",
+        "created_at": "2026-04-14T07:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043955435477348544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQCVHcBtin",
+              "end": 149,
+              "expanded_url": "https://x.com/NGNGVXX/status/2043955435477348544/photo/1",
+              "media_key": "3_2043955433162059776",
+              "start": 126,
+              "url": "https://t.co/lQCVHcBtin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043955435477348544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这位姐姐你要不要看看你在说啥，你说男的有子宫，然后呢？和你是女生给你老公生了宝宝有啥关系？我还以为你说你老公是男的，而且有子宫，还给你生了宝宝呢🤔 然后和我能不能生宝宝，生过宝宝没有，有啥关系呢？ (她拉黑我了，我回复不了，所以我在这里提出我的疑问) https://t.co/lQCVHcBtin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8284,
+          "following_count": 5,
+          "like_count": 1012,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1906
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

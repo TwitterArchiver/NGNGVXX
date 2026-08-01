@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067875772430458880"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2067875778843615574",
+    "created_at": "2026-06-19T07:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067875778843615574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4hRyc3iKkr",
+          "end": 61,
+          "expanded_url": "https://x.com/NGNGVXX/status/2067875778843615574/photo/1",
+          "media_key": "3_2067875772430458880",
+          "start": 38,
+          "url": "https://t.co/4hRyc3iKkr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067875778843615574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有些女人钱全花在吃上衣服随便穿\n有女人不吃饭可以，衣服必须买\n你是哪种女人 https://t.co/4hRyc3iKkr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_2067875772430458880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKSDxdaoAA3JFD.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067875772430458880"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2067875778843615574",
+        "created_at": "2026-06-19T07:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067875778843615574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4hRyc3iKkr",
+              "end": 61,
+              "expanded_url": "https://x.com/NGNGVXX/status/2067875778843615574/photo/1",
+              "media_key": "3_2067875772430458880",
+              "start": 38,
+              "url": "https://t.co/4hRyc3iKkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067875778843615574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些女人钱全花在吃上衣服随便穿\n有女人不吃饭可以，衣服必须买\n你是哪种女人 https://t.co/4hRyc3iKkr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10030,
+          "following_count": 6,
+          "like_count": 1193,
+          "listed_count": 27,
+          "media_count": 121,
+          "tweet_count": 2639
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

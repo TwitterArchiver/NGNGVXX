@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2018688604533293149",
+    "created_at": "2026-02-03T14:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T15:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018688604533293149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Get Your RM15 in DailyLazCash!",
+          "display_url": "s.lazada.com.my/s.F3Ms7",
+          "end": 56,
+          "expanded_url": "https://s.lazada.com.my/s.F3Ms7",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/2018688681372983296/ps7aEafk?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2018688681372983296/ps7aEafk?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 33,
+          "status": 200,
+          "title": "Get Your RM15 in DailyLazCash!",
+          "unwound_url": "https://s.lazada.com.my/s.F3Ms7",
+          "url": "https://t.co/Z90fwd9aWU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018688604533293149",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Get Your RM15 in DailyLazCash! | https://t.co/Z90fwd9aWU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2018688604533293149",
+        "created_at": "2026-02-03T14:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018688604533293149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Get Your RM15 in DailyLazCash!",
+              "display_url": "s.lazada.com.my/s.F3Ms7",
+              "end": 56,
+              "expanded_url": "https://s.lazada.com.my/s.F3Ms7",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2018688681372983296/ps7aEafk?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2018688681372983296/ps7aEafk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "Get Your RM15 in DailyLazCash!",
+              "unwound_url": "https://s.lazada.com.my/s.F3Ms7",
+              "url": "https://t.co/Z90fwd9aWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018688604533293149",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Get Your RM15 in DailyLazCash! | https://t.co/Z90fwd9aWU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6041,
+          "following_count": 5,
+          "like_count": 925,
+          "listed_count": 15,
+          "media_count": 66,
+          "tweet_count": 1248
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

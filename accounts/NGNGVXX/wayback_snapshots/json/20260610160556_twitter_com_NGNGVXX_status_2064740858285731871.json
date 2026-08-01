@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2064664562998366395",
+    "created_at": "2026-06-10T16:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T17:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064740858285731871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847577980186578944",
+          "start": 0,
+          "username": "Father_Karras10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064740858285731871",
+    "in_reply_to_user_id": "1847577980186578944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064736984011358696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Father_Karras10 对呀，这才是正常的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2064664562998366395",
+        "created_at": "2026-06-10T16:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064740858285731871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847577980186578944",
+              "start": 0,
+              "username": "Father_Karras10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064740858285731871",
+        "in_reply_to_user_id": "1847577980186578944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064736984011358696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Father_Karras10 对呀，这才是正常的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847577980186578944",
+        "conversation_id": "2064664562998366395",
+        "created_at": "2026-06-10T15:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064736984011358696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064736984011358696",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064664562998366395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我觉得是情趣用品该分级...比如大部分国家性同意都小于18，但是成人影片是18+才能看。普通的自慰情趣用品应当与性同意年龄同步甚至有更低的可能（比如性同意16自慰用具14/15）。其他的成人物品的不等淫秽度可能诱导未成年人色情成瘾，毕竟不需要第二个人，可能会长期浸淫影响精神健康"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9919,
+          "following_count": 6,
+          "like_count": 1183,
+          "listed_count": 28,
+          "media_count": 115,
+          "tweet_count": 2544
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T09:58:38.000Z",
+        "description": "English Français 中文",
+        "id": "1847577980186578944",
+        "location": "nihil",
+        "name": "Father Karras",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895047787244371968/dq-Df3xQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 225,
+          "like_count": 56909,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1776
+        },
+        "username": "Father_Karras10",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2079190312233382050",
+    "created_at": "2026-07-20T20:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T21:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079297554622419288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1452371570500931585",
+          "start": 0,
+          "username": "Leo12377512449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079297554622419288",
+    "in_reply_to_user_id": "1452371570500931585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079288715223151017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leo12377512449 14岁已经长大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2079190312233382050",
+        "created_at": "2026-07-20T20:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079297554622419288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1452371570500931585",
+              "start": 0,
+              "username": "Leo12377512449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079297554622419288",
+        "in_reply_to_user_id": "1452371570500931585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079288715223151017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leo12377512449 14岁已经长大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452371570500931585",
+        "conversation_id": "2079190312233382050",
+        "created_at": "2026-07-20T19:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079288715223151017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079288715223151017",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079190312233382050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 不用等长大，上次两个14岁的少年虐杀同学的案子才过去几年？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10602,
+          "following_count": 6,
+          "like_count": 1213,
+          "listed_count": 30,
+          "media_count": 150,
+          "tweet_count": 3096
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T20:29:17.000Z",
+        "description": "Chinese American/Republican/Conservative/Teacher/Master’s Degree in Educational Leadership",
+        "id": "1452371570500931585",
+        "location": "Van Nuys, Los Angeles",
+        "name": "Leo123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1452371743356567557/4NsWgxQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 199,
+          "like_count": 6617,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 3127
+        },
+        "url": "",
+        "username": "Leo12377512449",
+        "verified": false
+      }
+    ]
+  }
+}

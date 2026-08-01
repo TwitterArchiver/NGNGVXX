@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1995873003952025780",
+    "created_at": "2025-12-02T15:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T16:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995873003952025780"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995873003952025780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直觉得，气质是养出来的不是装出来的。是那些独自看过的书、流过的泪、走过的路，在心底沉淀后，悄悄从眼神和姿态里溢出来的光。所以它才模仿不来，也着急不得。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1995873003952025780",
+        "created_at": "2025-12-02T15:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995873003952025780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995873003952025780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得，气质是养出来的不是装出来的。是那些独自看过的书、流过的泪、走过的路，在心底沉淀后，悄悄从眼神和姿态里溢出来的光。所以它才模仿不来，也着急不得。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 7,
+          "like_count": 542,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 729
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

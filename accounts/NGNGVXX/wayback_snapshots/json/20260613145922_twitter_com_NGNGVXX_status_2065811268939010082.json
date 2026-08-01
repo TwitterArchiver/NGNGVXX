@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2065811268939010082",
+    "created_at": "2026-06-13T14:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065811268939010082"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065811268939010082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有钱到底啥感觉 长的好看到底啥感觉 成绩好到底啥感觉 长的高到底啥感觉 会搞乐器到底啥感觉 会画画到底啥感觉  会跳舞到底啥感觉 会唱歌到底啥感觉 当网红到底啥感觉 不管什么节日都有人给自己送礼物到底啥感觉 好朋友多到底啥感觉 干什么都有人夸到底啥感觉 有幸福家庭到底啥感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2065811268939010082",
+        "created_at": "2026-06-13T14:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065811268939010082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065811268939010082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有钱到底啥感觉 长的好看到底啥感觉 成绩好到底啥感觉 长的高到底啥感觉 会搞乐器到底啥感觉 会画画到底啥感觉  会跳舞到底啥感觉 会唱歌到底啥感觉 当网红到底啥感觉 不管什么节日都有人给自己送礼物到底啥感觉 好朋友多到底啥感觉 干什么都有人夸到底啥感觉 有幸福家庭到底啥感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9923,
+          "following_count": 6,
+          "like_count": 1190,
+          "listed_count": 28,
+          "media_count": 117,
+          "tweet_count": 2587
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2038932146258379054",
+    "created_at": "2026-03-31T12:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038949442578157848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1788799288111489024",
+          "start": 0,
+          "username": "Ike1057592"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038949442578157848",
+    "in_reply_to_user_id": "1788799288111489024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038940222369763569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ike1057592 对，明天1号，发薪日，太棒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2038932146258379054",
+        "created_at": "2026-03-31T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038949442578157848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788799288111489024",
+              "start": 0,
+              "username": "Ike1057592"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038949442578157848",
+        "in_reply_to_user_id": "1788799288111489024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038940222369763569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ike1057592 对，明天1号，发薪日，太棒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788799288111489024",
+        "conversation_id": "2038932146258379054",
+        "created_at": "2026-03-31T11:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038940222369763569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038940222369763569",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038932146258379054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 今天是31号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8114,
+          "following_count": 5,
+          "like_count": 985,
+          "listed_count": 23,
+          "media_count": 99,
+          "tweet_count": 1734
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T05:12:53.000Z",
+        "description": "just for fun",
+        "id": "1788799288111489024",
+        "name": "Ike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038647266383364096/Ds5RbfWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 13,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "username": "Ike1057592",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1984610121784418670",
+    "created_at": "2025-11-01T13:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T14:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984610121784418670"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 30,
+          "tag": "les"
+        },
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "le"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984610121784418670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你也看到了吧，我给你设置的独特的微信聊天背景。你，是特别的 #les #le #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1984610121784418670",
+        "created_at": "2025-11-01T13:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T14:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984610121784418670"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "les"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "le"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984610121784418670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你也看到了吧，我给你设置的独特的微信聊天背景。你，是特别的 #les #le #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 7,
+          "like_count": 534,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 572
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

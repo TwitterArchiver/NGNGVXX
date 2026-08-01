@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2053698359471587469",
+    "created_at": "2026-05-11T14:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053852590199427457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1842740068945166336",
+          "start": 0,
+          "username": "lidngfng155799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053852590199427457",
+    "in_reply_to_user_id": "1842740068945166336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053827310646902918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lidngfng155799 办案的时候，帮病人看病的时候，身边有情绪病人的时候，别人不尊重你刁难你的时候"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2053698359471587469",
+        "created_at": "2026-05-11T14:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053852590199427457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1842740068945166336",
+              "start": 0,
+              "username": "lidngfng155799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053852590199427457",
+        "in_reply_to_user_id": "1842740068945166336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053827310646902918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidngfng155799 办案的时候，帮病人看病的时候，身边有情绪病人的时候，别人不尊重你刁难你的时候"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842740068945166336",
+        "conversation_id": "2053698359471587469",
+        "created_at": "2026-05-11T13:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053827310646902918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053827310646902918",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053698359471587469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 敏感用在什么地方合适"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9266,
+          "following_count": 5,
+          "like_count": 1150,
+          "listed_count": 25,
+          "media_count": 107,
+          "tweet_count": 2236
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T01:34:13.000Z",
+        "description": "",
+        "id": "1842740068945166336",
+        "name": "雷顶峰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842740111618039808/gk9MGUv9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 686,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 331
+        },
+        "username": "lidngfng155799",
+        "verified": false
+      }
+    ]
+  }
+}

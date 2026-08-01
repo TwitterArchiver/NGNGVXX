@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2009842016000323919",
+    "created_at": "2026-01-10T04:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T05:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009842016000323919"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009842016000323919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的妈妈也许温柔 也许软弱 也许不讲理 但不管她认识你多久 她不懂你都是正常的 因为她一辈子都生活在她的圈子和阶层里 她没机会去见你见过的世界 没机会去体验你有幸体验的人生 所以你应该努力变优秀 并且对她有耐心 然后带她去见识更大的世界 而不是站在她有限的认知外 指责她的无知和狭隘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2009842016000323919",
+        "created_at": "2026-01-10T04:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T05:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009842016000323919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009842016000323919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的妈妈也许温柔 也许软弱 也许不讲理 但不管她认识你多久 她不懂你都是正常的 因为她一辈子都生活在她的圈子和阶层里 她没机会去见你见过的世界 没机会去体验你有幸体验的人生 所以你应该努力变优秀 并且对她有耐心 然后带她去见识更大的世界 而不是站在她有限的认知外 指责她的无知和狭隘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4594,
+          "following_count": 6,
+          "like_count": 884,
+          "listed_count": 12,
+          "media_count": 52,
+          "tweet_count": 991
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

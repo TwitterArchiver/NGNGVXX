@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2064664562998366395",
+    "created_at": "2026-06-10T21:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T22:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064816284022559054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045427222090289152",
+          "start": 0,
+          "username": "Hahaohaowu"
+        },
+        {
+          "end": 21,
+          "id": "2022014573172473856",
+          "start": 12,
+          "username": "Tyyhsg72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064816284022559054",
+    "in_reply_to_user_id": "2045427222090289152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064812003794038820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hahaohaowu @Tyyhsg72 他的认知也只能到这了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2064664562998366395",
+        "created_at": "2026-06-10T21:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T22:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064816284022559054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045427222090289152",
+              "start": 0,
+              "username": "Hahaohaowu"
+            },
+            {
+              "end": 21,
+              "id": "2022014573172473856",
+              "start": 12,
+              "username": "Tyyhsg72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064816284022559054",
+        "in_reply_to_user_id": "2045427222090289152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064812003794038820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hahaohaowu @Tyyhsg72 他的认知也只能到这了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045427222090289152",
+        "conversation_id": "2064664562998366395",
+        "created_at": "2026-06-10T20:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064812003794038820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            },
+            {
+              "end": 18,
+              "id": "2022014573172473856",
+              "start": 9,
+              "username": "Tyyhsg72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064812003794038820",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064806742056386715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX @Tyyhsg72 这种二极管蝻蛆也是顶级蠢屌。自己脑子蠢的跟猪一样还以为别人跟它一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9924,
+          "following_count": 6,
+          "like_count": 1188,
+          "listed_count": 28,
+          "media_count": 115,
+          "tweet_count": 2549
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T09:01:08.000Z",
+        "description": "",
+        "id": "2045427222090289152",
+        "name": "Hahaohaowu",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 279,
+          "like_count": 4339,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 155
+        },
+        "username": "Hahaohaowu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-12T18:27:42.000Z",
+        "description": "剿灭怪兽是此账号的职责🤓",
+        "id": "2022014573172473856",
+        "name": "法兰西1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041986305748561920/oHbGxIY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 336
+        },
+        "username": "Tyyhsg72",
+        "verified": false
+      }
+    ]
+  }
+}

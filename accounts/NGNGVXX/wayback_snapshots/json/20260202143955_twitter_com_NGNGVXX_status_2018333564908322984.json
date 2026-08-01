@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018324374928179201"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2018333564908322984",
+    "created_at": "2026-02-02T14:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T15:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018333564908322984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7qJzxevp43",
+          "end": 44,
+          "expanded_url": "https://x.com/NGNGVXX/status/2018333564908322984/photo/1",
+          "media_key": "3_2018324374928179201",
+          "start": 21,
+          "url": "https://t.co/7qJzxevp43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018333564908322984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手机的寿命只有几年，请放下杂事多陪手机。 https://t.co/7qJzxevp43"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 448,
+        "media_key": "3_2018324374928179201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKHU1EbQAENtjM.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018324374928179201"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2018333564908322984",
+        "created_at": "2026-02-02T14:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018333564908322984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qJzxevp43",
+              "end": 44,
+              "expanded_url": "https://x.com/NGNGVXX/status/2018333564908322984/photo/1",
+              "media_key": "3_2018324374928179201",
+              "start": 21,
+              "url": "https://t.co/7qJzxevp43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018333564908322984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手机的寿命只有几年，请放下杂事多陪手机。 https://t.co/7qJzxevp43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5948,
+          "following_count": 5,
+          "like_count": 923,
+          "listed_count": 16,
+          "media_count": 66,
+          "tweet_count": 1241
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

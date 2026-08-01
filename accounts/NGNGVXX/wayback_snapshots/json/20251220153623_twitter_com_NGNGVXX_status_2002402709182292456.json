@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2001855255009726973",
+    "created_at": "2025-12-20T15:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002402709182292456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829483667283910656",
+          "start": 0,
+          "username": "fishgjm0305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002402709182292456",
+    "in_reply_to_user_id": "1829483667283910656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002213852348633329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fishgjm0305 那你的见识就只值1块钱呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2001855255009726973",
+        "created_at": "2025-12-20T15:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002402709182292456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829483667283910656",
+              "start": 0,
+              "username": "fishgjm0305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002402709182292456",
+        "in_reply_to_user_id": "1829483667283910656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002213852348633329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fishgjm0305 那你的见识就只值1块钱呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829483667283910656",
+        "conversation_id": "2001855255009726973",
+        "created_at": "2025-12-20T03:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T04:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002213852348633329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002213852348633329",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001855255009726973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 值30个鸡蛋的咖啡确实是智商税，这玩意儿材料成本1块不到，楼下库迪卖4.4一杯还有的赚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 7,
+          "like_count": 644,
+          "listed_count": 6,
+          "media_count": 46,
+          "tweet_count": 802
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T11:37:59.000Z",
+        "description": "",
+        "id": "1829483667283910656",
+        "name": "fishgjm",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 40,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 399
+        },
+        "username": "fishgjm0305",
+        "verified": false
+      }
+    ]
+  }
+}

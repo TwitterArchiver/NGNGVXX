@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049442594065944576"
+      ]
+    },
+    "author_id": "2363856960",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049442596561539187",
+    "created_at": "2026-04-29T10:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049442596561539187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tVvapcfjo8",
+          "end": 40,
+          "expanded_url": "https://x.com/NGNGVXX/status/2049442596561539187/photo/1",
+          "media_key": "3_2049442594065944576",
+          "start": 17,
+          "url": "https://t.co/tVvapcfjo8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049442596561539187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只要你不嫌尴尬，尴尬的就是别人。 https://t.co/tVvapcfjo8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2049442594065944576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEVLk7bEAAJAua.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049442594065944576"
+          ]
+        },
+        "author_id": "2363856960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049442596561539187",
+        "created_at": "2026-04-29T10:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049442596561539187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVvapcfjo8",
+              "end": 40,
+              "expanded_url": "https://x.com/NGNGVXX/status/2049442596561539187/photo/1",
+              "media_key": "3_2049442594065944576",
+              "start": 17,
+              "url": "https://t.co/tVvapcfjo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049442596561539187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要你不嫌尴尬，尴尬的就是别人。 https://t.co/tVvapcfjo8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8964,
+          "following_count": 4,
+          "like_count": 1121,
+          "listed_count": 24,
+          "media_count": 109,
+          "tweet_count": 2122
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

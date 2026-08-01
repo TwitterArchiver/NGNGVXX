@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1995175124182733282",
+    "created_at": "2025-11-30T16:56:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:56:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995175124182733282"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995175124182733282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 61,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "短期愉快相处分泌的多巴胺会在两周内代谢掉 难过的多巴胺戒断反应会在一个月内消失 承载感觉的记忆会在对方消失的两个月内模糊 回忆中连他的名字都想不起来的时刻会在两年后 其实什么都没有留下 也什么都不会留下 就和这烟花一样 点燃它 绽放的那一刻就是它存在的意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1995175124182733282",
+        "created_at": "2025-11-30T16:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995175124182733282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995175124182733282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "短期愉快相处分泌的多巴胺会在两周内代谢掉 难过的多巴胺戒断反应会在一个月内消失 承载感觉的记忆会在对方消失的两个月内模糊 回忆中连他的名字都想不起来的时刻会在两年后 其实什么都没有留下 也什么都不会留下 就和这烟花一样 点燃它 绽放的那一刻就是它存在的意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 7,
+          "like_count": 536,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 721
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

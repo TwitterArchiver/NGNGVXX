@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2044033667727798436",
+    "created_at": "2026-04-14T14:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044066938733867343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1539635666719748096",
+          "start": 0,
+          "username": "Babytin0217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044066938733867343",
+    "in_reply_to_user_id": "1539635666719748096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044058923498705304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Babytin0217 真的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2044033667727798436",
+        "created_at": "2026-04-14T14:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044066938733867343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1539635666719748096",
+              "start": 0,
+              "username": "Babytin0217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044066938733867343",
+        "in_reply_to_user_id": "1539635666719748096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044058923498705304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Babytin0217 真的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539635666719748096",
+        "conversation_id": "2044033667727798436",
+        "created_at": "2026-04-14T14:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044058923498705304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044058923498705304",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044033667727798436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 真好🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8288,
+          "following_count": 5,
+          "like_count": 1036,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1941
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-22T15:45:36.000Z",
+        "description": "纯分享日常 已有男友( - ⩊ - ) ಣ\n只是觉得人体肌肉线条很美 所以喜欢肌肉男\n看到喜欢的肌肉男会关注ᴗ ⩊ ᴗ ᢉ𐭩 ᩚ\n水瓶座♒️",
+        "id": "1539635666719748096",
+        "location": "韩国",
+        "name": "Yuki❄️ ⏦ﾟ♡",
+        "pinned_tweet_id": "2027150769355714737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680180122652114947/7XFTJWBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 90,
+          "like_count": 4264,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 208
+        },
+        "username": "Babytin0217",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2040750339323023546",
+    "created_at": "2026-04-05T11:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T12:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040750339323023546"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040750339323023546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的精力太少了，没法支撑我和太有活力的人一起玩，我需要那种半死不活的朋友，就是那种社交五分钟，他得休息两小时，和我见面玩一次，得一礼拜不想搭理我的朋友。 这种社交强度对我来说刚刚好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2040750339323023546",
+        "created_at": "2026-04-05T11:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040750339323023546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040750339323023546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的精力太少了，没法支撑我和太有活力的人一起玩，我需要那种半死不活的朋友，就是那种社交五分钟，他得休息两小时，和我见面玩一次，得一礼拜不想搭理我的朋友。 这种社交强度对我来说刚刚好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8221,
+          "following_count": 5,
+          "like_count": 990,
+          "listed_count": 23,
+          "media_count": 101,
+          "tweet_count": 1804
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

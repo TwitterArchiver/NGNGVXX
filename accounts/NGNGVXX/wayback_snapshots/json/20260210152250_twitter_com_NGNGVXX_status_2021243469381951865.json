@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2021221048755363942",
+    "created_at": "2026-02-10T15:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T16:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021243469381951865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2001288607609602048",
+          "start": 0,
+          "username": "johnterryuk4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021243469381951865",
+    "in_reply_to_user_id": "2001288607609602048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021240374358888696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@johnterryuk4 有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2021221048755363942",
+        "created_at": "2026-02-10T15:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021243469381951865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2001288607609602048",
+              "start": 0,
+              "username": "johnterryuk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021243469381951865",
+        "in_reply_to_user_id": "2001288607609602048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021240374358888696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johnterryuk4 有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001288607609602048",
+        "conversation_id": "2021221048755363942",
+        "created_at": "2026-02-10T15:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021240374358888696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021240374358888696",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021221048755363942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 自嘲和自贬有区别吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6796,
+          "following_count": 5,
+          "like_count": 937,
+          "listed_count": 17,
+          "media_count": 72,
+          "tweet_count": 1320
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T13:49:31.000Z",
+        "description": "ε=ε=ε=ε=ε=ε=┌(;￣◇￣)┘                      ･:*+.\\(( °ω° ))/.:+                                             ♪───Ｏ（≧∇≦）Ｏ────♪",
+        "id": "2001288607609602048",
+        "name": "fpl_Johntreeyuk3",
+        "pinned_tweet_id": "2019683816030499001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001288907627868160/FQwEF02C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 180,
+          "like_count": 4563,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1644
+        },
+        "username": "johnterryuk4",
+        "verified": false
+      }
+    ]
+  }
+}

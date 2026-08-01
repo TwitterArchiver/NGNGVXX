@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2001847880219529427",
+    "created_at": "2025-12-19T02:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T03:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001847880219529427"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2001847880219529427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "永远不要原谅一个伤害过你的人，哪怕这个事情过去了很久，哪怕他对你百般讨好，你都不能原谅他，要永远记得，他当时在欺负你时的那副咄咄逼人，不依不饶的样子，才是他的真面目。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2001847880219529427",
+        "created_at": "2025-12-19T02:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T03:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001847880219529427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001847880219529427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永远不要原谅一个伤害过你的人，哪怕这个事情过去了很久，哪怕他对你百般讨好，你都不能原谅他，要永远记得，他当时在欺负你时的那副咄咄逼人，不依不饶的样子，才是他的真面目。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 7,
+          "like_count": 637,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 802
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

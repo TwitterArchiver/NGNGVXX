@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2055139862807019618",
+    "created_at": "2026-05-15T04:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055139862807019618"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055139862807019618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当你隐约感觉到一个人心术不正时，一定要和他保持距离，要相信直觉，这是高维的你发出的提醒，往往这个人已经做了很多坏事，不要妄想着从他身上获得什么利益，多数情况下，正直善良的你，就是他的血包。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2055139862807019618",
+        "created_at": "2026-05-15T04:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055139862807019618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055139862807019618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你隐约感觉到一个人心术不正时，一定要和他保持距离，要相信直觉，这是高维的你发出的提醒，往往这个人已经做了很多坏事，不要妄想着从他身上获得什么利益，多数情况下，正直善良的你，就是他的血包。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9431,
+          "following_count": 5,
+          "like_count": 1161,
+          "listed_count": 27,
+          "media_count": 108,
+          "tweet_count": 2294
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

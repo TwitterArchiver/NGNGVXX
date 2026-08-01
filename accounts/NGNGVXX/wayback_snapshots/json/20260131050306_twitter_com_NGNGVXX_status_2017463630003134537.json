@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2017463630003134537",
+    "created_at": "2026-01-31T05:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T06:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017463630003134537"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017463630003134537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是一个特别喜欢翻看痕迹的人，过去的聊天记录，过去的动态过去的照片亦或是过去的人，我从没贪图任何新鲜感，会怀念一个人，甚至那件很普通的小事，常想着从过去的某个时间倒流，所以每段关系结束时，我总是很痛苦，最初的你我快记不清了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2017463630003134537",
+        "created_at": "2026-01-31T05:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017463630003134537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017463630003134537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个特别喜欢翻看痕迹的人，过去的聊天记录，过去的动态过去的照片亦或是过去的人，我从没贪图任何新鲜感，会怀念一个人，甚至那件很普通的小事，常想着从过去的某个时间倒流，所以每段关系结束时，我总是很痛苦，最初的你我快记不清了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5895,
+          "following_count": 5,
+          "like_count": 922,
+          "listed_count": 15,
+          "media_count": 64,
+          "tweet_count": 1207
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

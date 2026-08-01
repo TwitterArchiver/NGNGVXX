@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1941853342147420673",
+    "created_at": "2025-07-07T11:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T12:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942183099024228558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700589465818013696",
+          "start": 0,
+          "username": "tongtong77tt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942183099024228558",
+    "in_reply_to_user_id": "1700589465818013696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941853342147420673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tongtong77tt 喜欢(❤ ω ❤)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5133,
+        "height": 720,
+        "media_key": "7_1941853319124897792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1941853319124897792/pu/img/wYINJQ87mCLeK0Hc.jpg",
+        "public_metrics": {
+          "view_count": 4136
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941853319124897792/pu/vid/avc1/480x270/IuQWzC16JK6ERI9l.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941853319124897792/pu/vid/avc1/640x360/CR9KmVBaINVLUePS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941853319124897792/pu/vid/avc1/1280x720/dpii1ecEC0ujqkEX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1941853319124897792/pu/pl/7wZdJ_VFOgCvut7L.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1941853342147420673",
+        "created_at": "2025-07-07T11:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T12:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942183099024228558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700589465818013696",
+              "start": 0,
+              "username": "tongtong77tt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942183099024228558",
+        "in_reply_to_user_id": "1700589465818013696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941853342147420673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tongtong77tt 喜欢(❤ ω ❤)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1941853319124897792"
+          ]
+        },
+        "author_id": "1700589465818013696",
+        "conversation_id": "1941853342147420673",
+        "created_at": "2025-07-06T13:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941853342147420673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "御姐"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "les"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "女同"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "女女"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "les"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5dKK8lghOZ",
+              "end": 65,
+              "expanded_url": "https://x.com/tongtong77tt/status/1941853342147420673/video/1",
+              "media_key": "7_1941853319124897792",
+              "start": 42,
+              "url": "https://t.co/5dKK8lghOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941853342147420673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 16493,
+          "like_count": 232,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你也喜欢御姐吧？\n#御姐 #les #女同 #女女 #les #女同性恋 #wlw https://t.co/5dKK8lghOZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 6,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 413
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T19:18:25.000Z",
+        "description": "御姐0.5 H LES🌈 , 粗口一律拉黑。男的别私信，私信一辈子阳痿！欢迎姐妹大胆聊天～止于推不经常看～",
+        "id": "1700589465818013696",
+        "location": "East Region, Singapore",
+        "name": "Ella",
+        "pinned_tweet_id": "1927803248150282702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927091476036554752/z0Hf6Chg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 118,
+          "like_count": 178,
+          "listed_count": 5,
+          "media_count": 33,
+          "tweet_count": 50
+        },
+        "username": "tongtong77tt",
+        "verified": false
+      }
+    ]
+  }
+}

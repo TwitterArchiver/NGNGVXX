@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1998210450262233593",
+    "created_at": "2025-12-10T07:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T08:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998661970795643043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886227800731865088",
+          "start": 0,
+          "username": "baihiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998661970795643043",
+    "in_reply_to_user_id": "1886227800731865088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998661028905898265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baihiii 不可以死！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1998210450262233593",
+        "created_at": "2025-12-10T07:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998661970795643043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886227800731865088",
+              "start": 0,
+              "username": "baihiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998661970795643043",
+        "in_reply_to_user_id": "1886227800731865088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998661028905898265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baihiii 不可以死！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886227800731865088",
+        "conversation_id": "1998210450262233593",
+        "created_at": "2025-12-10T07:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998661028905898265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998661028905898265",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998210450262233593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 7,
+          "like_count": 545,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 768
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T01:39:00.000Z",
+        "description": "不加微信好友不闲聊 我是球球😎",
+        "id": "1886227800731865088",
+        "name": "我一直在哭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944050155344605187/9t-1f22q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 7,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 104
+        },
+        "username": "baihiii",
+        "verified": false
+      }
+    ]
+  }
+}

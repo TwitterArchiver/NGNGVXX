@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2076506489033032177",
+    "created_at": "2026-07-13T12:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076645898428518601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2068647309798510592",
+          "start": 0,
+          "username": "Shenwanflni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076645898428518601",
+    "in_reply_to_user_id": "2068647309798510592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076532012635263363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shenwanflni 我说的是“好朋友”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2076506489033032177",
+        "created_at": "2026-07-13T12:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076645898428518601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2068647309798510592",
+              "start": 0,
+              "username": "Shenwanflni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076645898428518601",
+        "in_reply_to_user_id": "2068647309798510592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076532012635263363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shenwanflni 我说的是“好朋友”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068647309798510592",
+        "conversation_id": "2076506489033032177",
+        "created_at": "2026-07-13T04:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076532012635263363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076532012635263363",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076506489033032177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 但是我觉得我如果跟别人但是我觉得我如果跟别人谈恋爱的话 我不希望他跟他朋友玩的比我跟他更好呀 而且我谈恋爱的时候也会疏远那种不太重要的异性朋友 因为我觉得有对象了 没有必要再去维持这种关系了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10477,
+          "following_count": 6,
+          "like_count": 1203,
+          "listed_count": 29,
+          "media_count": 145,
+          "tweet_count": 2977
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T10:50:04.000Z",
+        "description": "一个路人",
+        "id": "2068647309798510592",
+        "name": "¯꒳¯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068648376007331840/c3RjMp6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "Shenwanflni",
+        "verified": false
+      }
+    ]
+  }
+}

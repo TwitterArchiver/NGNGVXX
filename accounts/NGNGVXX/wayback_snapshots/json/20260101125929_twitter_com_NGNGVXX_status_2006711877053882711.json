@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2006711877053882711",
+    "created_at": "2026-01-01T12:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T13:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006711877053882711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "s.lazada.com.my/s.uWL80",
+          "end": 68,
+          "expanded_url": "https://s.lazada.com.my/s.uWL80",
+          "start": 45,
+          "status": 200,
+          "unwound_url": "https://s.lazada.com.my/s.uWL80",
+          "url": "https://t.co/hi9rVSVI8Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006711877053882711",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Game On, Prizes Won - 100% Fun Guaranteed! | https://t.co/hi9rVSVI8Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2006711877053882711",
+        "created_at": "2026-01-01T12:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006711877053882711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "s.lazada.com.my/s.uWL80",
+              "end": 68,
+              "expanded_url": "https://s.lazada.com.my/s.uWL80",
+              "start": 45,
+              "status": 200,
+              "unwound_url": "https://s.lazada.com.my/s.uWL80",
+              "url": "https://t.co/hi9rVSVI8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006711877053882711",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Game On, Prizes Won - 100% Fun Guaranteed! | https://t.co/hi9rVSVI8Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3451,
+          "following_count": 6,
+          "like_count": 782,
+          "listed_count": 10,
+          "media_count": 50,
+          "tweet_count": 910
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1981369465335140506",
+    "created_at": "2025-10-23T14:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T15:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981369465335140506"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981369465335140506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讨好型人格正在狠狠学了:\n1我话还没说完，不要打断我\n2.不可以 不需要\n3.一点都不好笑\n4.这样做很不合适\n5.哦我已经知道了\n6.不要来打扰我\n7.你让我感到很不舒服\n8.不要装傻，你知道我在说什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1981369465335140506",
+        "created_at": "2025-10-23T14:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T15:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981369465335140506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981369465335140506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨好型人格正在狠狠学了:\n1我话还没说完，不要打断我\n2.不可以 不需要\n3.一点都不好笑\n4.这样做很不合适\n5.哦我已经知道了\n6.不要来打扰我\n7.你让我感到很不舒服\n8.不要装傻，你知道我在说什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 7,
+          "like_count": 528,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 510
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

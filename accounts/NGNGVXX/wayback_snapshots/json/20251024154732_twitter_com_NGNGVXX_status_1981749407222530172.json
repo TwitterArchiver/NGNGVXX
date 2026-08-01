@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1981749407222530172",
+    "created_at": "2025-10-24T15:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T16:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981749407222530172"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 117,
+          "start": 113,
+          "tag": "les"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "le"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981749407222530172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "罗曼·罗兰说：“世界上没有真正的感同身受，你笑，别人以为你快乐；你哭，别人以为你在撒娇。只有你自己知道，你的内心世界是多么的丰富。 ​\n\n总有一天，你会知道人心都是一样的。悲伤随处可见，只是在不同的地方，表现形式不同罢了。\n\n#les #le #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1981749407222530172",
+        "created_at": "2025-10-24T15:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981749407222530172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "les"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "le"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981749407222530172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "罗曼·罗兰说：“世界上没有真正的感同身受，你笑，别人以为你快乐；你哭，别人以为你在撒娇。只有你自己知道，你的内心世界是多么的丰富。 ​\n\n总有一天，你会知道人心都是一样的。悲伤随处可见，只是在不同的地方，表现形式不同罢了。\n\n#les #le #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 7,
+          "like_count": 531,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 516
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

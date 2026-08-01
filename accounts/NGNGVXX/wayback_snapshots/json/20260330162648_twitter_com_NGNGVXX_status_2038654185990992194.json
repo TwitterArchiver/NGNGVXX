@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2038654185990992194",
+    "created_at": "2026-03-30T16:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T17:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038654185990992194"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038654185990992194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人在快被压垮的时候，最可怕的不是哭不是闹，而是开始疯狂复盘自己，你会把过去所有失败、错误的选择、伤人的话语、像放电影一样，一帧一帧拿出来，在最无力的时候审判自己，这种复盘真的很致命，很容易就走不出来了。所以，永远不要在疲惫时审视自己的人生。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2038654185990992194",
+        "created_at": "2026-03-30T16:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038654185990992194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038654185990992194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人在快被压垮的时候，最可怕的不是哭不是闹，而是开始疯狂复盘自己，你会把过去所有失败、错误的选择、伤人的话语、像放电影一样，一帧一帧拿出来，在最无力的时候审判自己，这种复盘真的很致命，很容易就走不出来了。所以，永远不要在疲惫时审视自己的人生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8101,
+          "following_count": 5,
+          "like_count": 985,
+          "listed_count": 23,
+          "media_count": 99,
+          "tweet_count": 1725
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

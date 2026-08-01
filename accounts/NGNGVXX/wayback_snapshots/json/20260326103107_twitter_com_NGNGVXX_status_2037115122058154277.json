@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2036776794842628305",
+    "created_at": "2026-03-26T10:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037115122058154277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "879853935216926720",
+          "start": 0,
+          "username": "pppoeadsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037115122058154277",
+    "in_reply_to_user_id": "879853935216926720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037113682015248902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pppoeadsl 和你有关系吗？你很正常吗？你哪里正常？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2036776794842628305",
+        "created_at": "2026-03-26T10:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037115122058154277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "879853935216926720",
+              "start": 0,
+              "username": "pppoeadsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037115122058154277",
+        "in_reply_to_user_id": "879853935216926720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037113682015248902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pppoeadsl 和你有关系吗？你很正常吗？你哪里正常？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "879853935216926720",
+        "conversation_id": "2036776794842628305",
+        "created_at": "2026-03-26T10:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037113682015248902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037113682015248902",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036776794842628305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 先得保证自己是正常的人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7929,
+          "following_count": 5,
+          "like_count": 983,
+          "listed_count": 21,
+          "media_count": 97,
+          "tweet_count": 1680
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-28T00:08:19.000Z",
+        "description": "",
+        "id": "879853935216926720",
+        "name": "云天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031984801876754433/QKR3d_iX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 2237,
+          "like_count": 5696,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 9059
+        },
+        "username": "pppoeadsl",
+        "verified": true
+      }
+    ]
+  }
+}

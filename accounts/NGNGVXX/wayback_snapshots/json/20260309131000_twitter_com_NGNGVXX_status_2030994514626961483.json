@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2030994514626961483",
+    "created_at": "2026-03-09T13:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030994514626961483"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030994514626961483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得女生和女生之间更有约会的感觉。会提前约定好日子，说好见面化不化妆，两个人穿着呼应的衣服或配饰，去哪家店吃东西，去哪里逛街，去哪个地方拍照，会很有耐心拍到对方满意为止，并且发自内心的夸奖对方，女生之间真的太有诚意了，懂彼此的梗，在意彼此的细节，这些满足感是超越恋爱的高级体验。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2030994514626961483",
+        "created_at": "2026-03-09T13:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030994514626961483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030994514626961483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得女生和女生之间更有约会的感觉。会提前约定好日子，说好见面化不化妆，两个人穿着呼应的衣服或配饰，去哪家店吃东西，去哪里逛街，去哪个地方拍照，会很有耐心拍到对方满意为止，并且发自内心的夸奖对方，女生之间真的太有诚意了，懂彼此的梗，在意彼此的细节，这些满足感是超越恋爱的高级体验。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7469,
+          "following_count": 5,
+          "like_count": 972,
+          "listed_count": 19,
+          "media_count": 88,
+          "tweet_count": 1532
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

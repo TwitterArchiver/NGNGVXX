@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1941862300530667990",
+    "created_at": "2025-07-07T11:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T12:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942183320890311063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1640641503033974785",
+          "start": 0,
+          "username": "yedonng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942183320890311063",
+    "in_reply_to_user_id": "1640641503033974785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941862300530667990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yedonng 内衣好好看呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1941862296269004800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLheFPWoAAbvw9.jpg",
+        "width": 1700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1941862300530667990",
+        "created_at": "2025-07-07T11:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T12:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942183320890311063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1640641503033974785",
+              "start": 0,
+              "username": "yedonng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942183320890311063",
+        "in_reply_to_user_id": "1640641503033974785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941862300530667990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yedonng 内衣好好看呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941862296269004800"
+          ]
+        },
+        "author_id": "1640641503033974785",
+        "conversation_id": "1941862300530667990",
+        "created_at": "2025-07-06T14:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T15:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941862300530667990"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 3,
+              "tag": "les"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "女同"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "女同性恋"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "拉拉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8scgNZXRMl",
+              "end": 45,
+              "expanded_url": "https://x.com/yedonng/status/1941862300530667990/photo/1",
+              "media_key": "3_1941862296269004800",
+              "start": 22,
+              "url": "https://t.co/8scgNZXRMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941862300530667990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5072,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想…\n#les #女同 ＃女同性恋 #拉拉 https://t.co/8scgNZXRMl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 6,
+          "like_count": 645,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 415
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T09:06:43.000Z",
+        "description": "🌈les\n(流量差慢更…)匿名https://t.co/2iI5N5a8Yx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yedonng1",
+                "end": 38,
+                "expanded_url": "https://ngl.link/yedonng1",
+                "start": 15,
+                "url": "https://t.co/2iI5N5a8Yx"
+              }
+            ]
+          }
+        },
+        "id": "1640641503033974785",
+        "name": "lychee",
+        "pinned_tweet_id": "1916474336535302182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925910054051450880/pKDNVPx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8524,
+          "following_count": 44,
+          "like_count": 8,
+          "listed_count": 15,
+          "media_count": 206,
+          "tweet_count": 780
+        },
+        "username": "yedonng",
+        "verified": false
+      }
+    ]
+  }
+}

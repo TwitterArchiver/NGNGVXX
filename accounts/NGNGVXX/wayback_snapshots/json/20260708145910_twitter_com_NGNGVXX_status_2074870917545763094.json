@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2074870917545763094",
+    "created_at": "2026-07-08T14:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074870917545763094"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074870917545763094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近刚学到的，造谣很多时候是避开当事人的，很多时候等当事人得知这个消息的时候大家都已经默认你就是这样的人了，标签已经打下，印象已经锁死了。大家都心照不宣的认为“她就是这样的”，但翻一翻私信，平静如水，没有一丝丝的涟漪。大家都在心照不宣的在辱骂，在揣测，在窃窃私语，唯独不会问问当事人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2074870917545763094",
+        "created_at": "2026-07-08T14:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074870917545763094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074870917545763094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近刚学到的，造谣很多时候是避开当事人的，很多时候等当事人得知这个消息的时候大家都已经默认你就是这样的人了，标签已经打下，印象已经锁死了。大家都心照不宣的认为“她就是这样的”，但翻一翻私信，平静如水，没有一丝丝的涟漪。大家都在心照不宣的在辱骂，在揣测，在窃窃私语，唯独不会问问当事人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10395,
+          "following_count": 6,
+          "like_count": 1203,
+          "listed_count": 28,
+          "media_count": 139,
+          "tweet_count": 2932
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

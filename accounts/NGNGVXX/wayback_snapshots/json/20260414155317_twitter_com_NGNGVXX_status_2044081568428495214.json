@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043902781376082403",
+    "created_at": "2026-04-14T15:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044081568428495214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "743380842337140736",
+          "start": 0,
+          "username": "heiiamia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044081568428495214",
+    "in_reply_to_user_id": "743380842337140736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043902781376082403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiiamia 老天奶啊原来有人明白这贴文想表达的意思😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043902781376082403",
+        "created_at": "2026-04-14T15:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044081568428495214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "743380842337140736",
+              "start": 0,
+              "username": "heiiamia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044081568428495214",
+        "in_reply_to_user_id": "743380842337140736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043902781376082403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiiamia 老天奶啊原来有人明白这贴文想表达的意思😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "743380842337140736",
+        "conversation_id": "2043902781376082403",
+        "created_at": "2026-04-14T04:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043902781376082403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NGNGVXX/status…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/NGNGVXX/status/2043362128741192012",
+              "start": 37,
+              "url": "https://t.co/GEnO6Ku04k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043902781376082403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043362128741192012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不主动给自己找拖油瓶，不主动与某一个人或者很多人共命运，怎么样都不会差的 https://t.co/GEnO6Ku04k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8290,
+          "following_count": 5,
+          "like_count": 1037,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1942
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-16T09:52:58.000Z",
+        "description": "越幸运越吸引幸运，全宇宙的幸运都在我这里🎏💕🌸 一身反骨满面獠牙",
+        "id": "743380842337140736",
+        "location": "London, England",
+        "name": "vvvvluckyduuuuck",
+        "pinned_tweet_id": "1612652208641966080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620483140186943488/w0zpXoM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 185,
+          "like_count": 4220,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 954
+        },
+        "username": "heiiamia",
+        "verified": false
+      }
+    ]
+  }
+}

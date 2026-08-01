@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2013634291670925779",
+    "created_at": "2026-01-20T15:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T16:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013634291670925779"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013634291670925779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两个人在一起的前提是快乐，是你在这个人面前可以自由自在的做自己，你不会觉得委屈，不用迎合不用讨好，你在珍惜他的时候同样他也会珍惜你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2013634291670925779",
+        "created_at": "2026-01-20T15:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013634291670925779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013634291670925779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个人在一起的前提是快乐，是你在这个人面前可以自由自在的做自己，你不会觉得委屈，不用迎合不用讨好，你在珍惜他的时候同样他也会珍惜你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5283,
+          "following_count": 5,
+          "like_count": 908,
+          "listed_count": 13,
+          "media_count": 58,
+          "tweet_count": 1114
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1927658029304213778",
+    "created_at": "2025-05-28T09:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T10:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927658125198536800"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927658125198536800",
+    "in_reply_to_user_id": "2363856960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927658029304213778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而有的人却说你 喜欢无理取闹 喜欢发脾气 一直在那里指责你 后来我才明白 一个人爱你的最高形式 是可以接住你所有的负面情绪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1927658029304213778",
+        "created_at": "2025-05-28T09:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T10:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927658125198536800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927658125198536800",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927658029304213778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而有的人却说你 喜欢无理取闹 喜欢发脾气 一直在那里指责你 后来我才明白 一个人爱你的最高形式 是可以接住你所有的负面情绪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1927658029304213778",
+        "created_at": "2025-05-28T09:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T10:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927658029304213778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927658029304213778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人察觉到你今天心情不太好 并且做了一些行动想让你开心 最后在你笑出来的时候说 那现在呢 心情有没有好一点 一次次地把支离破碎的你拼好 总是笑盈盈的稳定你的情绪 像小太阳一样照亮你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 7,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 388
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

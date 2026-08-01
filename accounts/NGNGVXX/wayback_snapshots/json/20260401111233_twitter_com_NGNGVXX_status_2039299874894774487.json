@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2038265764478882124",
+    "created_at": "2026-04-01T11:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T12:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039299874894774487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433843827354189825",
+          "start": 0,
+          "username": "Evelynasa4"
+        },
+        {
+          "end": 26,
+          "id": "1794321590878154754",
+          "start": 12,
+          "username": "bridg_es63030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039299874894774487",
+    "in_reply_to_user_id": "1433843827354189825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039299427698098372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evelynasa4 @bridg_es63030 他理解不了你说的话，因为他没有妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2038265764478882124",
+        "created_at": "2026-04-01T11:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039299874894774487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433843827354189825",
+              "start": 0,
+              "username": "Evelynasa4"
+            },
+            {
+              "end": 26,
+              "id": "1794321590878154754",
+              "start": 12,
+              "username": "bridg_es63030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039299874894774487",
+        "in_reply_to_user_id": "1433843827354189825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039299427698098372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evelynasa4 @bridg_es63030 他理解不了你说的话，因为他没有妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433843827354189825",
+        "conversation_id": "2038265764478882124",
+        "created_at": "2026-04-01T11:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039299427698098372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1794321590878154754",
+              "start": 0,
+              "username": "bridg_es63030"
+            },
+            {
+              "end": 23,
+              "id": "2363856960",
+              "start": 15,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039299427698098372",
+        "in_reply_to_user_id": "1794321590878154754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039298935752368317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bridg_es63030 @NGNGVXX 没有啊宝贝，我是看你实在看不懂我说的话，我说你们都是短命鬼，女的借种就能生，男的永远生不了。这个你看不明白还骂人，满嘴都是下等贱民说的脏字，我这种人受不了，你太脏了。事实摆在你面前，你不看还跳脚，跟你说话不就相当于狗咬我一口吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8131,
+          "following_count": 5,
+          "like_count": 985,
+          "listed_count": 23,
+          "media_count": 99,
+          "tweet_count": 1755
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T17:26:36.000Z",
+        "description": "",
+        "id": "1433843827354189825",
+        "name": "喀尔刻的惊心之旅",
+        "pinned_tweet_id": "1771851229666087267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547881079129849858/XaXgbOdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 102,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 176
+        },
+        "username": "Evelynasa4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T10:56:30.000Z",
+        "description": "爱女",
+        "id": "1794321590878154754",
+        "name": "Jack the Ripper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986915471300669440/Ao9GvvfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 33,
+          "like_count": 988,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 730
+        },
+        "username": "bridg_es63030",
+        "verified": false
+      }
+    ]
+  }
+}

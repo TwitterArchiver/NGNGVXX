@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1969658764124176754",
+    "created_at": "2025-09-29T11:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T12:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972629059172778119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1338331192622387202",
+          "start": 0,
+          "username": "uO7SaclSDOHoTcB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972629059172778119",
+    "in_reply_to_user_id": "1338331192622387202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971847851954393241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uO7SaclSDOHoTcB 其实也没什么好讲的，谢谢姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1969658764124176754",
+        "created_at": "2025-09-29T11:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T12:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972629059172778119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1338331192622387202",
+              "start": 0,
+              "username": "uO7SaclSDOHoTcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972629059172778119",
+        "in_reply_to_user_id": "1338331192622387202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971847851954393241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uO7SaclSDOHoTcB 其实也没什么好讲的，谢谢姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1338331192622387202",
+        "conversation_id": "1969658764124176754",
+        "created_at": "2025-09-27T08:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T09:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971847851954393241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971847851954393241",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969658764124176754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 寶寶跟姊講"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 7,
+          "like_count": 523,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 452
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-14T03:53:33.000Z",
+        "description": "P的愛好-喜歡挺挺的-只有相近的愛",
+        "id": "1338331192622387202",
+        "location": "高雄市",
+        "name": "陳美菊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956947762383355904/vUZzeXyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 185,
+          "like_count": 38224,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 796
+        },
+        "username": "uO7SaclSDOHoTcB",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2068771583762788463",
+    "created_at": "2026-06-21T19:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T20:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068771583762788463"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068771583762788463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当我们凶狠地对待这个世界时，这个世界突然变得温文尔雅了。\n\n你会失去一些朋友，会被一些人说你变了，会有一段孤独的时期。但孤独，恰恰是你开始尊重自己的证明。\n\n那些离开的人，不是因为你不够好，而是因为你终于不再好控制了。他们需要的不是你，是一个不会拒绝的工具。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2068771583762788463",
+        "created_at": "2026-06-21T19:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T20:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068771583762788463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068771583762788463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我们凶狠地对待这个世界时，这个世界突然变得温文尔雅了。\n\n你会失去一些朋友，会被一些人说你变了，会有一段孤独的时期。但孤独，恰恰是你开始尊重自己的证明。\n\n那些离开的人，不是因为你不够好，而是因为你终于不再好控制了。他们需要的不是你，是一个不会拒绝的工具。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10117,
+          "following_count": 6,
+          "like_count": 1197,
+          "listed_count": 27,
+          "media_count": 126,
+          "tweet_count": 2704
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043705052532244796",
+    "created_at": "2026-04-14T08:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043971094307287239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681716872415440896",
+          "start": 0,
+          "username": "Kirayoumiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043971094307287239",
+    "in_reply_to_user_id": "1681716872415440896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043961845627924550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirayoumiya 我建议你多读书，没本事的话还可以问问AI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043705052532244796",
+        "created_at": "2026-04-14T08:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043971094307287239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681716872415440896",
+              "start": 0,
+              "username": "Kirayoumiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043971094307287239",
+        "in_reply_to_user_id": "1681716872415440896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043961845627924550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirayoumiya 我建议你多读书，没本事的话还可以问问AI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681716872415440896",
+        "conversation_id": "2043705052532244796",
+        "created_at": "2026-04-14T07:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043961845627924550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043961845627924550",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043705052532244796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 自己通读一下第一句话\n看看表意清晰吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8283,
+          "following_count": 5,
+          "like_count": 1019,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1909
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "无意义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirayoumiya176…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kirayoumiya17607",
+                "start": 0,
+                "url": "https://t.co/ClBUr4OW0D"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "location": "精神世界",
+        "name": "Kirayoumiya",
+        "pinned_tweet_id": "2032472045599244684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986630336080650240/V8mqkC1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 1102,
+          "like_count": 26208,
+          "listed_count": 3,
+          "media_count": 818,
+          "tweet_count": 17720
+        },
+        "url": "https://t.co/ClBUr4OW0D",
+        "username": "Kirayoumiya",
+        "verified": false
+      }
+    ]
+  }
+}

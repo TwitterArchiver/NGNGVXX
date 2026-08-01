@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1995175224569155732",
+    "created_at": "2025-11-30T16:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995175224569155732"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995175224569155732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 24,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "改命最好方法，就是走出去。从井底爬出来，去看山川湖海，去经历，去体验，去蜕变。当你站在更高的地方，就会明白，世界就是一个巨大的草台班子，很多外表光鲜的人和事，背后都是临时拼凑、仓促筹备的。所以放轻松，勇敢去面对到来，一切都在你掌控之内。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1995175224569155732",
+        "created_at": "2025-11-30T16:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995175224569155732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995175224569155732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "改命最好方法，就是走出去。从井底爬出来，去看山川湖海，去经历，去体验，去蜕变。当你站在更高的地方，就会明白，世界就是一个巨大的草台班子，很多外表光鲜的人和事，背后都是临时拼凑、仓促筹备的。所以放轻松，勇敢去面对到来，一切都在你掌控之内。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 7,
+          "like_count": 536,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 721
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

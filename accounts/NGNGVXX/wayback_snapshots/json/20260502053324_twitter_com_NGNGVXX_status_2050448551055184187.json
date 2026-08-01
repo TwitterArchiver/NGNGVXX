@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2050448551055184187",
+    "created_at": "2026-05-02T05:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050448551055184187"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050448551055184187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "远离那些在自己制造的问题中，表现得像个受害者的人。他们从不反思自身过错，只会一味抱怨周遭、博取同情，习惯性推卸责任。和这类人相处只会消耗你的情绪、拖累你的心性。学会及时抽身，守住本心，把时间留给通透善良、懂得自省的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2050448551055184187",
+        "created_at": "2026-05-02T05:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050448551055184187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050448551055184187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "远离那些在自己制造的问题中，表现得像个受害者的人。他们从不反思自身过错，只会一味抱怨周遭、博取同情，习惯性推卸责任。和这类人相处只会消耗你的情绪、拖累你的心性。学会及时抽身，守住本心，把时间留给通透善良、懂得自省的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8982,
+          "following_count": 5,
+          "like_count": 1131,
+          "listed_count": 25,
+          "media_count": 110,
+          "tweet_count": 2145
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

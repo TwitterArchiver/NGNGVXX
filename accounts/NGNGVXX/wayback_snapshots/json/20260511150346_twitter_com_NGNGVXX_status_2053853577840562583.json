@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2053853133709688844",
+    "created_at": "2026-05-11T15:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053853577840562583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1732888340767166464",
+          "start": 0,
+          "username": "rszdwdlhtmjw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053853577840562583",
+    "in_reply_to_user_id": "1732888340767166464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053853133709688844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rszdwdlhtmjw 不会，我过得很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2053853133709688844",
+        "created_at": "2026-05-11T15:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053853577840562583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1732888340767166464",
+              "start": 0,
+              "username": "rszdwdlhtmjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053853577840562583",
+        "in_reply_to_user_id": "1732888340767166464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053853133709688844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rszdwdlhtmjw 不会，我过得很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732888340767166464",
+        "conversation_id": "2053853133709688844",
+        "created_at": "2026-05-11T15:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053853133709688844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ngngvxx/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/ngngvxx/status/2053852058751803576",
+              "start": 13,
+              "url": "https://t.co/ckUoCyPrlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053853133709688844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053852058751803576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "社会化程度太低会完蛋吗🫠 https://t.co/ckUoCyPrlI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9266,
+          "following_count": 5,
+          "like_count": 1150,
+          "listed_count": 25,
+          "media_count": 107,
+          "tweet_count": 2238
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T22:22:55.000Z",
+        "description": "",
+        "id": "1732888340767166464",
+        "name": "☁︎︎⛆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052952645745213441/pK0ieyIv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "rszdwdlhtmjw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1994446420531622217",
+    "created_at": "2025-11-28T16:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T17:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994446420531622217"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 149,
+          "start": 146,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994446420531622217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没事别瞎聊 聊久了就有情 有情就想见面 见面就想拥抱 拥抱了就想拥有 拥有过后就想在一起 人都是贪婪的 世界上根本就没有什么正人君子窈窕淑女 一见钟情只不过是见色起意 日久生情不过是权衡利弊 爱情这个东西 始于颜值停于才华 忠于肉体 迷于声音 最后折质 败给现实 所有的背叛都是从闲聊开始的 #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1994446420531622217",
+        "created_at": "2025-11-28T16:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994446420531622217"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994446420531622217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没事别瞎聊 聊久了就有情 有情就想见面 见面就想拥抱 拥抱了就想拥有 拥有过后就想在一起 人都是贪婪的 世界上根本就没有什么正人君子窈窕淑女 一见钟情只不过是见色起意 日久生情不过是权衡利弊 爱情这个东西 始于颜值停于才华 忠于肉体 迷于声音 最后折质 败给现实 所有的背叛都是从闲聊开始的 #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 7,
+          "like_count": 527,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 686
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

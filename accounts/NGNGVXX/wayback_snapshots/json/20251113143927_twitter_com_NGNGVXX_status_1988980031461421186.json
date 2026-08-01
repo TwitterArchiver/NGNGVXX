@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1988980031461421186",
+    "created_at": "2025-11-13T14:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T15:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988980031461421186"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988980031461421186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无论男女 我都喜欢聪明城府深却又坦诚相待的人\n把精明用在世事博弈 把纯粹留给身边人 \n对外是清醒的掌居者对内是赤诚的小朋友 \n永远积极向上 永远有效沟通 永远有解决问题的能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1988980031461421186",
+        "created_at": "2025-11-13T14:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T15:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988980031461421186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988980031461421186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无论男女 我都喜欢聪明城府深却又坦诚相待的人\n把精明用在世事博弈 把纯粹留给身边人 \n对外是清醒的掌居者对内是赤诚的小朋友 \n永远积极向上 永远有效沟通 永远有解决问题的能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 7,
+          "like_count": 588,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 627
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

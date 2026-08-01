@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043362128741192012",
+    "created_at": "2026-04-13T14:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043703624560492739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1260373423789924353",
+          "start": 0,
+          "username": "9VRRQVg7vtXLfZ4"
+        },
+        {
+          "end": 25,
+          "id": "173811014",
+          "start": 17,
+          "username": "AOHK666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043703624560492739",
+    "in_reply_to_user_id": "1260373423789924353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043659690135961776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9VRRQVg7vtXLfZ4 @AOHK666 冷知识:2个卵子可以孕育生命，不需要精子哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-13T14:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043703624560492739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1260373423789924353",
+              "start": 0,
+              "username": "9VRRQVg7vtXLfZ4"
+            },
+            {
+              "end": 25,
+              "id": "173811014",
+              "start": 17,
+              "username": "AOHK666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043703624560492739",
+        "in_reply_to_user_id": "1260373423789924353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043659690135961776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9VRRQVg7vtXLfZ4 @AOHK666 冷知识:2个卵子可以孕育生命，不需要精子哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260373423789924353",
+        "conversation_id": "2043362128741192012",
+        "created_at": "2026-04-13T11:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043659690135961776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "173811014",
+              "start": 0,
+              "username": "AOHK666"
+            },
+            {
+              "end": 17,
+              "id": "2363856960",
+              "start": 9,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043659690135961776",
+        "in_reply_to_user_id": "173811014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043395452159037610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AOHK666 @NGNGVXX 不是，如果孩子是自己你可以买精生子挑最好的基因，就因为所谓的“爱情”只能和普男生还不跟自己姓，不是为了那个男的是为啥？没女人男的生不出孩子，当然理论上没男人女人也生不出，但科技发达了，现在可以上科技没男人女人完全可以生了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8243,
+          "following_count": 5,
+          "like_count": 1005,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1883
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T00:57:16.000Z",
+        "description": "",
+        "id": "1260373423789924353",
+        "name": "诗歌存在",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719374044473004032/PXxrPrwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 29,
+          "like_count": 2715,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "9VRRQVg7vtXLfZ4",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-02T12:19:59.000Z",
+        "description": "",
+        "id": "173811014",
+        "name": "Terrible",
+        "pinned_tweet_id": "1742748992293720444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516609252550340610/x-s_70ND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 412,
+          "like_count": 969,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 1558
+        },
+        "username": "AOHK666",
+        "verified": false
+      }
+    ]
+  }
+}

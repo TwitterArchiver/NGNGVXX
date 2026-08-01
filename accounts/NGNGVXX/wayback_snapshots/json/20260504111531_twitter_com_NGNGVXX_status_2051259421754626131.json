@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2051169123779149857",
+    "created_at": "2026-05-04T11:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051259421754626131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1507350205922156544",
+          "start": 0,
+          "username": "ghj42598806"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051259421754626131",
+    "in_reply_to_user_id": "1507350205922156544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051225588921467236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ghj42598806 你可以不谈，可以不让自己进步，可以不提升自己的认知，可以原地踏步，可以摆烂，没有人会阻止你躺平的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2051169123779149857",
+        "created_at": "2026-05-04T11:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051259421754626131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1507350205922156544",
+              "start": 0,
+              "username": "ghj42598806"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051259421754626131",
+        "in_reply_to_user_id": "1507350205922156544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051225588921467236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghj42598806 你可以不谈，可以不让自己进步，可以不提升自己的认知，可以原地踏步，可以摆烂，没有人会阻止你躺平的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507350205922156544",
+        "conversation_id": "2051169123779149857",
+        "created_at": "2026-05-04T09:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051225588921467236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051225588921467236",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 76,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051169123779149857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 提升自己的估值，给对方持有你会暴涨的预期，然后来回调动情绪，md谈恋爱也需要做市值管理。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9012,
+          "following_count": 5,
+          "like_count": 1150,
+          "listed_count": 25,
+          "media_count": 111,
+          "tweet_count": 2158
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T13:34:40.000Z",
+        "description": "简中互联网孙学顶流博主\nWEB3/meme/AI/美狗/社会学/叙事经济学 NVDA/TESLA/BTC/SOL/AMAZON/DOGEl",
+        "id": "1507350205922156544",
+        "name": "渔托邦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996579164405841920/cLJv1We-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 384,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 279
+        },
+        "username": "ghj42598806",
+        "verified": true
+      }
+    ]
+  }
+}

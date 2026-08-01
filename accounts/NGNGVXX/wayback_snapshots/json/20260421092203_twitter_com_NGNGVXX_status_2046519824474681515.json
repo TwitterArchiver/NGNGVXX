@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2046519824474681515",
+    "created_at": "2026-04-21T09:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046519824474681515"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046519824474681515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的直觉、违和感有90%都是正确的。比如总觉得哪里不舒服，莫名搞不懂这个人，或者说不上来但感觉不对劲，当你对一个人产生这种感觉的时候，一定要相信自己的直觉，千万不要和这个人扯上关系。不要忽视潜意识发来的危险信号，那个才是高维的你，对你最大的保护。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2046519824474681515",
+        "created_at": "2026-04-21T09:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046519824474681515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046519824474681515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的直觉、违和感有90%都是正确的。比如总觉得哪里不舒服，莫名搞不懂这个人，或者说不上来但感觉不对劲，当你对一个人产生这种感觉的时候，一定要相信自己的直觉，千万不要和这个人扯上关系。不要忽视潜意识发来的危险信号，那个才是高维的你，对你最大的保护。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8523,
+          "following_count": 5,
+          "like_count": 1054,
+          "listed_count": 23,
+          "media_count": 104,
+          "tweet_count": 2036
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2042249851937993099",
+    "created_at": "2026-04-14T09:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043989225998299252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847636051298570245",
+          "start": 0,
+          "username": "xiaobin_xu77401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043989225998299252",
+    "in_reply_to_user_id": "1847636051298570245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042545764606554327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobin_xu77401 大部分时候爱真的没有屁用，因为爱会消失会变质，会被鸡毛蒜皮的小事磨没。你说的这些情况只有一小部分非常幸运的才能遇见有如此良心且有责任的另一半。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2042249851937993099",
+        "created_at": "2026-04-14T09:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043989225998299252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847636051298570245",
+              "start": 0,
+              "username": "xiaobin_xu77401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043989225998299252",
+        "in_reply_to_user_id": "1847636051298570245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042545764606554327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobin_xu77401 大部分时候爱真的没有屁用，因为爱会消失会变质，会被鸡毛蒜皮的小事磨没。你说的这些情况只有一小部分非常幸运的才能遇见有如此良心且有责任的另一半。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847636051298570245",
+        "conversation_id": "2042249851937993099",
+        "created_at": "2026-04-10T10:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042545764606554327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042545764606554327",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042249851937993099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 不是爱吗，彼此理解彼此商量，互相心疼，不pua，不压迫，不绑架，遇见事拧成一股绳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8283,
+          "following_count": 5,
+          "like_count": 1027,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1920
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T13:49:17.000Z",
+        "description": "",
+        "id": "1847636051298570245",
+        "name": "xiaobin xuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847636139274047488/IRGFMOxr_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 37,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 164
+        },
+        "username": "xiaobin_xu77401",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907036316396863488"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "1907036407559807190",
+    "created_at": "2025-04-01T11:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T12:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907036407559807190"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "女同"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "les"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AAYSYqnU9u",
+          "end": 50,
+          "expanded_url": "https://x.com/NGNGVXX/status/1907036407559807190/photo/1",
+          "media_key": "3_1907036316396863488",
+          "start": 27,
+          "url": "https://t.co/AAYSYqnU9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907036407559807190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的性别不该限制你喜欢任何东西。\n\n#女同 #les https://t.co/AAYSYqnU9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1907036316396863488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GncnbQSawAAubts.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907036316396863488"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "1907036407559807190",
+        "created_at": "2025-04-01T11:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T12:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907036407559807190"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "女同"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "les"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AAYSYqnU9u",
+              "end": 50,
+              "expanded_url": "https://x.com/NGNGVXX/status/1907036407559807190/photo/1",
+              "media_key": "3_1907036316396863488",
+              "start": 27,
+              "url": "https://t.co/AAYSYqnU9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907036407559807190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的性别不该限制你喜欢任何东西。\n\n#女同 #les https://t.co/AAYSYqnU9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。",
+        "id": "2363856960",
+        "name": "NG NG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 8,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 365
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2044267255790522401",
+    "created_at": "2026-04-15T10:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T11:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044369672540405859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1651634139169435648",
+          "start": 0,
+          "username": "zushxdeshz78655"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044369672540405859",
+    "in_reply_to_user_id": "1651634139169435648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044311453755482512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zushxdeshz78655 先爱自己👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2044267255790522401",
+        "created_at": "2026-04-15T10:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044369672540405859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1651634139169435648",
+              "start": 0,
+              "username": "zushxdeshz78655"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044369672540405859",
+        "in_reply_to_user_id": "1651634139169435648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044311453755482512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zushxdeshz78655 先爱自己👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651634139169435648",
+        "conversation_id": "2044267255790522401",
+        "created_at": "2026-04-15T07:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044311453755482512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044311453755482512",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044267255790522401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我是道德感不强，到道德感强，然后再道德感中性也就是先有威再有爱且爱人先爱己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8308,
+          "following_count": 5,
+          "like_count": 1043,
+          "listed_count": 22,
+          "media_count": 101,
+          "tweet_count": 1965
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-27T17:07:53.000Z",
+        "description": "",
+        "id": "1651634139169435648",
+        "name": "做熟悉的事知行合一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655098141170094080/5eNx8n85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 79,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 380
+        },
+        "username": "zushxdeshz78655",
+        "verified": false
+      }
+    ]
+  }
+}

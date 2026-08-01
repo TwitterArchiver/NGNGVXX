@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2022707449376190863",
+    "created_at": "2026-02-14T16:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T17:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022707449376190863"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022707449376190863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "亲爱的你，不管此刻你身旁有没有伴侣，请一定要相信爱。不是相信某一个具体的人，而是相信这世间的确存在一种能量，能激发你的所有喜悦、动力与憧憬，让你变得勇敢，且充满慈悲。\n爱是一种互动，它来自于某人，也来自于生灵与生活，更来自于你自己。\n愿你找到爱，更愿你拥有爱的能力，成为爱本身。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2022707449376190863",
+        "created_at": "2026-02-14T16:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022707449376190863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022707449376190863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的你，不管此刻你身旁有没有伴侣，请一定要相信爱。不是相信某一个具体的人，而是相信这世间的确存在一种能量，能激发你的所有喜悦、动力与憧憬，让你变得勇敢，且充满慈悲。\n爱是一种互动，它来自于某人，也来自于生灵与生活，更来自于你自己。\n愿你找到爱，更愿你拥有爱的能力，成为爱本身。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6953,
+          "following_count": 5,
+          "like_count": 944,
+          "listed_count": 17,
+          "media_count": 73,
+          "tweet_count": 1360
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

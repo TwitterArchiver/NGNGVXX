@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2001866940571357351",
+    "created_at": "2025-12-19T04:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T05:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001866940571357351"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2001866940571357351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到一个关于创伤很妙的比喻：“你的脚底踩了一颗钉子，一直在痛，现在有个人过来面对面和你说话，你是没办法听清他在说什么的，因为你一直都在关注脚底的痛。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2001866940571357351",
+        "created_at": "2025-12-19T04:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001866940571357351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001866940571357351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到一个关于创伤很妙的比喻：“你的脚底踩了一颗钉子，一直在痛，现在有个人过来面对面和你说话，你是没办法听清他在说什么的，因为你一直都在关注脚底的痛。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 7,
+          "like_count": 637,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 800
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

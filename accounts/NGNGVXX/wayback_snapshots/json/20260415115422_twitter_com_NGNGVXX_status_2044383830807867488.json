@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2044383830807867488",
+    "created_at": "2026-04-15T11:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044383830807867488"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044383830807867488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道大家有没有遇见过这种情况，从小在同龄人里面算是早熟的，懂得体谅父母听话懂事成绩优异，没有让父母操过心甚至经常能接住父母的负面情绪，长大了步入职场 反而显得很幼稚，不如同龄人成熟，很多时候被说单纯，甚至被说木讷，基本都混的很差。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2044383830807867488",
+        "created_at": "2026-04-15T11:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044383830807867488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044383830807867488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道大家有没有遇见过这种情况，从小在同龄人里面算是早熟的，懂得体谅父母听话懂事成绩优异，没有让父母操过心甚至经常能接住父母的负面情绪，长大了步入职场 反而显得很幼稚，不如同龄人成熟，很多时候被说单纯，甚至被说木讷，基本都混的很差。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8309,
+          "following_count": 5,
+          "like_count": 1043,
+          "listed_count": 22,
+          "media_count": 101,
+          "tweet_count": 1970
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

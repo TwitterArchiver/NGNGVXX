@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2044030383889805383",
+    "created_at": "2026-04-14T16:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044085277187268745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1743503579531628544",
+          "start": 0,
+          "username": "LD918168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044085277187268745",
+    "in_reply_to_user_id": "1743503579531628544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044072593146425561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LD918168 为你点赞👍 永远欣赏有勇气选择自己活法的人👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2044030383889805383",
+        "created_at": "2026-04-14T16:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044085277187268745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1743503579531628544",
+              "start": 0,
+              "username": "LD918168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044085277187268745",
+        "in_reply_to_user_id": "1743503579531628544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044072593146425561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LD918168 为你点赞👍 永远欣赏有勇气选择自己活法的人👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743503579531628544",
+        "conversation_id": "2044030383889805383",
+        "created_at": "2026-04-14T15:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044072593146425561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044072593146425561",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044030383889805383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我90后吃到的最大红利，就是看世俗人过得惨，我跟他们选择不一样，就避免许多悲剧了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8290,
+          "following_count": 5,
+          "like_count": 1038,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1946
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T05:24:04.000Z",
+        "description": "自创哲学，心理｜情感｜赚钱｜女权咨询，知识付费，陪跑服务，个人成长，接受有意愿改变自己改变命运的全球人来访，我的商业之道：各取所需，利人利己。",
+        "id": "1743503579531628544",
+        "name": "一个靠自学与好学成才的人",
+        "pinned_tweet_id": "2042819506083631239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021157051205038080/IyQjfhdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 0,
+          "like_count": 1440,
+          "listed_count": 0,
+          "media_count": 2145,
+          "tweet_count": 12389
+        },
+        "username": "LD918168",
+        "verified": false
+      }
+    ]
+  }
+}

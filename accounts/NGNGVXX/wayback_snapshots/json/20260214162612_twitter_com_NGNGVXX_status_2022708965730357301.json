@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2022708965730357301",
+    "created_at": "2026-02-14T16:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T17:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022708965730357301"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022708965730357301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心理医生朋友曾和我说过一段印象深刻的话：“一定要有一个不管发生什么事都不会否定你的地方。” 它不一定非得是爱人、家人或者朋友，哪怕是素未谋面的匿名网友也可以，真的只要有一个这样的港湾存在，无论遭遇多大的痛苦，都能重振旗鼓，最后总是可以出乎意料地坚持下去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2022708965730357301",
+        "created_at": "2026-02-14T16:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022708965730357301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022708965730357301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心理医生朋友曾和我说过一段印象深刻的话：“一定要有一个不管发生什么事都不会否定你的地方。” 它不一定非得是爱人、家人或者朋友，哪怕是素未谋面的匿名网友也可以，真的只要有一个这样的港湾存在，无论遭遇多大的痛苦，都能重振旗鼓，最后总是可以出乎意料地坚持下去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6952,
+          "following_count": 5,
+          "like_count": 944,
+          "listed_count": 17,
+          "media_count": 73,
+          "tweet_count": 1366
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

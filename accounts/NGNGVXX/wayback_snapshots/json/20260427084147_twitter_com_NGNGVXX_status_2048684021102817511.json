@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2048684021102817511",
+    "created_at": "2026-04-27T08:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048684021102817511"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048684021102817511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在的人机评论已经进化到难以辨认的程度了 \n\n（如果我误认拉黑了你在这里先说抱歉啊 反正你也不介意的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2048684021102817511",
+        "created_at": "2026-04-27T08:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048684021102817511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048684021102817511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的人机评论已经进化到难以辨认的程度了 \n\n（如果我误认拉黑了你在这里先说抱歉啊 反正你也不介意的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8826,
+          "following_count": 4,
+          "like_count": 1117,
+          "listed_count": 24,
+          "media_count": 106,
+          "tweet_count": 2100
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

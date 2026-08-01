@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1941841280746635294",
+    "created_at": "2025-07-07T11:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T12:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942183411311140931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1467730972774789121",
+          "start": 0,
+          "username": "Shzjjzj1Shzjjzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942183411311140931",
+    "in_reply_to_user_id": "1467730972774789121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941841280746635294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shzjjzj1Shzjjzj 帅！！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_1941841266846973952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLOWAibwAA4n_A.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1941841280746635294",
+        "created_at": "2025-07-07T11:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T12:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942183411311140931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1467730972774789121",
+              "start": 0,
+              "username": "Shzjjzj1Shzjjzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942183411311140931",
+        "in_reply_to_user_id": "1467730972774789121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941841280746635294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shzjjzj1Shzjjzj 帅！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941841266846973952"
+          ]
+        },
+        "author_id": "1467730972774789121",
+        "conversation_id": "1941841280746635294",
+        "created_at": "2025-07-06T12:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T13:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941841280746635294"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 3,
+              "tag": "les"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "le"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ano8wmdBXE",
+              "end": 35,
+              "expanded_url": "https://x.com/Shzjjzj1Shzjjzj/status/1941841280746635294/photo/1",
+              "media_key": "3_1941841266846973952",
+              "start": 12,
+              "url": "https://t.co/ano8wmdBXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941841280746635294",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3121,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🕶️\n#les #le https://t.co/ano8wmdBXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "NG NG",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 6,
+          "like_count": 646,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 416
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-06T05:42:00.000Z",
+        "description": "上海｜🌈 纯1 非常被动",
+        "id": "1467730972774789121",
+        "name": "Shzjjzj",
+        "pinned_tweet_id": "1468948266783948803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1482531406886498306/jE_KvdLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 87,
+          "like_count": 5677,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 1971
+        },
+        "username": "Shzjjzj1Shzjjzj",
+        "verified": false
+      }
+    ]
+  }
+}

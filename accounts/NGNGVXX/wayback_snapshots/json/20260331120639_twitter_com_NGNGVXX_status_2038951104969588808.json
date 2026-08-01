@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2038932146258379054",
+    "created_at": "2026-03-31T12:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038951104969588808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1788799288111489024",
+          "start": 0,
+          "username": "Ike1057592"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038951104969588808",
+    "in_reply_to_user_id": "1788799288111489024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038950812484006310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ike1057592 要不，你问问AI明天几号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2038932146258379054",
+        "created_at": "2026-03-31T12:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038951104969588808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1788799288111489024",
+              "start": 0,
+              "username": "Ike1057592"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038951104969588808",
+        "in_reply_to_user_id": "1788799288111489024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038950812484006310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ike1057592 要不，你问问AI明天几号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788799288111489024",
+        "conversation_id": "2038932146258379054",
+        "created_at": "2026-03-31T12:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038950812484006310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038950812484006310",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038949442578157848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 今天是31，那明天就得是32号啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8114,
+          "following_count": 5,
+          "like_count": 985,
+          "listed_count": 23,
+          "media_count": 99,
+          "tweet_count": 1737
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T05:12:53.000Z",
+        "description": "just for fun",
+        "id": "1788799288111489024",
+        "name": "Ike",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038647266383364096/Ds5RbfWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 13,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "username": "Ike1057592",
+        "verified": false
+      }
+    ]
+  }
+}

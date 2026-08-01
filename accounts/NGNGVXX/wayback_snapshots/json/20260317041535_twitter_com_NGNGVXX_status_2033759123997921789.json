@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2033759123997921789",
+    "created_at": "2026-03-17T04:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T05:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033759123997921789"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033759123997921789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我开始问自己，是不是从在一起的第一天起，我们彼此就各自悄悄给这份爱设了保质期？\n\n我们就像两位清醒的演员，都按剧本演完最后一场对手戏。\n\n分手那天，我们都表现得体面极了。没有哭闹，没有质问，连拥抱的力度都恰到好处。\n\n不是突然不爱了，而是从一开始就没相信过会永远爱下去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2033759123997921789",
+        "created_at": "2026-03-17T04:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033759123997921789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033759123997921789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我开始问自己，是不是从在一起的第一天起，我们彼此就各自悄悄给这份爱设了保质期？\n\n我们就像两位清醒的演员，都按剧本演完最后一场对手戏。\n\n分手那天，我们都表现得体面极了。没有哭闹，没有质问，连拥抱的力度都恰到好处。\n\n不是突然不爱了，而是从一开始就没相信过会永远爱下去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7737,
+          "following_count": 5,
+          "like_count": 980,
+          "listed_count": 20,
+          "media_count": 92,
+          "tweet_count": 1593
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1989185363148152942",
+    "created_at": "2025-11-14T04:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989185363148152942"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "le"
+        },
+        {
+          "end": 83,
+          "start": 79,
+          "tag": "les"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989185363148152942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想我还是相信 会在一起的人 即使绕了一大圈 最后终究在一起 该来的总会来 该走的终究会走 无法强求 如果最后能在一起 幸福晚点来 真的无所谓 ​​​#le #les #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1989185363148152942",
+        "created_at": "2025-11-14T04:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989185363148152942"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "le"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "les"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989185363148152942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想我还是相信 会在一起的人 即使绕了一大圈 最后终究在一起 该来的总会来 该走的终究会走 无法强求 如果最后能在一起 幸福晚点来 真的无所谓 ​​​#le #les #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 7,
+          "like_count": 591,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 635
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

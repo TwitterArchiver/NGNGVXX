@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2064664562998366395",
+    "created_at": "2026-06-12T07:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T08:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065332745098961057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442410096131129349",
+          "start": 0,
+          "username": "8964ruijingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065332745098961057",
+    "in_reply_to_user_id": "1442410096131129349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065329387386646676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964ruijingyi 你眼瞎阿？？还是你的认知低到已经理解不了这贴文到底在表达什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2064664562998366395",
+        "created_at": "2026-06-12T07:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065332745098961057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442410096131129349",
+              "start": 0,
+              "username": "8964ruijingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065332745098961057",
+        "in_reply_to_user_id": "1442410096131129349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065329387386646676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964ruijingyi 你眼瞎阿？？还是你的认知低到已经理解不了这贴文到底在表达什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442410096131129349",
+        "conversation_id": "2064664562998366395",
+        "created_at": "2026-06-12T07:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065329387386646676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065329387386646676",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064664562998366395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 你法盲吗？如果两15的做爱怎么办？人家可没两小无猜了都满14了两个都去坐牢吗？现在那么性早熟，天天叫性同意提高还不如叫做好性教育呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9918,
+          "following_count": 6,
+          "like_count": 1188,
+          "listed_count": 28,
+          "media_count": 117,
+          "tweet_count": 2575
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T08:45:57.000Z",
+        "description": "😃",
+        "id": "1442410096131129349",
+        "location": "偷乐星期",
+        "name": "静怡8964",
+        "pinned_tweet_id": "1895907764335255831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672459252529602560/F8tPaUD__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 14,
+          "like_count": 3080,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 130
+        },
+        "username": "8964ruijingyi",
+        "verified": false
+      }
+    ]
+  }
+}

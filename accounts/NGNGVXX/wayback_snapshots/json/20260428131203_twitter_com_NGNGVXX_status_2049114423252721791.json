@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2049114423252721791",
+    "created_at": "2026-04-28T13:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049114423252721791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Get Your RM15 in DailyLazCash!",
+          "display_url": "s.lazada.com.my/s.Z0QYMq",
+          "end": 56,
+          "expanded_url": "https://s.lazada.com.my/s.Z0QYMq",
+          "start": 33,
+          "status": 200,
+          "title": "Get Your RM15 in DailyLazCash!",
+          "unwound_url": "https://s.lazada.com.my/s.Z0QYMq",
+          "url": "https://t.co/vmw8N5YBUQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049114423252721791",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Get Your RM15 in DailyLazCash! | https://t.co/vmw8N5YBUQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2049114423252721791",
+        "created_at": "2026-04-28T13:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049114423252721791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Get Your RM15 in DailyLazCash!",
+              "display_url": "s.lazada.com.my/s.Z0QYMq",
+              "end": 56,
+              "expanded_url": "https://s.lazada.com.my/s.Z0QYMq",
+              "start": 33,
+              "status": 200,
+              "title": "Get Your RM15 in DailyLazCash!",
+              "unwound_url": "https://s.lazada.com.my/s.Z0QYMq",
+              "url": "https://t.co/vmw8N5YBUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049114423252721791",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Get Your RM15 in DailyLazCash! | https://t.co/vmw8N5YBUQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8928,
+          "following_count": 4,
+          "like_count": 1119,
+          "listed_count": 24,
+          "media_count": 107,
+          "tweet_count": 2112
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

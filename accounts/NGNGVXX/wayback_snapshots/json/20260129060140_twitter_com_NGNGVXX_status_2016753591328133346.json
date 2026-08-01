@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2016753591328133346",
+    "created_at": "2026-01-29T06:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016753591328133346"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016753591328133346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前想你了，可以发消息给你，现在想你了只能打开你微信主页，看一阵子你空白的头像，再看看你朋友圈一条横杠和漆黑的背景图！其实很想问你，有没有那么一瞬间你也心疼我的执着、体谅我的卑微、看出我的无助，有没有那么一瞬间你也喜欢过我，哪怕几秒钟……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2016753591328133346",
+        "created_at": "2026-01-29T06:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016753591328133346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016753591328133346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前想你了，可以发消息给你，现在想你了只能打开你微信主页，看一阵子你空白的头像，再看看你朋友圈一条横杠和漆黑的背景图！其实很想问你，有没有那么一瞬间你也心疼我的执着、体谅我的卑微、看出我的无助，有没有那么一瞬间你也喜欢过我，哪怕几秒钟……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5855,
+          "following_count": 5,
+          "like_count": 923,
+          "listed_count": 15,
+          "media_count": 63,
+          "tweet_count": 1190
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

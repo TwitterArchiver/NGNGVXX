@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2001868094696985015",
+    "created_at": "2025-12-20T05:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T06:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002246863186243613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "520069114",
+          "start": 0,
+          "username": "Doubleplayfuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002246863186243613",
+    "in_reply_to_user_id": "520069114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002231601145729518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Doubleplayfuc 那就是做给别人看的呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2001868094696985015",
+        "created_at": "2025-12-20T05:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T06:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002246863186243613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "520069114",
+              "start": 0,
+              "username": "Doubleplayfuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002246863186243613",
+        "in_reply_to_user_id": "520069114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002231601145729518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doubleplayfuc 那就是做给别人看的呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "520069114",
+        "conversation_id": "2001868094696985015",
+        "created_at": "2025-12-20T04:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002231601145729518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002231601145729518",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001868094696985015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 但是他看不见的地方就是看不见 等于有也不懂 。 要看得见 才能知道，这是我2025年学到的最大教训"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 7,
+          "like_count": 640,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 803
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-10T03:58:02.000Z",
+        "description": "",
+        "id": "520069114",
+        "location": "+07",
+        "name": "Funny",
+        "pinned_tweet_id": "1997258195778281492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974928499501891585/RDhs2_Ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 1991,
+          "like_count": 136345,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 47863
+        },
+        "username": "Doubleplayfuc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2052650951409021058",
+    "created_at": "2026-05-08T11:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052714617416339917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764968135420219392",
+          "start": 0,
+          "username": "shuibannian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052714617416339917",
+    "in_reply_to_user_id": "1764968135420219392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052689813808246936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuibannian 大富翁可以说是我最讨厌的桌游了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2052650951409021058",
+        "created_at": "2026-05-08T11:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052714617416339917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764968135420219392",
+              "start": 0,
+              "username": "shuibannian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052714617416339917",
+        "in_reply_to_user_id": "1764968135420219392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052689813808246936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuibannian 大富翁可以说是我最讨厌的桌游了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764968135420219392",
+        "conversation_id": "2052650951409021058",
+        "created_at": "2026-05-08T09:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052689813808246936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052689813808246936",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052650951409021058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 其实真的很像玩大富翁，一辈子就在地图圈里，买不起地买不起房，每次回到终点领个几千，如此循环，但总有机会和命运。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9205,
+          "following_count": 5,
+          "like_count": 1148,
+          "listed_count": 26,
+          "media_count": 105,
+          "tweet_count": 2196
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T10:56:31.000Z",
+        "description": "废话大王\n生活碎片整理记录",
+        "id": "1764968135420219392",
+        "name": "明年我要睡半年",
+        "pinned_tweet_id": "2052628539921539305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046139542781202432/BIy8Eeqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 13,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 307
+        },
+        "username": "shuibannian",
+        "verified": false
+      }
+    ]
+  }
+}

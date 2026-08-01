@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1977941564308807892",
+    "created_at": "2025-10-14T03:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T04:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977941564308807892"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "le"
+        },
+        {
+          "end": 118,
+          "start": 114,
+          "tag": "les"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977941564308807892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在只想和温柔的人待在一起，温温柔柔的讲话，不会阴阳怪气尖酸刻薄，相处轻轻松松没有压力，会让人觉得生活真好呀。待在情绪稳定的人身边，自己的心绪也会变的平和有耐性，像被顺毛的狗狗，乖乖巧巧的，只想露出柔软的肚皮。 ​​​#le #les #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1977941564308807892",
+        "created_at": "2025-10-14T03:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977941564308807892"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "le"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "les"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977941564308807892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在只想和温柔的人待在一起，温温柔柔的讲话，不会阴阳怪气尖酸刻薄，相处轻轻松松没有压力，会让人觉得生活真好呀。待在情绪稳定的人身边，自己的心绪也会变的平和有耐性，像被顺毛的狗狗，乖乖巧巧的，只想露出柔软的肚皮。 ​​​#le #les #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 7,
+          "like_count": 530,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 484
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

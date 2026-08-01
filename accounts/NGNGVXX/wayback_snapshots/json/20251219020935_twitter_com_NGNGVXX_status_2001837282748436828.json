@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2001610580986335358",
+    "created_at": "2025-12-19T02:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T03:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001837282748436828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1642149047858524160",
+          "start": 0,
+          "username": "Love7010526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001837282748436828",
+    "in_reply_to_user_id": "1642149047858524160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001706219686556082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Love7010526 真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2001610580986335358",
+        "created_at": "2025-12-19T02:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T03:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001837282748436828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1642149047858524160",
+              "start": 0,
+              "username": "Love7010526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001837282748436828",
+        "in_reply_to_user_id": "1642149047858524160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001706219686556082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Love7010526 真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642149047858524160",
+        "conversation_id": "2001610580986335358",
+        "created_at": "2025-12-18T17:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001706219686556082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001706219686556082",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001610580986335358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 这样一想一年好短哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 7,
+          "like_count": 637,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 802
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T12:57:12.000Z",
+        "description": "it’s 7 !～当朋友圈发",
+        "id": "1642149047858524160",
+        "name": "7🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981400092138512384/UKwUTUkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 51,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 148
+        },
+        "username": "Love7010526",
+        "verified": false
+      }
+    ]
+  }
+}

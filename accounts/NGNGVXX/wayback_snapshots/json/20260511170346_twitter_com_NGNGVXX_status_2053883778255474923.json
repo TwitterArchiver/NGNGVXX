@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2053664224229064734",
+    "created_at": "2026-05-11T17:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T18:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053883778255474923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2020223066329247744",
+          "start": 0,
+          "username": "wtosd125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053883778255474923",
+    "in_reply_to_user_id": "2020223066329247744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053874166298984862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtosd125 有病你就去看医生，来这里搞抬杠抽象治不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2053664224229064734",
+        "created_at": "2026-05-11T17:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053883778255474923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2020223066329247744",
+              "start": 0,
+              "username": "wtosd125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053883778255474923",
+        "in_reply_to_user_id": "2020223066329247744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053874166298984862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtosd125 有病你就去看医生，来这里搞抬杠抽象治不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020223066329247744",
+        "conversation_id": "2053664224229064734",
+        "created_at": "2026-05-11T16:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053874166298984862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053874166298984862",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053664224229064734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 装尼玛呢臭傻逼😂😂😂😂😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9275,
+          "following_count": 5,
+          "like_count": 1150,
+          "listed_count": 25,
+          "media_count": 107,
+          "tweet_count": 2241
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T19:48:18.000Z",
+        "description": "U ~o ̄ shi ̄ri ̄ be n ren!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "galagame.onion",
+                "end": 23,
+                "expanded_url": "http://galagame.onion",
+                "start": 0,
+                "url": "https://t.co/aaNtSzmPiW"
+              }
+            ]
+          }
+        },
+        "id": "2020223066329247744",
+        "location": "日本爱媛县新居滨市",
+        "name": "莉绪花凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047737205721100288/ztAttudB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 8,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/aaNtSzmPiW",
+        "username": "wtosd125",
+        "verified": false
+      }
+    ]
+  }
+}

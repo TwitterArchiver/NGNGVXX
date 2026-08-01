@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2054537395304116247",
+    "created_at": "2026-05-14T00:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054727553391423883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1785728758122774528",
+          "start": 0,
+          "username": "OttawaCuteFace"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054727553391423883",
+    "in_reply_to_user_id": "1785728758122774528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054720216341664038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OttawaCuteFace 需要你的认可吗？每一个人面对的焦虑不一样，呈现的显化自然也不一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2054537395304116247",
+        "created_at": "2026-05-14T00:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054727553391423883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1785728758122774528",
+              "start": 0,
+              "username": "OttawaCuteFace"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054727553391423883",
+        "in_reply_to_user_id": "1785728758122774528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054720216341664038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OttawaCuteFace 需要你的认可吗？每一个人面对的焦虑不一样，呈现的显化自然也不一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785728758122774528",
+        "conversation_id": "2054537395304116247",
+        "created_at": "2026-05-14T00:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054720216341664038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054720216341664038",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054537395304116247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 没有手抖心慌不认可，有时候我甚至能看着我左胸腔上的衣服在抖动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9415,
+          "following_count": 5,
+          "like_count": 1156,
+          "listed_count": 27,
+          "media_count": 107,
+          "tweet_count": 2271
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T17:51:38.000Z",
+        "description": "非纯粹无脑粉红|左中上|岁静派|愿世界没有战争|人人平等|和睦相处|轻/中度抑郁/焦虑|16|双性恋|可互fo（会查成分）",
+        "id": "1785728758122774528",
+        "location": "渥太华",
+        "name": "渥太华帅脸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024759395058667522/gMAyfrYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 905,
+          "like_count": 27205,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 3750
+        },
+        "username": "OttawaCuteFace",
+        "verified": false
+      }
+    ]
+  }
+}

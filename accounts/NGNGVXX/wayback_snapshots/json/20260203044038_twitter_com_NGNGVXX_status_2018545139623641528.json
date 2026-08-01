@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2018292355892428922",
+    "created_at": "2026-02-03T04:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T05:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018545139623641528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1147947620762976256",
+          "start": 0,
+          "username": "ijeaoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018545139623641528",
+    "in_reply_to_user_id": "1147947620762976256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018358522539634896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ijeaoo 同样的道理，上来就问可不可以操逼，你谈不？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2018292355892428922",
+        "created_at": "2026-02-03T04:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T05:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018545139623641528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1147947620762976256",
+              "start": 0,
+              "username": "ijeaoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018545139623641528",
+        "in_reply_to_user_id": "1147947620762976256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018358522539634896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ijeaoo 同样的道理，上来就问可不可以操逼，你谈不？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1147947620762976256",
+        "conversation_id": "2018292355892428922",
+        "created_at": "2026-02-02T16:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018358522539634896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018358522539634896",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1162,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018292355892428922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 上来就问你要礼物，买衣服你谈不谈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6014,
+          "following_count": 5,
+          "like_count": 925,
+          "listed_count": 15,
+          "media_count": 66,
+          "tweet_count": 1244
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-07T19:16:55.000Z",
+        "description": "无学历 无技术 无存款 大龄未婚厂狗一枚 人到中年，一事无成 正在研究“普通人如何优雅地活着”",
+        "id": "1147947620762976256",
+        "location": "火星",
+        "name": "工号88704",
+        "pinned_tweet_id": "2011457303078474185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011459934790328320/MlS314vA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 751,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 599
+        },
+        "username": "ijeaoo",
+        "verified": true
+      }
+    ]
+  }
+}

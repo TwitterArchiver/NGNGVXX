@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043532763475959997",
+    "created_at": "2026-04-14T12:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044034141415747818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991052643872256001",
+          "start": 0,
+          "username": "241221Alice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044034141415747818",
+    "in_reply_to_user_id": "1991052643872256001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043638100648435985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@241221Alice 这让我想起了谜一般的女装尺码"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043532763475959997",
+        "created_at": "2026-04-14T12:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044034141415747818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991052643872256001",
+              "start": 0,
+              "username": "241221Alice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044034141415747818",
+        "in_reply_to_user_id": "1991052643872256001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043638100648435985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@241221Alice 这让我想起了谜一般的女装尺码"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991052643872256001",
+        "conversation_id": "2043532763475959997",
+        "created_at": "2026-04-13T10:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043638100648435985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043638100648435985",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 952,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043532763475959997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 至少差两个码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8284,
+          "following_count": 5,
+          "like_count": 1032,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1929
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T07:55:31.000Z",
+        "description": "财务思维 | 创业实战 | 投资复利\n创业8年后GAP期，用真实记录探索自由之路",
+        "id": "1991052643872256001",
+        "name": "艾汤圆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035192292437581824/WBJ__Tue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 63,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 353
+        },
+        "username": "241221Alice",
+        "verified": true
+      }
+    ]
+  }
+}

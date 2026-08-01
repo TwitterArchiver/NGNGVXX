@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2078453281865806002",
+    "created_at": "2026-07-18T12:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078453281865806002"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078453281865806002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一旦有机会往上走，一定要抓住，不要以为你干不了。成长最快的方式，就是硬着头皮上。能力不是等出来的，是在你一边害怕、一边往前走的过程中慢慢长出来的。所有机遇都藏在恐惧里。你每做一件让你手心出汗的事，你的胆量就大一圈，你的水平就高一层。时间答案会告诉你，你比你想象的，更有本事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2078453281865806002",
+        "created_at": "2026-07-18T12:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078453281865806002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078453281865806002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一旦有机会往上走，一定要抓住，不要以为你干不了。成长最快的方式，就是硬着头皮上。能力不是等出来的，是在你一边害怕、一边往前走的过程中慢慢长出来的。所有机遇都藏在恐惧里。你每做一件让你手心出汗的事，你的胆量就大一圈，你的水平就高一层。时间答案会告诉你，你比你想象的，更有本事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10509,
+          "following_count": 6,
+          "like_count": 1205,
+          "listed_count": 30,
+          "media_count": 149,
+          "tweet_count": 3049
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

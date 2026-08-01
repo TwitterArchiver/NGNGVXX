@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1981345417679044777",
+    "created_at": "2025-10-23T13:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T14:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981345417679044777"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "le"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "les"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981345417679044777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一定要珍惜还在的欲望，想去的地方、想吃的东西、想爱的人，因为你不知道哪一天你就不想要了。#le #les #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1981345417679044777",
+        "created_at": "2025-10-23T13:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T14:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981345417679044777"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "le"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "les"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981345417679044777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一定要珍惜还在的欲望，想去的地方、想吃的东西、想爱的人，因为你不知道哪一天你就不想要了。#le #les #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 7,
+          "like_count": 528,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 504
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

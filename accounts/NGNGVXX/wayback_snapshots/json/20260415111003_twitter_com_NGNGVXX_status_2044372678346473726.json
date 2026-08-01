@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043532369328791787",
+    "created_at": "2026-04-15T11:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044372678346473726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1709044381020459008",
+          "start": 0,
+          "username": "tinanna79835"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044372678346473726",
+    "in_reply_to_user_id": "1709044381020459008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044372300930470299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tinanna79835 遇到这样的事情我通常都会立马闭嘴结束聊天的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 254,
+        "media_key": "16_2044372292445376512",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HF8RxLfbkAAuIfZ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HF8RxLfbkAAuIfZ.mp4"
+          }
+        ],
+        "width": 350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043532369328791787",
+        "created_at": "2026-04-15T11:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044372678346473726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1709044381020459008",
+              "start": 0,
+              "username": "tinanna79835"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044372678346473726",
+        "in_reply_to_user_id": "1709044381020459008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044372300930470299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tinanna79835 遇到这样的事情我通常都会立马闭嘴结束聊天的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2044372292445376512"
+          ]
+        },
+        "author_id": "1709044381020459008",
+        "conversation_id": "2043532369328791787",
+        "created_at": "2026-04-15T11:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044372300930470299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sa4ZuOJPEe",
+              "end": 79,
+              "expanded_url": "https://x.com/tinanna79835/status/2044372300930470299/photo/1",
+              "media_key": "16_2044372292445376512",
+              "start": 56,
+              "url": "https://t.co/sa4ZuOJPEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044372300930470299",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044052881150750958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 其实单纯讲客观事实还好 但每次有点违心顺遂别人的话术对别人进行主观评价的时候又会在内心敲木鱼 https://t.co/sa4ZuOJPEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8309,
+          "following_count": 5,
+          "like_count": 1043,
+          "listed_count": 22,
+          "media_count": 101,
+          "tweet_count": 1967
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T03:15:16.000Z",
+        "description": "天下大同 天下女同",
+        "id": "1709044381020459008",
+        "name": "guilispring",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936104129929396225/gQWbTW3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 53,
+          "like_count": 1309,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 303
+        },
+        "username": "tinanna79835",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1982051389565292697",
+    "created_at": "2025-10-25T11:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T12:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982051389565292697"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 138,
+          "start": 134,
+          "tag": "les"
+        },
+        {
+          "end": 142,
+          "start": 139,
+          "tag": "le"
+        },
+        {
+          "end": 146,
+          "start": 143,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982051389565292697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果跟我谈恋爱我会是个神经病 我会监视你的社交app在线状态 你的异性朋友是怎么认识你的 为什么要点赞他们朋友圈和抖音 又为什么会和他们互相关注 这些我都想要 知道我需要你百分之两百的安全感和爱 如果感受到一丝丝的不对 我都会歇斯底里的质问你是不是真的有在爱我 ​​​#les #le #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1982051389565292697",
+        "created_at": "2025-10-25T11:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T12:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982051389565292697"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "les"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "le"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982051389565292697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果跟我谈恋爱我会是个神经病 我会监视你的社交app在线状态 你的异性朋友是怎么认识你的 为什么要点赞他们朋友圈和抖音 又为什么会和他们互相关注 这些我都想要 知道我需要你百分之两百的安全感和爱 如果感受到一丝丝的不对 我都会歇斯底里的质问你是不是真的有在爱我 ​​​#les #le #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 7,
+          "like_count": 533,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 520
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

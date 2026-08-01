@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2025190659620225499",
+    "created_at": "2026-02-21T12:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T13:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025190659620225499"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2025190659620225499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要的只是你爱我，可不是你恨我，哪儿来的那么多麻烦，要的只是简单的只是诚实的好好享受平凡，我要的一定是对的，因为我错过伤口偶尔还会疼，会好的一定会好的\n\n还有勇气恋爱的人啊。在劫难逃的天真"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2025190659620225499",
+        "created_at": "2026-02-21T12:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025190659620225499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025190659620225499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要的只是你爱我，可不是你恨我，哪儿来的那么多麻烦，要的只是简单的只是诚实的好好享受平凡，我要的一定是对的，因为我错过伤口偶尔还会疼，会好的一定会好的\n\n还有勇气恋爱的人啊。在劫难逃的天真"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7069,
+          "following_count": 5,
+          "like_count": 975,
+          "listed_count": 18,
+          "media_count": 81,
+          "tweet_count": 1407
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2028393619590361337",
+    "created_at": "2026-03-02T08:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T09:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028393619590361337"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028393619590361337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还是想说，就算是不带有恶意，也不要随意评价别人的痛苦。人的感受是不应该用来对比的。蔡康永有说过：不能够和痛苦中的人说你那个不痛，我这个才痛。\n\n每个人都有自己痛苦的尺度。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2028393619590361337",
+        "created_at": "2026-03-02T08:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028393619590361337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028393619590361337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是想说，就算是不带有恶意，也不要随意评价别人的痛苦。人的感受是不应该用来对比的。蔡康永有说过：不能够和痛苦中的人说你那个不痛，我这个才痛。\n\n每个人都有自己痛苦的尺度。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7349,
+          "following_count": 5,
+          "like_count": 973,
+          "listed_count": 18,
+          "media_count": 85,
+          "tweet_count": 1477
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

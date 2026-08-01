@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2044030383889805383",
+    "created_at": "2026-04-14T16:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044090094588702844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1818827668546371584",
+          "start": 0,
+          "username": "buibuibui233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044090094588702844",
+    "in_reply_to_user_id": "1818827668546371584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044082814153601424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buibuibui233 结婚不结婚是自己的选择，过什么样的婚姻生活也是自己的选择，别人的婚姻只是参考，选择权还是在自己的手中。当然你可以选择一条完全不一样的路，过你自己选择的生活。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2044030383889805383",
+        "created_at": "2026-04-14T16:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044090094588702844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1818827668546371584",
+              "start": 0,
+              "username": "buibuibui233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044090094588702844",
+        "in_reply_to_user_id": "1818827668546371584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044082814153601424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buibuibui233 结婚不结婚是自己的选择，过什么样的婚姻生活也是自己的选择，别人的婚姻只是参考，选择权还是在自己的手中。当然你可以选择一条完全不一样的路，过你自己选择的生活。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818827668546371584",
+        "conversation_id": "2044030383889805383",
+        "created_at": "2026-04-14T15:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044082814153601424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044082814153601424",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044030383889805383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 看清了，然后呢...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8290,
+          "following_count": 5,
+          "like_count": 1039,
+          "listed_count": 21,
+          "media_count": 100,
+          "tweet_count": 1949
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T01:54:54.000Z",
+        "description": "",
+        "id": "1818827668546371584",
+        "name": "爱吃喜多酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006193270540427264/QwAZ4JFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 86,
+          "like_count": 5586,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 196
+        },
+        "username": "buibuibui233",
+        "verified": false
+      }
+    ]
+  }
+}

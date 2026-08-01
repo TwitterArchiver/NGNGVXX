@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077425311223078912",
+        "3_2077425335126405120"
+      ]
+    },
+    "author_id": "2363856960",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077425343770837374",
+    "created_at": "2026-07-15T16:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077425343770837374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nEzO0HrXek",
+          "end": 39,
+          "expanded_url": "https://x.com/NGNGVXX/status/2077425343770837374/photo/1",
+          "media_key": "3_2077425311223078912",
+          "start": 16,
+          "url": "https://t.co/nEzO0HrXek"
+        },
+        {
+          "display_url": "pic.x.com/nEzO0HrXek",
+          "end": 39,
+          "expanded_url": "https://x.com/NGNGVXX/status/2077425343770837374/photo/1",
+          "media_key": "3_2077425335126405120",
+          "start": 16,
+          "url": "https://t.co/nEzO0HrXek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077425343770837374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "海洋馆里与蜡笔小新的场景再现🐟 https://t.co/nEzO0HrXek"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2077425311223078912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR_UFrbYAAXol7.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2077425335126405120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR_VeubMAABjKR.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077425311223078912",
+            "3_2077425335126405120"
+          ]
+        },
+        "author_id": "2363856960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077425343770837374",
+        "created_at": "2026-07-15T16:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077425343770837374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nEzO0HrXek",
+              "end": 39,
+              "expanded_url": "https://x.com/NGNGVXX/status/2077425343770837374/photo/1",
+              "media_key": "3_2077425311223078912",
+              "start": 16,
+              "url": "https://t.co/nEzO0HrXek"
+            },
+            {
+              "display_url": "pic.x.com/nEzO0HrXek",
+              "end": 39,
+              "expanded_url": "https://x.com/NGNGVXX/status/2077425343770837374/photo/1",
+              "media_key": "3_2077425335126405120",
+              "start": 16,
+              "url": "https://t.co/nEzO0HrXek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077425343770837374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "海洋馆里与蜡笔小新的场景再现🐟 https://t.co/nEzO0HrXek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10485,
+          "following_count": 6,
+          "like_count": 1205,
+          "listed_count": 30,
+          "media_count": 148,
+          "tweet_count": 3012
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

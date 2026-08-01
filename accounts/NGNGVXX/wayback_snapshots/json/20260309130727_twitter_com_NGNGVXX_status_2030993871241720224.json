@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030993860806197249"
+      ]
+    },
+    "author_id": "2363856960",
+    "conversation_id": "2030993871241720224",
+    "created_at": "2026-03-09T13:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030993871241720224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8OF6q0rTjC",
+          "end": 30,
+          "expanded_url": "https://x.com/NGNGVXX/status/2030993871241720224/photo/1",
+          "media_key": "3_2030993860806197249",
+          "start": 7,
+          "url": "https://t.co/8OF6q0rTjC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030993871241720224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "祝你像鸟一样 https://t.co/8OF6q0rTjC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1670,
+        "media_key": "3_2030993860806197249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-KJ95aQAEYGoU.jpg",
+        "width": 1307
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030993860806197249"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2030993871241720224",
+        "created_at": "2026-03-09T13:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030993871241720224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8OF6q0rTjC",
+              "end": 30,
+              "expanded_url": "https://x.com/NGNGVXX/status/2030993871241720224/photo/1",
+              "media_key": "3_2030993860806197249",
+              "start": 7,
+              "url": "https://t.co/8OF6q0rTjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030993871241720224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝你像鸟一样 https://t.co/8OF6q0rTjC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7469,
+          "following_count": 5,
+          "like_count": 971,
+          "listed_count": 19,
+          "media_count": 88,
+          "tweet_count": 1531
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

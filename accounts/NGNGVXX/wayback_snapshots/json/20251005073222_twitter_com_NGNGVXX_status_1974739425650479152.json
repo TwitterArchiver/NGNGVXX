@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1974739425650479152",
+    "created_at": "2025-10-05T07:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T08:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974739425650479152"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "le"
+        },
+        {
+          "end": 115,
+          "start": 111,
+          "tag": "les"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "女同"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974739425650479152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是你必须说全部密码给我知道，而是即使全部都不知道我都确定你不会犯错。安全感不是吵架时候你拉着我搂着我，而是即使冷战我都清楚知道你不会放走我。安全感就是我心甘情愿地全心信任你，同时你能毫无保留忠诚地珍惜我的信任。 #le #les #女同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1974739425650479152",
+        "created_at": "2025-10-05T07:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T08:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974739425650479152"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "le"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "les"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "女同"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974739425650479152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是你必须说全部密码给我知道，而是即使全部都不知道我都确定你不会犯错。安全感不是吵架时候你拉着我搂着我，而是即使冷战我都清楚知道你不会放走我。安全感就是我心甘情愿地全心信任你，同时你能毫无保留忠诚地珍惜我的信任。 #le #les #女同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 7,
+          "like_count": 523,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 466
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

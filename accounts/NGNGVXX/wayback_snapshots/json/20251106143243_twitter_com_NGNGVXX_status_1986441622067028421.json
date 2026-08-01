@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "1986441622067028421",
+    "created_at": "2025-11-06T14:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T15:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986441622067028421"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1986441622067028421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想谈那种老派的恋爱呀 恋爱要从收到一束花和正式的告白开始 靠短信联系 字斟句酌每条信息 用有线耳机分享音乐 花三个月或更久的时间相互了解 我羡慕七八十年代的爱情 一把纸伞几封情书 委婉相诉也能腼腆牵手到白头偕老 我受够了急功近利的即时聊天 快餐快节奏的恋爱 或许这不是老派 这是真挚且纯粹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "1986441622067028421",
+        "created_at": "2025-11-06T14:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986441622067028421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986441622067028421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想谈那种老派的恋爱呀 恋爱要从收到一束花和正式的告白开始 靠短信联系 字斟句酌每条信息 用有线耳机分享音乐 花三个月或更久的时间相互了解 我羡慕七八十年代的爱情 一把纸伞几封情书 委婉相诉也能腼腆牵手到白头偕老 我受够了急功近利的即时聊天 快餐快节奏的恋爱 或许这不是老派 这是真挚且纯粹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 7,
+          "like_count": 540,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 592
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

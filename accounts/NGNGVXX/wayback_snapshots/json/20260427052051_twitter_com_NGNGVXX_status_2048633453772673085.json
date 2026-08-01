@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2048616431189999735",
+    "created_at": "2026-04-27T05:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048633453772673085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1554575293264072705",
+          "start": 0,
+          "username": "aronhouyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048633453772673085",
+    "in_reply_to_user_id": "1554575293264072705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048631784997626349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aronhouyu 这里不提供免费打广告"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2048616431189999735",
+        "created_at": "2026-04-27T05:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048633453772673085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1554575293264072705",
+              "start": 0,
+              "username": "aronhouyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048633453772673085",
+        "in_reply_to_user_id": "1554575293264072705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048631784997626349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aronhouyu 这里不提供免费打广告"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554575293264072705",
+        "conversation_id": "2048616431189999735",
+        "created_at": "2026-04-27T05:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048631784997626349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048631784997626349",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048616431189999735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我是有钱的，正在谈恋爱的，无所谓出不出片的p人。\n\n可以费用全包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8817,
+          "following_count": 4,
+          "like_count": 1116,
+          "listed_count": 24,
+          "media_count": 105,
+          "tweet_count": 2098
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T21:10:16.000Z",
+        "description": "帮助创业者用 AI 工具 + 社媒 + 广告实现出海增长 \n| 已帮助 30+企业增长300%   关注我，一起出海\n博客：https://t.co/9UCgxXEGIO\n频道：https://t.co/eAdfCKLmDO\nTG频道：https://t.co/ZCaENFNiFI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aronhouyu.com",
+                "end": 85,
+                "expanded_url": "http://aronhouyu.com",
+                "start": 62,
+                "url": "https://t.co/9UCgxXEGIO"
+              },
+              {
+                "display_url": "youtube.com/@aronhouyu1024",
+                "end": 112,
+                "expanded_url": "https://www.youtube.com/@aronhouyu1024",
+                "start": 89,
+                "url": "https://t.co/eAdfCKLmDO"
+              },
+              {
+                "display_url": "t.me/aronhouyu1024",
+                "end": 141,
+                "expanded_url": "http://t.me/aronhouyu1024",
+                "start": 118,
+                "url": "https://t.co/ZCaENFNiFI"
+              }
+            ]
+          }
+        },
+        "id": "1554575293264072705",
+        "location": "哈尔滨",
+        "name": "Aron厚玉",
+        "pinned_tweet_id": "2037099088689455613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018025040416231424/jaAfcF8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5796,
+          "following_count": 1334,
+          "like_count": 1361,
+          "listed_count": 52,
+          "media_count": 657,
+          "tweet_count": 3407
+        },
+        "username": "aronhouyu",
+        "verified": true
+      }
+    ]
+  }
+}

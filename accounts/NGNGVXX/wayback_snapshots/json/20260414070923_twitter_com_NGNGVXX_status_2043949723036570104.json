@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2043705052532244796",
+    "created_at": "2026-04-14T07:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043949723036570104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1879073913176752128",
+          "start": 0,
+          "username": "tufei299"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043949723036570104",
+    "in_reply_to_user_id": "1879073913176752128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043920047220134055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tufei299 哎哟，不像你们自闭国，我可不需要翻墙哦😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2043705052532244796",
+        "created_at": "2026-04-14T07:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043949723036570104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1879073913176752128",
+              "start": 0,
+              "username": "tufei299"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043949723036570104",
+        "in_reply_to_user_id": "1879073913176752128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043920047220134055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tufei299 哎哟，不像你们自闭国，我可不需要翻墙哦😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879073913176752128",
+        "conversation_id": "2043705052532244796",
+        "created_at": "2026-04-14T05:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043920047220134055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043920047220134055",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043705052532244796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 初中毕业再来翻墙好嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "喜欢我可以给我打钱",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8284,
+          "following_count": 5,
+          "like_count": 1010,
+          "listed_count": 21,
+          "media_count": 99,
+          "tweet_count": 1899
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T07:51:56.000Z",
+        "description": "昨日看花花灼灼",
+        "id": "1879073913176752128",
+        "location": "紫阳街",
+        "name": "灼灼长安8964",
+        "pinned_tweet_id": "1919034846015602791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023812010610491392/xBq7dKzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 129,
+          "like_count": 5463,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 2834
+        },
+        "username": "tufei299",
+        "verified": false
+      }
+    ]
+  }
+}
