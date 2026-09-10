@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2094269305068412997",
+    "created_at": "2026-08-31T14:20:53.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094430225304293447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1251202667377909760",
+          "start": 0,
+          "username": "atm_985"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094430225304293447",
+    "in_reply_to_user_id": "1251202667377909760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094425048069337090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@atm_985 跟你一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2094269305068412997",
+        "created_at": "2026-08-31T14:20:53.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094430225304293447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1251202667377909760",
+              "start": 0,
+              "username": "atm_985"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094430225304293447",
+        "in_reply_to_user_id": "1251202667377909760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094425048069337090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@atm_985 跟你一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251202667377909760",
+        "conversation_id": "2094269305068412997",
+        "created_at": "2026-08-31T14:00:18.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094425048069337090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094425048069337090",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094269305068412997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 垃圾世面"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094430225304293447",
+        "name": "32号就恋爱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11721,
+          "following_count": 5,
+          "like_count": 1215,
+          "listed_count": 36,
+          "media_count": 168,
+          "tweet_count": 3612
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-17T17:35:44.000Z",
+        "description": "因为想过更好的生活，所以正在拼搏。",
+        "id": "1251202667377909760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094425048069337090",
+        "name": "atm_985",
+        "pinned_tweet_id": "1779709839863857496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251202667377909760/1671782828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606200270710444032/FXgBIgTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 58,
+          "like_count": 1115,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 2385
+        },
+        "url": "",
+        "username": "atm_985",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

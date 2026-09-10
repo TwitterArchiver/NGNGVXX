@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2094317725426577714",
+    "created_at": "2026-08-31T06:53:50.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T07:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094317725426577714"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094317725426577714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只有笨蛋才会没有底线地善良，一旦你好人做到一定的地步，就失去了原则和尊严，传达给别人的意思就是，可以随便践踏你。\n\n别人根本不怕会不会得罪你，而你却战战兢兢、小心翼翼。\n\n别傻了，凡是对你没有尊重的人，完全不需要客气，只有软弱无能的人，才对所有人都好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2094317725426577714",
+        "created_at": "2026-08-31T06:53:50.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094317725426577714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094317725426577714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有笨蛋才会没有底线地善良，一旦你好人做到一定的地步，就失去了原则和尊严，传达给别人的意思就是，可以随便践踏你。\n\n别人根本不怕会不会得罪你，而你却战战兢兢、小心翼翼。\n\n别傻了，凡是对你没有尊重的人，完全不需要客气，只有软弱无能的人，才对所有人都好。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094317725426577714",
+        "name": "32号就恋爱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11661,
+          "following_count": 5,
+          "like_count": 1213,
+          "listed_count": 36,
+          "media_count": 168,
+          "tweet_count": 3607
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

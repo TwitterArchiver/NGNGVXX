@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2084144931631976519",
+    "created_at": "2026-08-04T14:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084642522765394040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "775603683794923520",
+          "start": 0,
+          "username": "better_christal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084642522765394040",
+    "in_reply_to_user_id": "775603683794923520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084637480599642442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@better_christal 真的！小小的震撼了我一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2084144931631976519",
+        "created_at": "2026-08-04T14:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084642522765394040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "775603683794923520",
+              "start": 0,
+              "username": "better_christal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084642522765394040",
+        "in_reply_to_user_id": "775603683794923520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084637480599642442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@better_christal 真的！小小的震撼了我一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "775603683794923520",
+        "conversation_id": "2084144931631976519",
+        "created_at": "2026-08-04T13:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084637480599642442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084637480599642442",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084144931631976519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 把阻碍他们的东西叫刺，这比喻绝了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11001,
+          "following_count": 5,
+          "like_count": 1225,
+          "listed_count": 32,
+          "media_count": 161,
+          "tweet_count": 3323
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-13T07:55:03.000Z",
+        "description": "📍 分享AI搞钱信息差 + 实战落地路径\n🧠 专注帮普通人用AI赚第一桶金\n🉑 提供：内容系统搭建 · 副业闭环设计 · 增长咨询\n🔥 置顶帖 38万阅读：《中国人Reddit赚钱指南》",
+        "id": "775603683794923520",
+        "name": "Christal.Z",
+        "pinned_tweet_id": "2056218181149282775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055191526733656064/4i6cJurF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8555,
+          "following_count": 387,
+          "like_count": 2183,
+          "listed_count": 44,
+          "media_count": 99,
+          "tweet_count": 5295
+        },
+        "url": "",
+        "username": "better_christal",
+        "verified": true
+      }
+    ]
+  }
+}

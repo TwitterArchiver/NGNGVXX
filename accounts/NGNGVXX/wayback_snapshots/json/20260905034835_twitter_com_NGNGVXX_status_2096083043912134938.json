@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2095845948618629456",
+    "created_at": "2026-09-05T03:48:35.000Z",
+    "display_text_range": [
+      14,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T04:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096083043912134938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883841097102954496",
+          "start": 0,
+          "username": "Auroraice999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096083043912134938",
+    "in_reply_to_user_id": "1883841097102954496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095952194222932090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Auroraice999 在这些商家的逻辑里，不需要符合现实，只需要符合老板的幻想即可"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2095845948618629456",
+        "created_at": "2026-09-05T03:48:35.000Z",
+        "display_text_range": [
+          14,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096083043912134938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883841097102954496",
+              "start": 0,
+              "username": "Auroraice999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096083043912134938",
+        "in_reply_to_user_id": "1883841097102954496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095952194222932090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Auroraice999 在这些商家的逻辑里，不需要符合现实，只需要符合老板的幻想即可"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883841097102954496",
+        "conversation_id": "2095845948618629456",
+        "created_at": "2026-09-04T19:08:38.000Z",
+        "display_text_range": [
+          9,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T20:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095952194222932090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095952194222932090",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095845948618629456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 逻辑不适合现实，悄咪的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096083043912134938",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2094788050329141292",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11917,
+          "following_count": 5,
+          "like_count": 1218,
+          "listed_count": 36,
+          "media_count": 168,
+          "tweet_count": 3639
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-27T11:35:16.000Z",
+        "description": "",
+        "id": "1883841097102954496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096069447429886061",
+        "name": "Aurora ice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883841097102954496/1738052903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884156507354456067/urCeJ9Q-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 64,
+          "like_count": 8392,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 5337
+        },
+        "url": "",
+        "username": "Auroraice999",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

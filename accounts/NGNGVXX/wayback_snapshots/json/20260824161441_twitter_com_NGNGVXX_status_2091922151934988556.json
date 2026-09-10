@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2091699069903306932",
+    "created_at": "2026-08-24T16:14:41.000Z",
+    "display_text_range": [
+      10,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T17:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091922151934988556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987109474868547584",
+          "start": 0,
+          "username": "momov520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091922151934988556",
+    "in_reply_to_user_id": "1987109474868547584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091821600912068905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momov520 也是，婚姻本来就和爱情没有任何关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2091699069903306932",
+        "created_at": "2026-08-24T16:14:41.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091922151934988556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987109474868547584",
+              "start": 0,
+              "username": "momov520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091922151934988556",
+        "in_reply_to_user_id": "1987109474868547584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091821600912068905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momov520 也是，婚姻本来就和爱情没有任何关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987109474868547584",
+        "conversation_id": "2091699069903306932",
+        "created_at": "2026-08-24T09:35:08.000Z",
+        "display_text_range": [
+          9,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091821600912068905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091821600912068905",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091699069903306932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我理解的婚姻制度本质就是资源整合，建立的基础是女性没办法通过其他方式独立占有资源只能出卖身体换取自身稳定的生活。\n这套制度本身就不是为了爱情建立的，感情和道德只是为了让交易变得好听一点，且让产品相信这是件好事，自发的保障产品质量。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091922151934988556",
+        "name": "32号就恋爱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11526,
+          "following_count": 5,
+          "like_count": 1205,
+          "listed_count": 37,
+          "media_count": 167,
+          "tweet_count": 3517
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T10:46:51.000Z",
+        "description": "喜欢美好的事物💕",
+        "id": "1987109474868547584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091821600912068905",
+        "name": "riu",
+        "pinned_tweet_id": "2037667180414951509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987109474868547584/1762644067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987110930938011653/EcOxOwn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 134,
+          "like_count": 4755,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 387
+        },
+        "url": "",
+        "username": "momov520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

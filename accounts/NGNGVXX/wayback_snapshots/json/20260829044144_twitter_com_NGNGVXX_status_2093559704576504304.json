@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2093290220376723547",
+    "created_at": "2026-08-29T04:41:44.000Z",
+    "display_text_range": [
+      11,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T05:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093559704576504304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2070440431922606080",
+          "start": 0,
+          "username": "Lucasuaxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093559704576504304",
+    "in_reply_to_user_id": "2070440431922606080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093547633877057962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucasuaxn 那你还真的是活在自己的世界了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2093290220376723547",
+        "created_at": "2026-08-29T04:41:44.000Z",
+        "display_text_range": [
+          11,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T05:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093559704576504304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2070440431922606080",
+              "start": 0,
+              "username": "Lucasuaxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093559704576504304",
+        "in_reply_to_user_id": "2070440431922606080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093547633877057962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucasuaxn 那你还真的是活在自己的世界了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070440431922606080",
+        "conversation_id": "2093290220376723547",
+        "created_at": "2026-08-29T03:53:46.000Z",
+        "display_text_range": [
+          9,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T04:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093547633877057962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093547633877057962",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093290220376723547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 没有说孙好的意思，但男明星被前任爆隐私，薛之谦，霍尊，王力宏被爆隐私，都夸姐妹好棒捏，性别一换就是罪大恶极了，无非就是一群以景甜为目标的低级母狗破防了而已，她们花尽心思好不容易让自己又黑又松的老臭逼稍微高级一点，没想到这么高级的母狗都能被白嫖，给它们的事业带来毁灭性打击当然破防了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093559704576504304",
+        "name": "32号就恋爱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11564,
+          "following_count": 5,
+          "like_count": 1205,
+          "listed_count": 36,
+          "media_count": 168,
+          "tweet_count": 3567
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T09:34:51.000Z",
+        "description": "",
+        "id": "2070440431922606080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093559409490415787",
+        "name": "Lucas",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 18,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "Lucasuaxn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

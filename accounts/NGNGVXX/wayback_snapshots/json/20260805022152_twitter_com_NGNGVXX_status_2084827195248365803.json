@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2084280086782791744",
+    "created_at": "2026-08-05T02:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T03:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084827195248365803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2073445891789258752",
+          "start": 0,
+          "username": "Mimo_susu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084827195248365803",
+    "in_reply_to_user_id": "2073445891789258752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084376468038000987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimo_susu 算的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2084280086782791744",
+        "created_at": "2026-08-05T02:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084827195248365803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2073445891789258752",
+              "start": 0,
+              "username": "Mimo_susu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084827195248365803",
+        "in_reply_to_user_id": "2073445891789258752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084376468038000987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimo_susu 算的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073445891789258752",
+        "conversation_id": "2084280086782791744",
+        "created_at": "2026-08-03T20:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T21:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084376468038000987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084376468038000987",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084280086782791744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 那我要是帮助了我认为可怜的人 算介入他的因果吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11027,
+          "following_count": 5,
+          "like_count": 1225,
+          "listed_count": 32,
+          "media_count": 161,
+          "tweet_count": 3324
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-04T16:45:14.000Z",
+        "description": "",
+        "id": "2073445891789258752",
+        "name": "Mimo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073448407058759680/nL28Dii3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Mimo_susu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2093204864478404826",
+    "created_at": "2026-08-29T04:34:55.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T05:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093557987499704403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1187557870293811201",
+          "start": 0,
+          "username": "FbTbqZESJKoXFO4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093557987499704403",
+    "in_reply_to_user_id": "1187557870293811201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093403211956699430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FbTbqZESJKoXFO4 自己赚钱很难吗傻屌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2093204864478404826",
+        "created_at": "2026-08-29T04:34:55.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T05:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093557987499704403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1187557870293811201",
+              "start": 0,
+              "username": "FbTbqZESJKoXFO4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093557987499704403",
+        "in_reply_to_user_id": "1187557870293811201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093403211956699430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FbTbqZESJKoXFO4 自己赚钱很难吗傻屌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1187557870293811201",
+        "conversation_id": "2093204864478404826",
+        "created_at": "2026-08-28T18:19:53.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T19:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093403211956699430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093403211956699430",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093204864478404826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 那也得能遇到有钱的傻逼才行"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093557987499704403",
+        "name": "32号就恋爱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11564,
+          "following_count": 5,
+          "like_count": 1204,
+          "listed_count": 36,
+          "media_count": 168,
+          "tweet_count": 3564
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-25T02:34:05.000Z",
+        "description": "加密结束了。",
+        "id": "1187557870293811201",
+        "is_identity_verified": false,
+        "location": "Xiamen",
+        "most_recent_tweet_id": "2093403211956699430",
+        "name": "悟辰.eth🔮🧙",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879461345537806336/eCp8Dsks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 3985,
+          "like_count": 390,
+          "listed_count": 5,
+          "media_count": 83,
+          "tweet_count": 4120
+        },
+        "url": "",
+        "username": "FbTbqZESJKoXFO4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

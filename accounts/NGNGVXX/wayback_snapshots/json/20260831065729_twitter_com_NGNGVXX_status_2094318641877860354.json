@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2094265810315592111",
+    "created_at": "2026-08-31T06:57:29.000Z",
+    "display_text_range": [
+      17,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T07:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094318641877860354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1236499471854338048",
+          "start": 0,
+          "username": "0KUZyDjaoC8FFNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094318641877860354",
+    "in_reply_to_user_id": "1236499471854338048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094316094718894557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0KUZyDjaoC8FFNZ 人，拥有独立思考的能力，很重要。显然，你没有这个能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2094265810315592111",
+        "created_at": "2026-08-31T06:57:29.000Z",
+        "display_text_range": [
+          17,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094318641877860354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1236499471854338048",
+              "start": 0,
+              "username": "0KUZyDjaoC8FFNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094318641877860354",
+        "in_reply_to_user_id": "1236499471854338048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094316094718894557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0KUZyDjaoC8FFNZ 人，拥有独立思考的能力，很重要。显然，你没有这个能力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236499471854338048",
+        "conversation_id": "2094265810315592111",
+        "created_at": "2026-08-31T06:47:22.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094316094718894557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094316094718894557",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094265810315592111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 少用点ai造文案"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094318641877860354",
+        "name": "32号就恋爱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11661,
+          "following_count": 5,
+          "like_count": 1213,
+          "listed_count": 36,
+          "media_count": 168,
+          "tweet_count": 3608
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-08T03:50:34.000Z",
+        "description": "",
+        "id": "1236499471854338048",
+        "is_identity_verified": false,
+        "location": "挪威",
+        "most_recent_tweet_id": "2094316094718894557",
+        "name": "乐子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236499471854338048/1673618728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830653799071137792/2PTsUtwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 118,
+          "like_count": 9825,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 800
+        },
+        "url": "",
+        "username": "0KUZyDjaoC8FFNZ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

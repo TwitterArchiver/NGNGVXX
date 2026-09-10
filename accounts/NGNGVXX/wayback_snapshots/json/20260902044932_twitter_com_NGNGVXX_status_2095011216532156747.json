@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2094643500692480201",
+    "created_at": "2026-09-02T04:49:32.000Z",
+    "display_text_range": [
+      8,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T05:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095011216532156747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2094087034155708416",
+          "start": 0,
+          "username": "3qy69f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095011216532156747",
+    "in_reply_to_user_id": "2094087034155708416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094824856676450576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3qy69f 难怪你们那么喜欢在街边尿尿了，公德心这东西的确不是每一个人都有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2094643500692480201",
+        "created_at": "2026-09-02T04:49:32.000Z",
+        "display_text_range": [
+          8,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095011216532156747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2094087034155708416",
+              "start": 0,
+              "username": "3qy69f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095011216532156747",
+        "in_reply_to_user_id": "2094087034155708416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094824856676450576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3qy69f 难怪你们那么喜欢在街边尿尿了，公德心这东西的确不是每一个人都有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094087034155708416",
+        "conversation_id": "2094643500692480201",
+        "created_at": "2026-09-01T16:29:00.000Z",
+        "display_text_range": [
+          9,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094824856676450576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094824856676450576",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094643500692480201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 所以不要在天台流泪，去天台尿尿吧！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095011216532156747",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2094788050329141292",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11865,
+          "following_count": 5,
+          "like_count": 1217,
+          "listed_count": 36,
+          "media_count": 168,
+          "tweet_count": 3626
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T15:37:49.000Z",
+        "description": "梦想是拥有动物园",
+        "id": "2094087034155708416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094824856676450576",
+        "name": "咔咔KaKa",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094087034155708416/1788105085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094087399110520833/beL2cR3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "3qy69f",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

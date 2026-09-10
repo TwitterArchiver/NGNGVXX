@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2083135086363656664",
+    "created_at": "2026-08-01T03:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083393228909453714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1494404014389477376",
+          "start": 0,
+          "username": "Jerry_Leibniz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083393228909453714",
+    "in_reply_to_user_id": "1494404014389477376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083345641988886841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jerry_Leibniz 然后？你这样评论有意思吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2083135086363656664",
+        "created_at": "2026-08-01T03:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083393228909453714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1494404014389477376",
+              "start": 0,
+              "username": "Jerry_Leibniz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083393228909453714",
+        "in_reply_to_user_id": "1494404014389477376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083345641988886841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jerry_Leibniz 然后？你这样评论有意思吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494404014389477376",
+        "conversation_id": "2083135086363656664",
+        "created_at": "2026-08-01T00:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083345641988886841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083345641988886841",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083135086363656664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 每次看到这种评论，我都必须评论一句，我不理他是真的，他不理我是假的。整天搞幸存者偏差，有意思吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10826,
+          "following_count": 5,
+          "like_count": 1225,
+          "listed_count": 31,
+          "media_count": 160,
+          "tweet_count": 3279
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-17T20:11:16.000Z",
+        "description": "人の世のものとは見えぬ桜の花",
+        "id": "1494404014389477376",
+        "name": "鈴木あかね",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1494405652084826113/9phRfseZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 136,
+          "like_count": 112010,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 1937
+        },
+        "url": "",
+        "username": "Jerry_Leibniz",
+        "verified": false
+      }
+    ]
+  }
+}

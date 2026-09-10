@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2093566116669075611",
+    "created_at": "2026-08-29T14:40:07.000Z",
+    "display_text_range": [
+      13,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T15:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093710292480065591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884490601770672128",
+          "start": 0,
+          "username": "shgdi184733"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093710292480065591",
+    "in_reply_to_user_id": "1884490601770672128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093671542295245179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shgdi184733 这是你的福报，不必和烂人烂事纠缠，过好自己的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2093566116669075611",
+        "created_at": "2026-08-29T14:40:07.000Z",
+        "display_text_range": [
+          13,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T15:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093710292480065591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884490601770672128",
+              "start": 0,
+              "username": "shgdi184733"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093710292480065591",
+        "in_reply_to_user_id": "1884490601770672128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093671542295245179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shgdi184733 这是你的福报，不必和烂人烂事纠缠，过好自己的生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884490601770672128",
+        "conversation_id": "2093566116669075611",
+        "created_at": "2026-08-29T12:06:08.000Z",
+        "display_text_range": [
+          9,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093671542295245179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093671542295245179",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093566116669075611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 不知道为什么我很少有喜欢的人  但我对任何男人女人跨性别都没有兴趣  真的有点诡异了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093710292480065591",
+        "name": "32号就恋爱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11584,
+          "following_count": 5,
+          "like_count": 1212,
+          "listed_count": 36,
+          "media_count": 168,
+          "tweet_count": 3587
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T06:36:09.000Z",
+        "description": "没能成为于你而言重要的人真是抱歉，我是个没有未来的人，我活一天就爱你一天呀。",
+        "id": "1884490601770672128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093692112110027161",
+        "name": "總而言之你很可愛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884490601770672128/1787721473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092268395987415040/UX-FP1sN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 157,
+          "like_count": 1514,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "shgdi184733",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

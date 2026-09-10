@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2084127619986211212",
+    "created_at": "2026-08-03T11:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084233189850251450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1779132985666863104",
+          "start": 0,
+          "username": "BabyYu79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084233189850251450",
+    "in_reply_to_user_id": "1779132985666863104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084161311064375783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BabyYu79 对阿！！！为什么！！！！我不理解！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2084127619986211212",
+        "created_at": "2026-08-03T11:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084233189850251450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1779132985666863104",
+              "start": 0,
+              "username": "BabyYu79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084233189850251450",
+        "in_reply_to_user_id": "1779132985666863104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084161311064375783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabyYu79 对阿！！！为什么！！！！我不理解！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779132985666863104",
+        "conversation_id": "2084127619986211212",
+        "created_at": "2026-08-03T06:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084161311064375783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084161311064375783",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084127619986211212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 就是 为啥要掉头发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10926,
+          "following_count": 5,
+          "like_count": 1225,
+          "listed_count": 32,
+          "media_count": 161,
+          "tweet_count": 3308
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T13:02:29.000Z",
+        "description": "本人发什么纯属巧合 想发啥发啥 要骂我给我钱噻^_^你打我噻",
+        "id": "1779132985666863104",
+        "name": "坤吧主理人",
+        "pinned_tweet_id": "1930997412589416611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083632941339680768/PGRk6O7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 36,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "BabyYu79",
+        "verified": false
+      }
+    ]
+  }
+}

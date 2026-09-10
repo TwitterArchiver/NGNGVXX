@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2091381504329056397",
+    "created_at": "2026-08-23T06:23:15.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T07:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091410926042058945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547554329766203393",
+          "start": 0,
+          "username": "ingingaeri0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091410926042058945",
+    "in_reply_to_user_id": "1547554329766203393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091400714304327711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ingingaeri0101 你串台了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2091381504329056397",
+        "created_at": "2026-08-23T06:23:15.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T07:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091410926042058945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547554329766203393",
+              "start": 0,
+              "username": "ingingaeri0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091410926042058945",
+        "in_reply_to_user_id": "1547554329766203393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091400714304327711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ingingaeri0101 你串台了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547554329766203393",
+        "conversation_id": "2091381504329056397",
+        "created_at": "2026-08-23T05:42:41.000Z",
+        "display_text_range": [
+          9,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091400714304327711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091400714304327711",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091381504329056397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我怎么记得你的名字之前是32号就开学💦看忘了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091410926042058945",
+        "name": "32号就恋爱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11534,
+          "following_count": 5,
+          "like_count": 1205,
+          "listed_count": 37,
+          "media_count": 167,
+          "tweet_count": 3509
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-14T12:14:10.000Z",
+        "description": "I don't need a man just accessories",
+        "id": "1547554329766203393",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091404540100890943",
+        "name": "gigi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547554329766203393/1765188762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009484897703088131/1JnVeDTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 185,
+          "like_count": 29763,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 4181
+        },
+        "url": "",
+        "username": "ingingaeri0101",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
