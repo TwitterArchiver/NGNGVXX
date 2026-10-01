@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2100257095153221885",
+    "created_at": "2026-09-17T08:07:16.000Z",
+    "display_text_range": [
+      17,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100496797882065170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1498667146934722567",
+          "start": 0,
+          "username": "VivianQ91395561"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100496797882065170",
+    "in_reply_to_user_id": "1498667146934722567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100483346119758292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VivianQ91395561 只能说那群疯子还没货到你这个年纪也没有你这阅历"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2100257095153221885",
+        "created_at": "2026-09-17T08:07:16.000Z",
+        "display_text_range": [
+          17,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100496797882065170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498667146934722567",
+              "start": 0,
+              "username": "VivianQ91395561"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100496797882065170",
+        "in_reply_to_user_id": "1498667146934722567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100483346119758292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VivianQ91395561 只能说那群疯子还没货到你这个年纪也没有你这阅历"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498667146934722567",
+        "conversation_id": "2100257095153221885",
+        "created_at": "2026-09-17T07:13:49.000Z",
+        "display_text_range": [
+          9,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T08:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100483346119758292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100483346119758292",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100257095153221885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 上次我说 人活到后来会发现  最愿意花钱买的是和普通人隔离 …… 结果跳出来一个疯子骂我……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100496797882065170",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12417,
+          "following_count": 5,
+          "like_count": 1236,
+          "listed_count": 36,
+          "media_count": 170,
+          "tweet_count": 3787
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-01T14:31:28.000Z",
+        "description": "travel, live in the mediterranean 凌驾于人权之上的所有东西都是罪恶的",
+        "id": "1498667146934722567",
+        "is_identity_verified": false,
+        "location": "Cyprus",
+        "most_recent_tweet_id": "2100493953556439052",
+        "name": "VivianQ",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778106154498818048/XN2aQd4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 203,
+          "like_count": 39747,
+          "listed_count": 11,
+          "media_count": 151,
+          "tweet_count": 41304
+        },
+        "url": "",
+        "username": "VivianQ91395561",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

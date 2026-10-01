@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2098624579199775175",
+    "created_at": "2026-09-12T10:04:49.000Z",
+    "display_text_range": [
+      16,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T11:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098714438966915193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1661295136708636674",
+          "start": 0,
+          "username": "Cotton__master"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098714438966915193",
+    "in_reply_to_user_id": "1661295136708636674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098701940523704357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cotton__master 那你就不要怪别人转身就离开你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2098624579199775175",
+        "created_at": "2026-09-12T10:04:49.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098714438966915193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1661295136708636674",
+              "start": 0,
+              "username": "Cotton__master"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098714438966915193",
+        "in_reply_to_user_id": "1661295136708636674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098701940523704357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cotton__master 那你就不要怪别人转身就离开你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661295136708636674",
+        "conversation_id": "2098624579199775175",
+        "created_at": "2026-09-12T09:15:09.000Z",
+        "display_text_range": [
+          9,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098701940523704357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098701940523704357",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098624579199775175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 🫢我就不说 我就阴阳怪气 我就冷处理 我就大不了拜拜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098714438966915193",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12119,
+          "following_count": 5,
+          "like_count": 1226,
+          "listed_count": 36,
+          "media_count": 170,
+          "tweet_count": 3718
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-24T08:56:51.000Z",
+        "description": "这里...应该没有熟人...偷偷标记/ENTJ  不约调",
+        "id": "1661295136708636674",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098708999655104987",
+        "name": "kapok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1661295136708636674/1716231932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792567805902307329/NSeVHm_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 89,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "Cotton__master",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

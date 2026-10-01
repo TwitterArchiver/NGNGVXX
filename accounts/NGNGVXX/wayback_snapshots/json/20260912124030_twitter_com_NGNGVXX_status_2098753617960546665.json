@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2098624579199775175",
+    "created_at": "2026-09-12T12:40:30.000Z",
+    "display_text_range": [
+      13,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T13:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098753617960546665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767598726192009220",
+          "start": 0,
+          "username": "tututubaooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098753617960546665",
+    "in_reply_to_user_id": "1767598726192009220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098736478184747503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tututubaooo 所以说他不爱你阿，他只是喜欢有人顺着他的感觉，他喜欢奴役别人，因为奴隶不会害怕失去主人，明白了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2098624579199775175",
+        "created_at": "2026-09-12T12:40:30.000Z",
+        "display_text_range": [
+          13,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098753617960546665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767598726192009220",
+              "start": 0,
+              "username": "tututubaooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098753617960546665",
+        "in_reply_to_user_id": "1767598726192009220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098736478184747503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tututubaooo 所以说他不爱你阿，他只是喜欢有人顺着他的感觉，他喜欢奴役别人，因为奴隶不会害怕失去主人，明白了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767598726192009220",
+        "conversation_id": "2098624579199775175",
+        "created_at": "2026-09-12T11:32:23.000Z",
+        "display_text_range": [
+          9,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098736478184747503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098736478184747503",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098624579199775175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 我说了，然后我被骂了。说我小气，嘴上说都顺着我其实只要表达的没有让对方满意就要被攻击洗脑到同意对方为止。我说，我害怕失去你。他说，你不应该害怕，你害怕就是不相信我你这样让我很失望。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098753617960546665",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12133,
+          "following_count": 5,
+          "like_count": 1226,
+          "listed_count": 36,
+          "media_count": 170,
+          "tweet_count": 3726
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-12T17:09:27.000Z",
+        "description": "就是一个二点五次元罢鸟。",
+        "id": "1767598726192009220",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098736478184747503",
+        "name": "一只肥肥兔",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085115485365157888/M584NGZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 33,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "tututubaooo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

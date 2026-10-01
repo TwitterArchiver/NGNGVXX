@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2104432115085615418",
+    "created_at": "2026-09-28T04:44:49.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T05:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104432115085615418"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104432115085615418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我太欣赏“付出者富有”这个概念了。就是底色浅薄的人,是接不住真诚的。大多数人在接触真诚的第一反应会滋生出轻蔑、傲慢、会蹬鼻子上脸，会以一种上位者心态，理所应当的，以为你是下位者，觉得你好拿捏。\n相反，有些人本身就拥有充盈的爱，所以才毫不吝啬的去爱人。人是接不住本身没有的品质和东西的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2104432115085615418",
+        "created_at": "2026-09-28T04:44:49.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104432115085615418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104432115085615418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我太欣赏“付出者富有”这个概念了。就是底色浅薄的人,是接不住真诚的。大多数人在接触真诚的第一反应会滋生出轻蔑、傲慢、会蹬鼻子上脸，会以一种上位者心态，理所应当的，以为你是下位者，觉得你好拿捏。\n相反，有些人本身就拥有充盈的爱，所以才毫不吝啬的去爱人。人是接不住本身没有的品质和东西的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104432115085615418",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12731,
+          "following_count": 5,
+          "like_count": 1237,
+          "listed_count": 36,
+          "media_count": 170,
+          "tweet_count": 3846
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2098624579199775175",
+    "created_at": "2026-09-12T16:43:55.000Z",
+    "display_text_range": [
+      17,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098814876978405575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2045207387385270272",
+          "start": 0,
+          "username": "dinstantbluesky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098814876978405575",
+    "in_reply_to_user_id": "2045207387385270272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098814155717533809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dinstantbluesky 放心吧，温柔善良的人都会被上天眷顾的，你一定会遇见那个放心让你表达任何情绪的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2098624579199775175",
+        "created_at": "2026-09-12T16:43:55.000Z",
+        "display_text_range": [
+          17,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098814876978405575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045207387385270272",
+              "start": 0,
+              "username": "dinstantbluesky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098814876978405575",
+        "in_reply_to_user_id": "2045207387385270272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098814155717533809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dinstantbluesky 放心吧，温柔善良的人都会被上天眷顾的，你一定会遇见那个放心让你表达任何情绪的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045207387385270272",
+        "conversation_id": "2098624579199775175",
+        "created_at": "2026-09-12T16:41:03.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098814155717533809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098814155717533809",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098813709879771283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 谢谢您，您真的温柔又美丽。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098814876978405575",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12169,
+          "following_count": 5,
+          "like_count": 1228,
+          "listed_count": 36,
+          "media_count": 170,
+          "tweet_count": 3748
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-17T18:29:56.000Z",
+        "description": "喜欢诗，喜欢读书，也喜欢写作，特别喜欢人世间的情感，如果您来找我，或许和您的关系也可以成为我的素材。\n不时会发布一些自己写的诗歌。\n因为我很孤独，万般繁琐缠身，所以想要交到朋友。\n愿您能够活在世界上，愿您的每一天都过得很棒，愿您幸福愿您安康，愿您得到真挚而美好的爱，愿您能够享受一万个拥抱。",
+        "id": "2045207387385270272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098814807311024604",
+        "name": "blue Sky Line",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045207387385270272/1789146318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098457687096999936/N_OVGX1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 76,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "dinstantbluesky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

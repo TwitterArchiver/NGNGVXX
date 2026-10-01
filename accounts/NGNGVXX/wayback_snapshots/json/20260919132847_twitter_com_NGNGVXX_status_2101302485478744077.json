@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2100910699832815666",
+    "created_at": "2026-09-19T13:28:47.000Z",
+    "display_text_range": [
+      7,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101302485478744077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1965100489475059712",
+          "start": 0,
+          "username": "Ne8Ac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101302485478744077",
+    "in_reply_to_user_id": "1965100489475059712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101210134387335517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ne8Ac 你的脑子还在吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2100910699832815666",
+        "created_at": "2026-09-19T13:28:47.000Z",
+        "display_text_range": [
+          7,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101302485478744077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1965100489475059712",
+              "start": 0,
+              "username": "Ne8Ac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101302485478744077",
+        "in_reply_to_user_id": "1965100489475059712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101210134387335517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ne8Ac 你的脑子还在吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965100489475059712",
+        "conversation_id": "2100910699832815666",
+        "created_at": "2026-09-19T07:21:49.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101210134387335517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101210134387335517",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 488,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100910699832815666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 你别传播焦虑了…有钱不用说早去了行吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101302485478744077",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12517,
+          "following_count": 5,
+          "like_count": 1236,
+          "listed_count": 36,
+          "media_count": 170,
+          "tweet_count": 3793
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-08T17:10:53.000Z",
+        "description": "",
+        "id": "1965100489475059712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101210134387335517",
+        "name": "N",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096682753387528192/8OWYjs63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 2,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "Ne8Ac",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2098723003718938983",
+    "created_at": "2026-09-12T16:58:02.000Z",
+    "display_text_range": [
+      36,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098818429352661099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016851434722250752",
+          "start": 0,
+          "username": "MaiselX29705"
+        },
+        {
+          "end": 21,
+          "id": "2046244035690708992",
+          "start": 14,
+          "username": "ToT888"
+        },
+        {
+          "end": 35,
+          "id": "2075150602040918016",
+          "start": 22,
+          "username": "Xiongbaba888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098818429352661099",
+    "in_reply_to_user_id": "2016851434722250752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098811273492451328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaiselX29705 @ToT888 @Xiongbaba888 是的，就是这个意思，互相在意和尊重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2098723003718938983",
+        "created_at": "2026-09-12T16:58:02.000Z",
+        "display_text_range": [
+          36,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098818429352661099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016851434722250752",
+              "start": 0,
+              "username": "MaiselX29705"
+            },
+            {
+              "end": 21,
+              "id": "2046244035690708992",
+              "start": 14,
+              "username": "ToT888"
+            },
+            {
+              "end": 35,
+              "id": "2075150602040918016",
+              "start": 22,
+              "username": "Xiongbaba888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098818429352661099",
+        "in_reply_to_user_id": "2016851434722250752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098811273492451328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaiselX29705 @ToT888 @Xiongbaba888 是的，就是这个意思，互相在意和尊重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016851434722250752",
+        "conversation_id": "2098723003718938983",
+        "created_at": "2026-09-12T16:29:36.000Z",
+        "display_text_range": [
+          31,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098811273492451328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            },
+            {
+              "end": 16,
+              "id": "2046244035690708992",
+              "start": 9,
+              "username": "ToT888"
+            },
+            {
+              "end": 30,
+              "id": "2075150602040918016",
+              "start": 17,
+              "username": "Xiongbaba888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098811273492451328",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098810018636435650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX @ToT888 @Xiongbaba888 都可以的 不用拘泥于何种形式 都是表达对彼此的尊重在意"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098818429352661099",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12174,
+          "following_count": 5,
+          "like_count": 1230,
+          "listed_count": 36,
+          "media_count": 170,
+          "tweet_count": 3752
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-29T12:30:45.000Z",
+        "description": "",
+        "id": "2016851434722250752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098812723052282157",
+        "name": "Maisel x",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098646838895407104/Mnrt22sd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 32,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "MaiselX29705",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T15:08:20.000Z",
+        "description": "不加任何联系方式 无论如何\n不处不约不卖不聊骚不见面\n06 最爱吐黑水之人\n我他妈爱说啥说啥 再说一百遍也是我06高三 再私信问我一律骂回去",
+        "id": "2046244035690708992",
+        "is_identity_verified": false,
+        "location": "无🚪无🚪喜欢我的可以我口令🥰",
+        "most_recent_tweet_id": "2098818212318294409",
+        "name": "ToT（高三版",
+        "pinned_tweet_id": "2088701009141154061",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046244035690708992/1786970302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089328340079714304/mQDix_Ni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 36,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 393
+        },
+        "url": "",
+        "username": "ToT888",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T09:31:23.000Z",
+        "description": "会回复神秘数字和礼貌的消息哦",
+        "id": "2075150602040918016",
+        "is_identity_verified": false,
+        "location": "有🚪",
+        "most_recent_tweet_id": "2098776945698001391",
+        "name": "胸巴巴",
+        "pinned_tweet_id": "2079486821638213671",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075150602040918016/1783660717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075150924583219200/GsusaXDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 9,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "Xiongbaba888",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
