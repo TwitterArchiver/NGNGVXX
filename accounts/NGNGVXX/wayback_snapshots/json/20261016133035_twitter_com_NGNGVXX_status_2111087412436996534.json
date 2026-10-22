@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2111028076021002686",
+    "created_at": "2026-10-16T13:30:35.000Z",
+    "display_text_range": [
+      17,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-16T14:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2111087412436996534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755119748634030080",
+          "start": 0,
+          "username": "mngxing92684316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2111087412436996534",
+    "in_reply_to_user_id": "1755119748634030080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2111083897295654992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mngxing92684316 别说你了，我也以为是吊颈要吊一百年的意思😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2111028076021002686",
+        "created_at": "2026-10-16T13:30:35.000Z",
+        "display_text_range": [
+          17,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-16T14:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2111087412436996534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755119748634030080",
+              "start": 0,
+              "username": "mngxing92684316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111087412436996534",
+        "in_reply_to_user_id": "1755119748634030080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2111083897295654992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mngxing92684316 别说你了，我也以为是吊颈要吊一百年的意思😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755119748634030080",
+        "conversation_id": "2111028076021002686",
+        "created_at": "2026-10-16T13:16:37.000Z",
+        "display_text_range": [
+          9,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-16T14:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2111083897295654992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2363856960",
+              "start": 0,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2111083897295654992",
+        "in_reply_to_user_id": "2363856960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2111028076021002686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NGNGVXX 拉勾上吊100年，原来不是这个上吊吗…我以为是所有人吊着100年呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2111087412436996534",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13105,
+          "following_count": 5,
+          "like_count": 1268,
+          "listed_count": 36,
+          "media_count": 174,
+          "tweet_count": 3959
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-07T06:42:20.000Z",
+        "description": "名字:木也春/Kiharu\n来自:🇨🇳 年龄:🚫 性取向:Aego \n性别:无性别者 性格：话唠 熟了会比较毒舌\n介绍:喜欢聊天 请不要冷落我\n会在推特上发：碎碎念，游戏，各种各样的东西\n喜欢看漫画打游戏 风景照片 无任何信仰 \n游戏：崩铁，原神，光遇，星露谷，新世界狂欢\n不喜欢:侮辱 嘲讽 种族歧视者",
+        "id": "1755119748634030080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2111086995032379667",
+        "name": "명상",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755119748634030080/1708691624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761007493105557504/pSWt3eAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 12,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "mngxing92684316",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2107688409821245638",
+    "created_at": "2026-10-07T04:24:10.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T05:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107688409821245638"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2107688409821245638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我希望大家不要因为「拥有长久关系的秘诀是不太在乎对方」这一点而感到失望，因为绝大多数人对“在乎”的理解都是不健康的，很自我视角的，在通过对方来确认自己。就像爸妈“在乎”孩子一样，所谓在乎就是不停控制、干预还有密切关注。把自己在乎好，心里珍重对方，才是可以持续的相处模式。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2107688409821245638",
+        "created_at": "2026-10-07T04:24:10.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107688409821245638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107688409821245638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望大家不要因为「拥有长久关系的秘诀是不太在乎对方」这一点而感到失望，因为绝大多数人对“在乎”的理解都是不健康的，很自我视角的，在通过对方来确认自己。就像爸妈“在乎”孩子一样，所谓在乎就是不停控制、干预还有密切关注。把自己在乎好，心里珍重对方，才是可以持续的相处模式。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107688409821245638",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13075,
+          "following_count": 5,
+          "like_count": 1240,
+          "listed_count": 36,
+          "media_count": 171,
+          "tweet_count": 3905
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

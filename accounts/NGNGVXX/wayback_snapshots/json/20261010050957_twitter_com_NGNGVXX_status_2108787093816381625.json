@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108787087134932992"
+      ]
+    },
+    "author_id": "2363856960",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2108787093816381625",
+    "created_at": "2026-10-10T05:09:57.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T06:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108787093816381625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K3KMRzRYHU",
+          "end": 44,
+          "expanded_url": "https://x.com/NGNGVXX/status/2108787093816381625/photo/1",
+          "media_key": "3_2108787087134932992",
+          "start": 21,
+          "url": "https://t.co/K3KMRzRYHU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108787093816381625",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108787087134932992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "事实上，很多家庭为了赚钱，放弃了这十二年 https://t.co/K3KMRzRYHU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 869,
+        "media_key": "3_2108787087134932992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUPqrtObwAA8PUo.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108787087134932992"
+          ]
+        },
+        "author_id": "2363856960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108787093816381625",
+        "created_at": "2026-10-10T05:09:57.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T06:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108787093816381625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3KMRzRYHU",
+              "end": 44,
+              "expanded_url": "https://x.com/NGNGVXX/status/2108787093816381625/photo/1",
+              "media_key": "3_2108787087134932992",
+              "start": 21,
+              "url": "https://t.co/K3KMRzRYHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108787093816381625",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108787087134932992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事实上，很多家庭为了赚钱，放弃了这十二年 https://t.co/K3KMRzRYHU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108787093816381625",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13106,
+          "following_count": 5,
+          "like_count": 1240,
+          "listed_count": 37,
+          "media_count": 173,
+          "tweet_count": 3926
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

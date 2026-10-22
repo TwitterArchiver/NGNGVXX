@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2110745492477071362",
+    "created_at": "2026-10-15T14:51:55.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T15:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2110745492477071362"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2110745492477071362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不想长大，不想暧昧，不想谈恋爱，我想有人陪我出去玩。像小时候那样，一起在小花园里玩到天黑然后回家吃饭，两个分享一根旺旺碎碎冰，123木头人和老鹰捉小鸡像小时候一样一呼百应，我明天会带巧克力来，我们还一起出去玩好吗?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2110745492477071362",
+        "created_at": "2026-10-15T14:51:55.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T15:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110745492477071362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2110745492477071362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想长大，不想暧昧，不想谈恋爱，我想有人陪我出去玩。像小时候那样，一起在小花园里玩到天黑然后回家吃饭，两个分享一根旺旺碎碎冰，123木头人和老鹰捉小鸡像小时候一样一呼百应，我明天会带巧克力来，我们还一起出去玩好吗?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110745492477071362",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13115,
+          "following_count": 5,
+          "like_count": 1268,
+          "listed_count": 36,
+          "media_count": 174,
+          "tweet_count": 3956
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

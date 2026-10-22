@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2363856960",
+    "conversation_id": "2105251447936033171",
+    "created_at": "2026-09-30T11:00:33.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T12:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105251447936033171"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2105251447936033171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "特别讨厌别人漠视我的情绪，其实我是一个情感很浓烈的人，喜欢一个人就会很依赖，但是如果对方一直漠视我的情绪让我被迫自我消化，我的爱意就会消失殆尽，我觉得一直在消耗我自己的精神力，我好累，我不想这样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2105251447936033171",
+        "created_at": "2026-09-30T11:00:33.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105251447936033171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105251447936033171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特别讨厌别人漠视我的情绪，其实我是一个情感很浓烈的人，喜欢一个人就会很依赖，但是如果对方一直漠视我的情绪让我被迫自我消化，我的爱意就会消失殆尽，我觉得一直在消耗我自己的精神力，我好累，我不想这样。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤\nhttps://t.co/t8u2Ct34sp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/NGNGVXX/status…",
+                "end": 48,
+                "expanded_url": "https://x.com/NGNGVXX/status/2068229448818987065",
+                "start": 25,
+                "url": "https://t.co/t8u2Ct34sp"
+              }
+            ]
+          }
+        },
+        "id": "2363856960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105251447936033171",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "2068229448818987065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363856960/1729052742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12922,
+          "following_count": 5,
+          "like_count": 1238,
+          "listed_count": 36,
+          "media_count": 171,
+          "tweet_count": 3869
+        },
+        "url": "",
+        "username": "NGNGVXX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
